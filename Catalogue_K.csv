@@ -1,0 +1,85 @@
+﻿;;;LOD1;KBOB Keyword
+ROOF;C4.4. Roof;C04.04;Construction flat roof;roof
+ROOF;F1. Roof covering;F01.01;Roof waterproofing under;vapor barrier
+ROOF;F1. Roof covering;F01.02;terrain roofing flat roof;Sealing membrane
+ROOF;F1. Roof covering;F01.03;Roofing pitched roof;roof covering
+ROOF;F1. Roof covering;F01.04;system roof;systems
+ROOF;G4. Interior Roof finishing;G04.01;Substructure for ceiling cladding;metal
+ROOF;G4. Interior Roof finishing;G04.02;Ceiling cladding;cladding
+;;;;
+INTERIOR WALL;C2.2. Interior wall;C02.02;interior wall construction;wall
+INTERIOR WALL;G3. Interior wall finishing;G03.01;Substructure for wall cladding;metal
+INTERIOR WALL;G3. Interior wall finishing;G03.02;cladding;cladding
+;;;;
+PARTITION WALL;G1. Partition wall;G01.01;inner gate Fixed partition;wall
+PARTITION WALL;G1. Partition wall;G01.02;Movable partition;wall
+PARTITION WALL;G1. Partition wall;G01.03;shaft front;metal - steel
+PARTITION WALL;G1. Partition wall;G01.04;interior window;window
+PARTITION WALL;G1. Partition wall;G01.05;inner door;door -interior door
+PARTITION WALL;G1. Partition wall;G01.06;inner gate;door -interior door
+PARTITION WALL;G3. Interior wall finishing;G03.01;Substructure for wall cladding;metal
+PARTITION WALL;G3. Interior wall finishing;G03.02;cladding;cladding
+;;;;
+CEILING;C4.1. Ceiling;C04.01;floor;floor slab
+CEILING;G4. Interior Ceiling finishing;G04.01;Substructure for ceiling cladding;metal
+CEILING;G4. Interior Ceiling finishing;G04.02;Ceiling cladding;cladding
+CEILING;G2. Floor covering;G02.01;Substructure to flooring;metal, wood, plastics
+CEILING;G2. Floor covering;G02.02;flooring;flooring
+;;;;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.01;Plant generation of heavy current;tube
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.02;transformation of heavy current;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.03;storage of heavy current;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.04;Installation Heavy current Consumers;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.05;Heavy current: Luminaires Consumers;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.06;Heavy current: Electrical equipment;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.07;Plant Generation Weak current;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.08;Transformation Weak current Storage;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.09;Weak current;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.10;Installation low current;
+TECHNICAL EQUIPMENT;D1. Electric equipment;D01.11;consumer low current;
+TECHNICAL EQUIPMENT;D5.2. Heat generation;D05.02;generation;
+TECHNICAL EQUIPMENT;D5.3/D5.4. Heat distribution and delivery;D05.03;heat storage;
+TECHNICAL EQUIPMENT;D5.3/D5.4. Heat distribution and delivery;D05.04;heat distribution;
+TECHNICAL EQUIPMENT;D7. Ventilation equipment ;D07.01;Outside air supply, exhaust air duct,;
+TECHNICAL EQUIPMENT;D7. Ventilation equipment ;D07.02;air treatment;
+TECHNICAL EQUIPMENT;D7. Ventilation equipment ;D07.03;air heat storage;
+TECHNICAL EQUIPMENT;D7. Ventilation equipment ;D07.04;air distribution;
+TECHNICAL EQUIPMENT;D7. Ventilation equipment ;D07.05;air delivery;
+TECHNICAL EQUIPMENT;D7. Ventilation equipment ;D07.06;Air: investment share;
+TECHNICAL EQUIPMENT;D8 Water (sanitary) equipment;D08.01;water supply;
+TECHNICAL EQUIPMENT;D8 Water (sanitary) equipment;D08.02;water treatment;
+TECHNICAL EQUIPMENT;D8 Water (sanitary) equipment;D08.03;water-tank;
+TECHNICAL EQUIPMENT;D8 Water (sanitary) equipment;D08.04;water distribution;
+TECHNICAL EQUIPMENT;D8 Water (sanitary) equipment;D08.05;Water: fitting, apparatus;
+TECHNICAL EQUIPMENT;D8 Water (sanitary) equipment;D08.06;Water: installation element;
+;;;;
+EXTERIOR WALL UNDER GROUND;C2.1A. Exterior wall under ground;C02.01;exterior wall construction;wall
+EXTERIOR WALL UNDER GROUND;C2.1A. Exterior wall under ground;C02.02;interior wall construction;wall
+EXTERIOR WALL UNDER GROUND;E1. Exterior wall finishing under ground;E01.01;Waterproofing of walls under terrain ;vapor barrier
+EXTERIOR WALL UNDER GROUND;E1. Exterior wall finishing under ground;E01.02;External thermal insulation under terrain;insulation
+EXTERIOR WALL UNDER GROUND;E1. Exterior wall finishing under ground;E01.03; Protective layer under terrain;sealing membrane
+;;;;
+WINDOW;E3. Window;E03.01;window;window
+;;;;
+BALCONY;C4.3. Balcony;C04.03;Internal platform;platform
+;;;;
+EXTERIOR WALL ABOVE GROUND;C2.1B. Exterior wall above ground;C02.01;exterior wall construction;wall
+EXTERIOR WALL ABOVE GROUND;E2. Exterior wall finishing above ground;E02.01;Outer coating;coating
+EXTERIOR WALL ABOVE GROUND;E2. Exterior wall finishing above ground;E02.02;external thermal insulation system;insulation
+EXTERIOR WALL ABOVE GROUND;E2. Exterior wall finishing above ground;E02.03;facade cladding;cladding
+EXTERIOR WALL ABOVE GROUND;E2. Exterior wall finishing above ground;E02.04;system facade;system facade
+EXTERIOR WALL ABOVE GROUND;E2. Exterior wall finishing above ground;E02.05;Façade cladding from below;façade panel
+EXTERIOR WALL ABOVE GROUND;E2. Exterior wall finishing above ground;E02.06;External fall protection;
+EXTERIOR WALL ABOVE GROUND;G3. Interior Wall Finishing;G03.01;Substructure for wall cladding;metal
+EXTERIOR WALL ABOVE GROUND;G3. Interior Wall Finishing;G03.02;cladding;cladding
+;;;;
+COLUMN;C3. Column;C03.01;outside support;wood, column, reinforcement
+COLUMN;C3. Column;C03.02;interior support;wood, column, reinforcement
+;;;;
+FOUNDATION;C1. Base slab;C01.01;substructure of foundation, floor slab;metal-steel
+FOUNDATION;C1. Base slab;C01.02;foundation;foundation
+FOUNDATION;C1. Base slab;C01.03;bottom plate;floor slab
+FOUNDATION;C1. Base slab;C01.04;Earthbound Staircase, Ramp;staircase
+FOUNDATION;C1. Base slab;C01.05;Earthbound Landing;
+FOUNDATION;G2. Floor covering;G02.01;Substructure to flooring;metal, wood, plastics
+FOUNDATION;G2. Floor covering;G02.02;flooring;flooring

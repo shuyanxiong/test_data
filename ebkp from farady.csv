@@ -1,0 +1,66 @@
+﻿Element;EBKP2;KBOB id
+Polyethylen film;C01.02;9.007
+Foam glass gravel;C01.02;10.013
+Ground insulation (PIR);C01.02;10.006
+Concrete;C01.03;1.003
+Steel armature;C01.03;6.003
+Concrete;C01.03;1.003
+Steel armature;C01.03;6.003
+Steel armature;C01.04;6.003
+Concrete;C01.04;1.003
+Construction wood;C02.01;07.008.01
+Steel armature;C02.01;6.003
+Concrete;C02.01;1.003
+Construction wood;C02.01;07.009.01
+Wood beam;C03.02;07.009.01
+Construction wood;C04.01;07.009.01
+Galvanized steel;C04.02;6.011
+Galvanized steel;C04.03;6.011
+Galvanized steel;C04.03;6.011
+Construction wood;C04.04;07.009.01
+PV panels (reused);D01.01;34.026
+PV panels (new);D01.01;34.026
+Insulated steel pipes under ground floor;D05.03;13.005
+Pipes in building;D05.03;13.005
+Heat emitters;D05.04;13.005
+Sealing;E02.02;13.003
+Rock wool panel;E02.02;10.008.01
+Rock wool panel;E02.02;10.008.01
+XPS perimeter insulation;E02.02;10.005
+Sealing;E02.02;13.003
+Low density fiberboard;E02.02;10.009
+Construction wood;E02.03;07.009.01
+OSB panel;E02.03;7.013
+OSB panel;E02.03;7.013
+Laminated wood facade panel;E02.04;5.023
+Galvanized steel;E02.04;6.011
+Steel;E02.04;6.012
+Steel;E02.04;6.012
+Triple glazing;E03.01;5.012
+Wood aluminium frame;E03.01;5.006
+Aluminium and glass external doors;E03.02;12.002
+Wood doors;E03.02;12.003
+Vapor barrier;F01.01;9.002
+Sealing;F01.01;9.003
+Stone slab;F01.01;11.015.02
+Wood wool;F01.02;7.005
+Glued laminated timber;F01.02;07.002.01
+OSB panel;F01.02;7.013
+Rock wool panel;F01.02;10.008.01
+Construction wood;G01.01;07.009.01
+Glass wool;G01.01;10.001.01
+Medium density fiberboard;G01.01;7.012
+Wood internal doors, metal frame;G01.04;12.003
+Wood wool;G02.01;7.005
+Glued laminated timber;G02.02;07.002.01
+Wood floor cladding;G02.02;07.009.01
+Wood floor cladding (reused);G02.02;07.008.01
+Stone floor cladding;G02.02;11.008
+Glued laminated timber;G03.02;7.017
+Plaster panel;G03.02;3.008
+OSB panel;G03.02;7.013
+Stone wall cladding;G03.02;11.008
+Dressing;G05.01;7.012
+Kitchen;G05.02;21.01
+Roof edge finishes;I04.02;6.007
+Rock slab external ground level;I04.03;11.015.02
