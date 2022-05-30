@@ -1,4 +1,4 @@
-﻿KBOB_ID;Construction_Type;Material_Category;CONSTRUCTION MATERIALS;Type;Density/ mass per unit area;Relation;UBP;renewable primary energy kWh oil eq;non-renewable (embodied energy) primary energy kWh oil eq;greenhouse gas emissions kg CO2-eq;biogenic carbon kg C
+﻿KBOB_ID;Construction_Type;Material_Category;CONSTRUCTION_MATERIALS;Type;Density/mass per unit area;Relation;UBP;renewable primary energy kWh oil eq;non-renewable (embodied energy) primary energy kWh oil eq;greenhouse gas emissions kg CO2-eq;biogenic carbon kg C
 0.001;Excavation securing;concrete;Construction pit securing, bored pile wall, sprouted;Disposal, construction pit securing, bored pile wall, sprouted;-;m2;1’390’000;134;2230;911;0
 0.002;Excavation securing;concrete;Excavation securing, bored pile wall, unanchored;Disposal, construction pit securing, bored pile wall, unanchored;-;m2;1’320’000;120;2040;872;0
 0.003;Excavation securing;concrete;Construction pit securing, bored pile wall, anchored;Disposal, construction pit securing, bored pile wall, anchored;-;m2;1’000’000;111;1570;620;0
