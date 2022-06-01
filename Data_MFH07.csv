@@ -1,0 +1,48 @@
+﻿Item;Composition;GHG kg CO2/m2a;Category
+Floor1;Flooring of polyurethane (PU);0.26679098;Floor
+Floor1;Cement cast plaster floor;0.327182517;Floor
+Floor1;Glass wool mat;0.025428489;Floor
+Floor1;Polyurethane(PU/PIR)(30 kg/m3);0.126917414;Floor
+Floor1;Concrete floor slab (FE 80 kg/m3);0.28645024;Floor
+Floor1;Lean concrete;0.049872468;Floor
+Floor2;Cement cast plaster floor;0.012046077;Floor
+Floor2;Polyurethane (PU/PIR);0.078580839;Floor
+Floor2;Concrete floor slab (FE 80 kg/m3);0.010546412;Floor
+Floor2;Lean concrete;0.001836185;Floor
+Ceilling1;Solid Spruce / Fir / Larch (parquet);0.020187672;Ceilling
+Ceilling1;Cement cast plaster floor;0.845908035;Ceilling
+Ceilling1;Glass wool mat;0.061876348;Ceilling
+Ceilling1;Vapour barrier of polyethylene (PE);0.017164971;Ceilling
+Ceilling1;Expanded polystyrene (EPS) (30kg/m3);0.078440592;Ceilling
+Ceilling1;Concrete slab (FE 80 kg/mR);0.122871758;Ceilling
+Ceiling2;Solid Spruce / Fir / Larch (parquet);0.003177364;Ceilling
+Ceiling2;Cement cast plaster floor;0.133138569;Ceilling
+Ceiling2;Vapour barrier of polyethylene (PE);0.002701617;Ceilling
+Ceiling2;Polyurethane (PU/PIR)(30 kg/m 3);0.072911718;Ceilling
+Ceiling2;Glass wool mat;0.009738799;Ceilling
+Ceiling2;Concrete slab (FE 80 kg/m3);0.122871758;Ceilling
+External Wall1;Gypsum platser;0.016052377;External Wall
+External Wall1;Concrete wall (FE 60 kg/m3);0.096196414;External Wall
+External Wall1;Expanded polystyrene (EPS) (30kg/m3);0.109134737;External Wall
+External Wall1;Clinker quarter brick;0.033783201;External Wall
+External Wall2;Concrete wall (FE 60 kg/m3);0.055312938;External Wall
+External Wall2;Extruded polystyrene (XPS) (30kg/m3);0.071458969;External Wall
+Internal Wall1;Gypsum platser;0.022072018;Internal Wall
+Internal Wall1;Concrete wall (FE 60 kg/mR);0.165337586;Internal Wall
+Internal Wall1;Gypsum platser;0.022072018;Internal Wall
+Internal Wall2;Gypsum platser;0.481410788;Internal Wall
+Internal Wall2;Masonry-BN (standard brick);0.508386392;Internal Wall
+Internal Wall2;Gypsum platser;0.048141079;Internal Wall
+Column;Reinforced concrete;0.016428778;Column
+Roof1;Gypsum plaster;0.010327029;Roof
+Roof1;Concrete slab (FE 80 kg/m3);0.131017952;Roof
+Roof1;Vapour barrier of polyethylene (PE);0.002938896;Roof
+Roof1;Polyurethane (PU/PIR)(30 kg/m3);0.142533681;Roof
+Roof1;Non-woven polyethylene (PE);0.002816442;Roof
+Roof1;Substrate for vegetation;#N/A;Roof
+Roof2;Fibre cement board;0.001792452;Roof
+Exterior door;Metal with glass insert;0.167398259;Door
+Windows;Tripple Glazing;0.511024477;Windows
+Windows;Wood/Aluminium;0.73175545;Windows
+Excavation without groundwater;;0.312417231;Construction - Preparatory Work
+Backfill with extraneous material;;0.716405029;Construction - Preparatory Work

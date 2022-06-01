@@ -1,0 +1,1441 @@
+﻿Building components;Building element;Level 3: Material;Unit;Quantity ;Repl (year);KBOB ID;GWP [kg CO2 eq];GWP [kg CO2 eq];GHG from KBOB
+Building components;Building element;Level 3: Material;Unit;Quantity ;Repl (year);KBOB ID;GWP [kg CO2 eq];A1-A3; [kg CO2 eq]
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;NaturalAggregate;kg;55243.35;50;04.010;0.427;8475.88728;0.112215929
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;lean concrete;kg;60282.40009;50;1.001;0.0591;2970.705194;0.016948241
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;XPS;kg;1318.556128;50;10.005;14.5;5473.131586;0.090952209
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;Geotextile;kg;2282.191041;50;09.005;5.55;2270.850562;0.060254794
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;ConcreteFoundation;kg;285067.4836;50;1.002;0.0992;29648.15576;0.134525923
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;ReinforcingSteel;kg;21686.31999;50;06.003;0.682;8736.327067;0.070358547
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;LightweightAggregate;kg;15494.18109;50;04.010;0.427;19505.5293;0.031473362
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;Rockwool;kg;701.8340204;50;10.008;1.13;764.5139954;0.003772763
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;PE;kg;42.92583258;50;4.003;0.951;86.70683767;0.000194199
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;CementMortar;kg;35788.49461;50;4.009;0.269;6852.219591;0.04579756
+Foundation;EF01_Erdanlieg. Boden / Foyer u. Stiegenhaus / 6kN/m²+5kN;FlowingMortar;kg;2403.595167;50;04.011;0.975;1176.020941;0.011148401
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;NaturalAggregate;kg;139752;50;04.010;0.427;21441.89661;0.283878521
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;lean concrete;kg;152499.5493;50;1.001;0.0591;7515.148743;0.042874855
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;XPS;kg;3335.620594;50;10.005;14.5;13845.66804;0.230086574
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;Geotextile;kg;5773.378378;50;09.005;5.55;5744.689773;0.152429713
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;ConcreteFoundation;kg;721150.165;50;1.002;0.0992;75002.49466;0.340317284
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;ReinforcingSteel;kg;54861.02111;50;06.003;0.682;22100.7448;0.177989707
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;LightweightAggregate;kg;4790.676314;50;04.010;0.427;6030.952954;0.009731311
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;Rockwool;kg;1775.466333;50;10.008;1.13;1934.031153;0.009544156
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;PE;kg;108.5917301;50;4.003;0.951;219.346835;0.000491274
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;CementMortar;kg;90536.03191;50;4.009;0.269;17334.4193;0.115856489
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;Rubber;kg;1431.199485;20;08.003;5.21;3456.862449;0.088679764
+Foundation;EF02_Erdanlieg. Boden / Labors / 5kN/m²+5kN;Polyvinyl chloride (PVC);kg;256.62;20;13.004;4.42;502.4447558;0.01348961
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;NaturalAggregate;kg;2810.7;50;04.010;0.427;431.2406177;0.005709381
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;lean concrete;kg;3067.079421;50;1.001;0.0591;151.1450897;0.000862301
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;XPS;kg;67.08618699;50;10.005;14.5;278.464846;0.004627514
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;Geotextile;kg;116.1145072;50;09.005;5.55;115.5375204;0.003065675
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;ConcreteFoundation;kg;14503.81224;50;1.002;0.0992;1508.454346;0.00684448
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;ReinforcingSteel;kg;1103.367909;50;06.003;0.682;444.4914091;0.003579739
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;LightweightAggregate;kg;105.1094712;50;04.010;0.427;132.321667;0.000213509
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;Rockwool;kg;35.70827767;50;10.008;1.13;38.89734216;0.000191953
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;PE;kg;2.184002919;50;4.003;0.951;4.411515751;9.88053E-06
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;CementMortar;kg;2007.718084;50;4.009;0.269;384.4063668;0.002569222
+Foundation;EF03_Erdanlieg. Boden / Sanitär m. FBH / 3kN/m²+3kN;Epoxy Resin;kg;27.10107198;30;FALSE;#N/A;109.1306255;#N/A
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;NaturalAggregate;kg;5378.4;50;04.010;0.427;825.1981849;0.010925155
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;lean concrete;kg;5868.993474;50;1.001;0.0591;289.2228805;0.001650052
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;XPS;kg;128.3724154;50;10.005;14.5;532.8549214;0.008854955
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;Geotextile;kg;222.1902962;50;09.005;5.55;221.0862061;0.005866306
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;ConcreteFoundation;kg;27753.6926;50;1.002;0.0992;2886.494771;0.013097219
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;ReinforcingSteel;kg;2111.34378;50;06.003;0.682;850.5541662;0.00684999
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;LightweightAggregate;kg;268.1755576;50;04.010;0.427;337.6045605;0.000544746
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;Rockwool;kg;68.32938436;50;10.008;1.13;74.4318017;0.00036731
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;PE;kg;4.179187141;50;4.003;0.951;8.441632445;1.89068E-05
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;CementMortar;kg;1874.935499;50;4.009;0.269;358.9832403;0.002399304
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;Epoxy Resin;kg;24.34150077;30;FALSE;#N/A;98.01838122;#N/A
+Foundation;EF04_Erdanlieg. Boden / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;Rubber;kg;29.54183045;20;08.003;5.21;71.35416513;0.001830466
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;NaturalAggregate;kg;5229.9;50;04.010;0.427;802.4140985;0.010623506
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;lean concrete;kg;5706.947971;50;1.001;0.0591;281.237309;0.001604494
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;XPS;kg;124.8279963;50;10.005;14.5;518.1425616;0.008610465
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;Geotextile;kg;216.0555239;50;09.005;5.55;214.9819183;0.005704335
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;ConcreteFoundation;kg;26987.40088;50;1.002;0.0992;2806.797375;0.012735599
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;ReinforcingSteel;kg;2053.048646;50;06.003;0.682;827.0699899;0.006660859
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;LightweightAggregate;kg;1548.328477;50;04.010;0.427;1949.1812;0.003145123
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;Rockwool;kg;66.44277987;50;10.008;1.13;72.37670678;0.000357168
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;PE;kg;4.063797938;50;4.003;0.951;8.208555244;1.83848E-05
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;CementMortar;kg;5544.696164;50;4.009;0.269;1061.611451;0.007095396
+Foundation;EF05_Erdanlieg. Boden / Lager / 5kN/m²+5kN;FlowingMortar;kg;227.548879;50;04.011;0.975;111.3341591;0.001055422
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;NaturalAggregate;kg;27783;50;04.010;0.427;4262.695443;0.056435664
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;lean concrete;kg;30317.24038;50;1.001;0.0591;1494.027832;0.008523614
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;XPS;kg;663.1285919;50;10.005;14.5;2752.548765;0.045741709
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;Geotextile;kg;1147.760114;50;09.005;5.55;1142.056757;0.030303357
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;ConcreteFoundation;kg;143366.2133;50;1.002;0.0992;14910.65823;0.067655813
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;ReinforcingSteel;kg;10906.48971;50;06.003;0.682;4393.675889;0.035384739
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;LightweightAggregate;kg;1385.304462;50;04.010;0.427;1743.951269;0.002813972
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;Rockwool;kg;352.9665487;50;10.008;1.13;384.4895781;0.001897399
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;PE;kg;21.58827093;50;4.003;0.951;43.60662543;9.76664E-05
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;CementMortar;kg;29455.30384;50;4.009;0.269;5639.639561;0.037693148
+Foundation;EF06_Erdanlieg. Boden / Server, NSHV, HT / 5kN/m²+5kN;rubber sealant;kg;1.552738796;12;08.003;5.21;8.766715038;0.000160351
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;NaturalAggregate;kg;25895.7;50;04.010;0.427;3973.130417;0.052601988
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;lean concrete;kg;28257.78936;50;1.001;0.0591;1392.538477;0.007944605
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;XPS;kg;618.0822473;50;10.005;14.5;2565.568048;0.042634473
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;Geotextile;kg;1069.792736;50;09.005;5.55;1064.476809;0.028244849
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;ConcreteFoundation;kg;133627.3422;50;1.002;0.0992;13897.77678;0.063059951
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;ReinforcingSteel;kg;10165.61154;50;06.003;0.682;4095.213357;0.032981053
+Foundation;EF07_Erdanlieg. Boden / Trafor., HT-Zentrale / 5kN/m²+5kN;rubber sealant;kg;1.447261204;12;08.003;5.21;8.171191829;0.000149458
+Foundation;EW01_Eranliegende Wände GU01;HDPE;kg;190.2120482;30;13.002;5.41;402.5925421;0.008158882
+Foundation;EW01_Eranliegende Wände GU01;Bituminous Sealing;kg;1768;30;09.003;3.25;1856.815645;0.045557617
+Foundation;EW01_Eranliegende Wände GU01;XPS;kg;2601.92584;40;10.005;14.5;10800.20956;0.224346634
+Foundation;EW01_Eranliegende Wände GU01;Geotextile;kg;22.51740263;40;09.005;5.55;22.40551097;0.000743135
+Foundation;EW01_Eranliegende Wände GU01;ConcreteFoundation;kg;281263.8902;50;1.002;0.0992;29252.56686;0.132730973
+Foundation;EW01_Eranliegende Wände GU01;ReinforcingSteel;kg;21396.96414;50;06.003;0.682;8619.760155;0.069419769
+Foundation;EW01_Eranliegende Wände GU01;Plaster;kg;425.359966;40;03.008;0.293;44.56210802;0.000741107
+External walls;;gypsum-lime plaster;kg;5423.393938;45;04.017;0.155;3088.692403;0.004443314
+External walls;;EPS;kg;6782.121042;40;04.007;0.767;25493.92877;0.030932679
+External walls;;CementMortar;kg;3972.920198;45;4.009;0.269;760.6724426;0.005648931
+External walls;;lean concrete (without reinforcement);kg;865784.0686;50;1.001;0.0591;70842.81055;0.243412961
+External walls;;ReinforcingSteel;kg;51326.91038;50;06.003;0.682;20677.02942;0.166523728
+External walls;;Plaster;kg;1020.350958;40;03.008;0.293;106.8953198;0.001777763
+External walls;;Acrylic;kg;278.1789772;5;15.001;11.7;681.3583348;0.1548306
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;Safety Glass;kg;631.28;30;FALSE;#N/A;1206.442697;#N/A
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;Aluminium;kg;974.16;50;FALSE;#N/A;3856.901685;#N/A
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;Double Insulating Glazing;kg;389.88;30;FALSE;#N/A;686.0288587;#N/A
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;Glass Wool;kg;67.6931721;50;10.001;1.13;81.9103477;0.00036389
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;CementMortar;kg;315.9095424;50;4.009;0.269;60.48540402;0.000404261
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;lean concrete (without reinforcement);kg;34421.71443;50;1.001;0.0591;2816.557941;0.009677576
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;ReinforcingSteel;kg;2040.647681;50;06.003;0.682;822.0742651;0.006620626
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;Plaster;kg;40.56696186;40;03.008;0.293;4.249928251;7.068E-05
+External walls;AW03_Holz-Alu-P/R-Fassade / Shadow-Box;Acrylic;kg;11.05979846;5;15.001;11.7;27.08934349;0.006155732
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;Aluminium;kg;714;50;FALSE;#N/A;2826.874233;#N/A
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;Glass Wool;kg;59.8068279;50;10.001;1.13;72.3676837;0.000321496
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;Aluminium;kg;48.96;50;FALSE;#N/A;193.8428046;#N/A
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;lean concrete (without reinforcement);kg;30411.5391;50;1.001;0.0591;2488.425211;0.008550126
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;ReinforcingSteel;kg;1802.909523;50;06.003;0.682;726.3015244;0.005849314
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;Plaster;kg;35.84085707;40;03.008;0.293;3.754805981;6.24457E-05
+External walls;AW05_Hinterlüftetes Blechpaneel vor Stütze;Acrylic;kg;9.771317295;5;15.001;11.7;23.9333991;0.005438581
+External walls;AW08_Außenwand WDVS Dachgeschoss;gypsum-lime plaster;kg;714.6060623;45;04.017;0.155;406.9773173;0.000585467
+External walls;AW08_Außenwand WDVS Dachgeschoss;EPS;kg;297.8789584;40;04.007;0.767;1119.724184;0.001358601
+External walls;AW08_Außenwand WDVS Dachgeschoss;CementMortar;kg;523.4863797;45;4.009;0.269;100.2289609;0.000744324
+External walls;AW08_Außenwand WDVS Dachgeschoss;lean concrete (without reinforcement);kg;114078.8501;50;1.001;0.0591;9334.505749;0.032072975
+External walls;AW08_Außenwand WDVS Dachgeschoss;ReinforcingSteel;kg;6763.019935;50;06.003;0.682;2724.480417;0.021941771
+External walls;AW08_Außenwand WDVS Dachgeschoss;Plaster;kg;134.4451442;40;03.008;0.293;14.08491518;0.000234244
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;lean concrete (without reinforcement);kg;233718.3098;50;1.001;0.0591;19124.00856;0.065709301
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;ReinforcingSteel;kg;13855.69356;50;06.003;0.682;5581.761715;0.044953061
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;LightweightAggregate;kg;2419.865383;50;04.010;0.427;3046.353651;0.004915477
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;Rockwool;kg;896.8231697;50;10.008;1.13;976.9173974;0.004820942
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;PE;kg;54.85183123;50;4.003;0.951;110.7964258;0.000248152
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;CementMortar;kg;45731.54085;50;4.009;0.269;8755.958125;0.058521405
+Floor Structure + Finishing layers;DE01_Geschossdecke / Foyer, Teek., Lager EG / 6kN/m²+5kN;FlowingMortar;kg;3071.381229;50;04.011;0.975;1502.752499;0.014245739
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;lean concrete (without reinforcement);kg;482159.6663;50;1.001;0.0591;39452.73092;0.135557948
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;ReinforcingSteel;kg;28584.22426;50;06.003;0.682;11515.1456;0.092737933
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;LightweightAggregate;kg;4992.16979;50;04.010;0.427;6284.611852;0.010140605
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;Rockwool;kg;1850.141568;50;10.008;1.13;2015.375546;0.009945578
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;PE;kg;113.1590446;50;4.003;0.951;228.5724544;0.000511937
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;CementMortar;kg;94343.93263;50;4.009;0.269;18063.4964;0.120729356
+Floor Structure + Finishing layers;DE02_Geschossdecke / Labors EG / 5kN/m²+5kN;Rubber;kg;1777.817337;20;08.003;5.21;4294.069457;0.110156847
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;lean concrete (without reinforcement);kg;79533.05803;50;1.001;0.0591;6507.79515;0.022360514
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;ReinforcingSteel;kg;4715.016469;50;06.003;0.682;1899.442876;0.01529728
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;LightweightAggregate;kg;898.3275361;50;04.010;0.427;1130.899011;0.001824775
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;Rockwool;kg;305.1840023;50;10.008;1.13;332.4396284;0.00164054
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;PE;kg;18.66577711;50;4.003;0.951;37.70341559;8.44449E-05
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;CementMortar;kg;17159.14293;50;4.009;0.269;3285.36354;0.021958087
+Floor Structure + Finishing layers;DE03_Geschossdecke / Sanitär m. FBH / 3kN/m²+3kN;Epoxy Resin;kg;231.6217458;30;FALSE;#N/A;932.6946928;#N/A
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;lean concrete (without reinforcement);kg;77923.98189;50;1.001;0.0591;6376.13244;0.021908127
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;ReinforcingSteel;kg;4619.62443;50;06.003;0.682;1861.014224;0.014987793
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;LightweightAggregate;kg;806.8069055;50;04.010;0.427;1015.684252;0.001638869
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;Rockwool;kg;797.3590943;50;10.008;1.13;868.5703018;0.004286265
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;PE;kg;18.28813971;50;4.003;0.951;36.94061748;8.27364E-05
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;CementMortar;kg;8204.725275;50;4.009;0.269;1570.912101;0.010499363
+Floor Structure + Finishing layers;DE04_Geschossdecke / Sanitär o. FBH, EDV, PR / 3kN/m²+3kN;Epoxy Resin;kg;226.9356815;30;FALSE;#N/A;913.824844;#N/A
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;lean concrete;kg;56925.53822;50;1.001;0.0591;4657.93408;0.016004468
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;ReinforcingSteel;kg;3374.758331;50;06.003;0.682;1359.520314;0.01094898
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;LightweightAggregate;kg;642.9751321;50;04.010;0.427;809.4374401;0.001306077
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;Rockwool;kg;218.4344978;50;10.008;1.13;237.9426271;0.001174211
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;PE;kg;13.35997174;50;4.003;0.951;26.98610211;6.04411E-05
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;CementMortar;kg;12281.60303;50;4.009;0.269;2351.488707;0.015716432
+Floor Structure + Finishing layers;DE05_Geschossdecke / Seminarraum / 3kN/m²+3kN;FlowingMortar;kg;748.0801556;50;04.011;0.975;366.0175144;0.00346976
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;lean concrete;kg;594386.4697;50;1.001;0.0591;48635.69289;0.167110225
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;ReinforcingSteel;kg;35237.44796;50;06.003;0.682;14195.39464;0.114323484
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;LightweightAggregate;kg;6713.607475;50;04.010;0.427;8451.719168;0.013637365
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;Rockwool;kg;2280.777909;50;10.008;1.13;2484.471514;0.012260497
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;PE;kg;139.4977841;50;4.003;0.951;281.7746563;0.000631095
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;CementMortar;kg;156400;50;4.009;0.269;29945.01881;0.200140812
+Floor Structure + Finishing layers;DE06_Geschossdecke / Gang, Stiegenhaus RG / 5kN/m²+4kN;FlowingMortar;kg;7811.058739;50;04.011;0.975;3821.76199;0.0362294
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;lean concrete;kg;1382866.855;50;1.001;0.0591;113153.127;0.388789454
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;ReinforcingSteel;kg;81981.50755;50;06.003;0.682;33026.22408;0.265978727
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;LightweightAggregate;kg;16921.13556;50;04.010;0.427;21301.91351;0.034371937
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;Rockwool;kg;5306.332386;50;10.008;1.13;5780.234721;0.028524597
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;PE;kg;324.5478689;50;4.003;0.951;655.5614112;0.00146827
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;CementMortar;kg;298351.536;50;4.009;0.269;57123.67235;0.381792318
+Floor Structure + Finishing layers;DE07_Geschossdecke / Büro / 3kN/m²+3kN;Rubber;kg;5098.901552;20;08.003;5.21;12315.6845;0.315937361
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;lean concrete;kg;147498.6465;50;1.001;0.0591;12069.08171;0.041468864
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;ReinforcingSteel;kg;8744.270174;50;06.003;0.682;3522.626441;0.028369689
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;LightweightAggregate;kg;22213.33685;50;04.010;0.427;27964.23317;0.045121996
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;Rockwool;kg;565.9813463;50;10.008;1.13;616.528478;0.003042476
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;PE;kg;34.61676096;50;4.003;0.951;69.92316031;0.000156608
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;CementMortar;kg;15530.33923;50;4.009;0.269;2973.505756;0.019873751
+Floor Structure + Finishing layers;DE08_Geschossdecke / Sozialraum, Teek. RG / 3kN/m²+3kN;FlowingMortar;kg;1938.33583;50;04.011;0.975;948.3808082;0.008990426
+Internal walls + finishes;IW01_Tragende Stahlbetonwand / Labors;Acrylic;kg;207.3327219;5;15.001;11.7;507.830892;0.115398546
+Internal walls + finishes;IW01_Tragende Stahlbetonwand / Labors;Plaster;kg;760.4893205;50;03.008;0.293;79.67136064;0.001060004
+Internal walls + finishes;IW01_Tragende Stahlbetonwand / Labors;lean concrete;kg;537739.4358;50;1.001;0.0591;44000.54743;0.151184057
+Internal walls + finishes;IW01_Tragende Stahlbetonwand / Labors;ReinforcingSteel;kg;31879.2004;50;06.003;0.682;12842.52568;0.10342807
+Internal walls + finishes;IW01_Tragende Stahlbetonwand / Labors;Plaster;kg;760.4893205;50;03.008;0.293;79.67136064;0.001060004
+Internal walls + finishes;IW01_Tragende Stahlbetonwand / Labors;Acrylic;kg;207.3327219;5;15.001;11.7;507.830892;0.115398546
+Internal walls + finishes;IW02_Tragende Stahlbetonwand / Stiegenhaus;lean concrete;kg;786818.1205;50;1.001;0.0591;64381.41919;0.221211888
+Internal walls + finishes;IW02_Tragende Stahlbetonwand / Stiegenhaus;ReinforcingSteel;kg;46645.51431;50;06.003;0.682;18791.13051;0.151335525
+Internal walls + finishes;IW02_Tragende Stahlbetonwand / Stiegenhaus;Plaster;kg;185.4574719;50;03.008;0.293;19.42913428;0.000258499
+Internal walls + finishes;IW02_Tragende Stahlbetonwand / Stiegenhaus;Acrylic;kg;50.56139699;5;15.001;11.7;123.8426771;0.028141779
+Internal walls + finishes;IW03_Tragende Stahlbetonwand / Nebenräume;Acrylic;kg;72.35982146;5;15.001;11.7;177.2346996;0.040274483
+Internal walls + finishes;IW03_Tragende Stahlbetonwand / Nebenräume;lean concrete;kg;187672.8826;50;1.001;0.0591;15356.33993;0.052763747
+Internal walls + finishes;IW03_Tragende Stahlbetonwand / Nebenräume;ReinforcingSteel;kg;11125.94881;50;06.003;0.682;4482.084917;0.036096747
+Internal walls + finishes;IW03_Tragende Stahlbetonwand / Nebenräume;Acrylic;kg;13.42206181;5;15.001;11.7;32.8753588;0.007470535
+Internal walls + finishes;IW04_Nicht tragendes Mauerwerk / Labors;Acrylic;kg;4.078562774;5;15.001;11.7;9.989837365;0.002270072
+Internal walls + finishes;IW04_Nicht tragendes Mauerwerk / Labors;PlasterBoard;kg;168.75;50;03.008;0.293;28.86854375;0.000235211
+Internal walls + finishes;IW04_Nicht tragendes Mauerwerk / Labors;Concrete Block;kg;14335.04576;50;02.006;0.417;1545.211381;0.028436868
+Internal walls + finishes;IW04_Nicht tragendes Mauerwerk / Labors;PlasterBoard;kg;168.75;50;03.008;0.293;28.86854375;0.000235211
+Internal walls + finishes;IW04_Nicht tragendes Mauerwerk / Labors;Acrylic;kg;4.078562774;5;15.001;11.7;9.989837365;0.002270072
+Internal walls + finishes;IW05_Tragende Stahlbetonwand / Stiegenhaus;lean concrete;kg;138472.8556;50;1.001;0.0591;11330.54607;0.038931287
+Internal walls + finishes;IW05_Tragende Stahlbetonwand / Stiegenhaus;ReinforcingSteel;kg;8209.187613;50;06.003;0.682;3307.068603;0.02663368
+Internal walls + finishes;IW10a_Zwischenwand;Acrylic;kg;156.9383277;5;15.001;11.7;384.3972635;0.087349719
+Internal walls + finishes;IW10a_Zwischenwand;Plaster;kg;272.8403484;50;03.008;0.293;28.58365161;0.000380297
+Internal walls + finishes;IW10a_Zwischenwand;PlasterBoard;kg;13955.03053;50;03.008;0.293;2387.326869;0.019451139
+Internal walls + finishes;IW10a_Zwischenwand;Glass Wool;kg;387.6397368;50;10.001;1.13;469.0532979;0.002083787
+Internal walls + finishes;IW10a_Zwischenwand;Galvanized Steel;kg;4694.739889;50;06.011;3.51;3371.514471;0.078390833
+Internal walls + finishes;IW10b_Zwischenwand / EI90;Acrylic;kg;122.1585559;5;15.001;11.7;299.2093475;0.067991775
+Internal walls + finishes;IW10b_Zwischenwand / EI90;Plaster;kg;212.3750358;50;03.008;0.293;22.24910674;0.000296018
+Internal walls + finishes;IW10b_Zwischenwand / EI90;PlasterBoard;kg;12420;50;03.008;0.293;2124.72482;0.017311546
+Internal walls + finishes;IW10b_Zwischenwand / EI90;Glass Wool;kg;284.7997718;50;10.001;1.13;344.6144952;0.001530963
+Internal walls + finishes;IW10b_Zwischenwand / EI90;Galvanized Steel;kg;3654.318571;50;06.011;3.51;2624.338779;0.061018306
+Internal walls + finishes;IW12a_Zwischenwand;Acrylic;kg;954.1623123;5;15.001;11.7;2337.079713;0.531073643
+Internal walls + finishes;IW12a_Zwischenwand;Plaster;kg;1658.829819;50;03.008;0.293;173.7844637;0.00231215
+Internal walls + finishes;IW12a_Zwischenwand;PlasterBoard;kg;56643.43472;50;03.008;0.293;9690.153915;0.078952126
+Internal walls + finishes;IW12a_Zwischenwand;Glass Wool;kg;4984.728477;50;10.001;1.13;6031.639972;0.026795791
+Internal walls + finishes;IW12a_Zwischenwand;Galvanized Steel;kg;28543.33887;50;06.011;3.51;20498.31989;0.476604916
+Internal walls + finishes;IW12a_Zwischenwand;PlasterBoard;kg;2265.737389;50;03.008;0.293;387.6061566;0.003158085
+Internal walls + finishes;IW12a_Zwischenwand;gypsum fiber board;kg;1937.218298;50;03.007;0.537;2442.419399;0.004948795
+Internal walls + finishes;IW20_Sanitärwand;Acrylic;kg;18.4028027;5;15.001;11.7;45.07494826;0.010242747
+Internal walls + finishes;IW20_Sanitärwand;Plaster;kg;35.14333853;50;03.008;0.293;3.681731646;4.89843E-05
+Internal walls + finishes;IW20_Sanitärwand;PlasterBoard;kg;3594.969475;50;03.008;0.293;615.0016803;0.005010828
+Internal walls + finishes;IW20_Sanitärwand;Glass Wool;kg;99.86026319;50;10.001;1.13;120.8332927;0.000536807
+Internal walls + finishes;IW20_Sanitärwand;Galvanized Steel;kg;1209.416673;50;06.011;3.51;868.5392402;0.020194341
+Internal walls + finishes;IW20_Sanitärwand;Plaster;kg;3.514333853;50;03.008;0.293;0.368173165;4.89843E-06
+Internal walls + finishes;IW20_Sanitärwand;Acrylic;kg;15.05683857;10;15.001;11.7;36.87950312;0.004190215
+Internal walls + finishes;IW21_Sanitärwand;Acrylic;kg;6.10922748;5;15.001;11.7;14.96365076;0.003400312
+Internal walls + finishes;IW21_Sanitärwand;Plaster;kg;10.62101132;50;03.008;0.293;1.112692052;1.4804E-05
+Internal walls + finishes;IW21_Sanitärwand;PlasterBoard;kg;585;50;03.008;0.293;100.0776183;0.000815399
+Internal walls + finishes;IW21_Sanitärwand;Glass Wool;kg;24.375;50;10.001;1.13;29.49432953;0.00013103
+Internal walls + finishes;IW21_Sanitärwand;Galvanized Steel;kg;182.754808;50;06.011;3.51;131.2448601;0.003051565
+Internal walls + finishes;IW22_Sanitärwand;Acrylic;kg;0.687026916;5;15.001;11.7;1.682770999;0.00038239
+Internal walls + finishes;IW22_Sanitärwand;Plaster;kg;20.32153498;50;03.008;0.293;2.128950793;2.83251E-05
+Internal walls + finishes;IW22_Sanitärwand;PlasterBoard;kg;1233.620929;50;03.008;0.293;211.0390504;0.001719475
+Internal walls + finishes;IW22_Sanitärwand;Glass Wool;kg;61.06553726;50;10.001;1.13;73.89075195;0.000328262
+Internal walls + finishes;IW22_Sanitärwand;Galvanized Steel;kg;349.6708659;50;06.011;3.51;251.1151656;0.00583866
+Internal walls + finishes;IW23_Sanitärwand;Acrylic;kg;411.8570211;10;15.001;11.7;1008.782968;0.114616982
+Internal walls + finishes;IW23_Sanitärwand;Plaster;kg;50.85047603;50;03.008;0.293;5.327262994;7.08776E-05
+Internal walls + finishes;IW23_Sanitärwand;PlasterBoard;kg;5111.883522;50;03.008;0.293;874.5044923;0.007125169
+Internal walls + finishes;IW23_Sanitärwand;Glass Wool;kg;397.9559858;50;10.001;1.13;481.5362044;0.002139243
+Internal walls + finishes;IW23_Sanitärwand;Galvanized Steel;kg;874.9796707;50;06.011;3.51;628.3642314;0.01461005
+Internal walls + finishes;IW30_WC-Trennwand;MDF;kg;2718;30;07.012;1.04;2273.094656;0.022411874
+Internal walls + finishes;VS10a_Vorsatzschale allgemein;Acrylic;kg;77.48939683;5;15.001;11.7;189.7988372;0.043129534
+Internal walls + finishes;VS10a_Vorsatzschale allgemein;Plaster;kg;134.7168301;50;03.008;0.293;14.11337788;0.000187774
+Internal walls + finishes;VS10a_Vorsatzschale allgemein;PlasterBoard;kg;3150;50;03.008;0.293;538.8794833;0.004390609
+Internal walls + finishes;VS10a_Vorsatzschale allgemein;Glass Wool;kg;262.5;50;10.001;1.13;317.6312411;0.001411089
+Internal walls + finishes;VS10a_Vorsatzschale allgemein;Galvanized Steel;kg;2318.060653;50;06.011;3.51;1664.708849;0.038706022
+Internal walls + finishes;VS10b_Vorsatzschale EI90;Acrylic;kg;45.1233085;5;15.001;11.7;110.5228823;0.025115014
+Internal walls + finishes;VS10b_Vorsatzschale EI90;Plaster;kg;78.4477533;50;03.008;0.293;8.218444462;0.000109344
+Internal walls + finishes;VS10b_Vorsatzschale EI90;PlasterBoard;kg;4279.5;50;03.008;0.293;732.1062694;0.005964956
+Internal walls + finishes;VS10b_Vorsatzschale EI90;Glass Wool;kg;142.7002282;50;10.001;1.13;172.6706689;0.000767096
+Internal walls + finishes;VS10b_Vorsatzschale EI90;Galvanized Steel;kg;1349.843595;50;06.011;3.51;969.3864455;0.022539132
+Internal walls + finishes;VS20_Vorsatzschale Sanitär;Acrylic;kg;110.0879272;10;15.001;11.7;269.6441245;0.030636714
+Internal walls + finishes;VS20_Vorsatzschale Sanitär;Plaster;kg;231.2551568;50;03.008;0.293;24.22705026;0.000322334
+Internal walls + finishes;VS20_Vorsatzschale Sanitär;PlasterBoard;kg;6300;50;03.008;0.293;1077.758967;0.008781219
+Internal walls + finishes;VS20_Vorsatzschale Sanitär;Glass Wool;kg;525;50;10.001;1.13;635.2624822;0.002822178
+Internal walls + finishes;VS20_Vorsatzschale Sanitär;Galvanized Steel;kg;3979.187152;50;06.011;3.51;2857.642252;0.066442828
+Internal walls + finishes;VS22_Vorsatzschale Sanitär;Acrylic;kg;29.95958786;10;15.001;11.7;73.3815873;0.008337548
+Internal walls + finishes;VS22_Vorsatzschale Sanitär;Plaster;kg;62.93432318;50;03.008;0.293;6.593206535;8.77206E-05
+Internal walls + finishes;VS22_Vorsatzschale Sanitär;PlasterBoard;kg;1732.5;50;03.008;0.293;296.3837158;0.002414835
+Internal walls + finishes;VS22_Vorsatzschale Sanitär;Glass Wool;kg;240.625;50;10.001;1.13;291.161971;0.001293498
+Internal walls + finishes;VS22_Vorsatzschale Sanitär;Galvanized Steel;kg;1082.905366;50;06.011;3.51;777.6854948;0.018081908
+Internal walls + finishes;VS30_Vorsatzschale / Holzverkleidung;timber;kg;3348.875;50;07.003;0.485;203.0664005;0.00772658
+Internal walls + finishes;VS30_Vorsatzschale / Holzverkleidung;Rockwool;kg;1320.855365;50;10.008;1.13;1438.819412;0.007100359
+Internal walls + finishes;VS30_Vorsatzschale / Holzverkleidung;timber;kg;6697.75;50;07.003;0.485;406.1328011;0.01545316
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;earth;kg;80920;40;03.020;0.0234;6.037184492;0.01125974
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;Geotextile;kg;91.39867622;30;09.005;5.55;90.9445053;0.004021872
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;Polyester;kg;1224;30;15.004;8.85;7358.0675;0.085885543
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;PP;kg;236.3515684;30;06.008;2.19;501.7488595;0.004103911
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;Bitumen;kg;4967.571817;30;08.002;3.06;4480.872656;0.120520509
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;EPS;kg;1675.263805;30;04.007;0.767;6297.300778;0.010187648
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;Bitumen;kg;1014.375057;30;08.002;3.06;545.9374811;0.024610213
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;Bitumen;kg;71.08805843;40;08.002;3.06;31.05060388;0.001293525
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;lean concrete;kg;290629.9921;50;1.001;0.0591;23780.80888;0.081709874
+Roofing;DA01_Flachdach 1. OG / Extensive Begrünung;ReinforcingSteel;kg;17229.63046;50;06.003;0.682;6940.951116;0.055899377
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;timber;kg;1848;45;07.003;0.485;112.0575442;0.004737485
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;timber;kg;2975;30;07.003;0.485;180.3956677;0.011439949
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;OSB;kg;220.4125;30;07.013;0.614;94.00356181;0.001073001
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;Gravel;kg;1585.10545;30;03.011;0.0134;5.946686196;0.000168406
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;PP;kg;55.98468933;30;06.008;2.19;118.8494505;0.000972095
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;Bitumen;kg;1176.670698;30;08.002;3.06;1061.386076;0.028547741
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;EPS;kg;396.8203991;30;04.007;0.767;1491.644122;0.002413152
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;Bitumen;kg;240.2754203;30;08.002;3.06;129.3164267;0.005829431
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;Bitumen;kg;16.83865647;40;08.002;3.06;7.354968804;0.000306398
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;lean concrete;kg;68841.64099;50;1.001;0.0591;5632.969591;0.01935465
+Roofing;DA02_Flachdach 1. OG / Holzterrasse;ReinforcingSteel;kg;4081.18937;50;06.003;0.682;1644.105832;0.013240907
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;Gravel;kg;21450;30;03.011;0.0134;80.47188213;0.002278912
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;PP;kg;65.53392822;30;06.008;2.19;139.1214536;0.001137904
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;Bitumen;kg;1377.373957;30;08.002;3.06;1242.425379;0.033417093
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;EPS;kg;464.5055614;30;04.007;0.767;1746.072006;0.002824761
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;Bitumen;kg;281.2589002;30;08.002;3.06;151.3737689;0.00682375
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;Bitumen;kg;19.71080518;40;08.002;3.06;8.609496693;0.00035866
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;lean concrete;kg;80583.87414;50;1.001;0.0591;6593.778214;0.022655949
+Roofing;DA03_Flachdach 1. OG / Kies-Randstreifen;ReinforcingSteel;kg;4777.312769;50;06.003;0.682;1924.53892;0.015499393
+Roofing;DA04_Flachdach DG / Kies;Gravel;kg;9684.27183;30;03.011;0.0134;36.33154225;0.001028886
+Roofing;DA04_Flachdach DG / Kies;PP;kg;285.0341124;30;06.008;2.19;605.0966439;0.004949215
+Roofing;DA04_Flachdach DG / Kies;Bitumen;kg;3993.845364;30;08.002;3.06;3602.54731;0.096896491
+Roofing;DA04_Flachdach DG / Kies;EPS;kg;2132.566838;30;04.007;0.767;8016.298547;0.012968609
+Roofing;DA04_Flachdach DG / Kies;Bitumen;kg;1223.311087;30;08.002;3.06;658.3870224;0.029679304
+Roofing;DA04_Flachdach DG / Kies;Bitumen;kg;85.7304302;40;08.002;3.06;37.44625592;0.001559959
+Roofing;DA04_Flachdach DG / Kies;lean concrete;kg;350492.5412;50;1.001;0.0591;28679.06398;0.098540075
+Roofing;DA04_Flachdach DG / Kies;ReinforcingSteel;kg;20778.50576;50;06.003;0.682;8370.614394;0.067413258
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;Gravel;kg;931.426981;30;03.011;0.0134;3.49434416;9.89576E-05
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;Geotextile;kg;10.60132378;30;09.005;5.55;10.54864454;0.000466497
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;Bitumen;kg;384.1254557;30;08.002;3.06;346.4906628;0.009319442
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;EPS;kg;161.9280748;30;04.007;0.767;608.6860996;0.00098472
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;Bitumen;kg;117.6572666;30;08.002;3.06;63.32323662;0.002854536
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;Bitumen;kg;8.245497151;40;08.002;3.06;3.601556598;0.000150036
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;lean concrete;kg;33710.1452;50;1.001;0.0591;2758.333765;0.00947752
+Roofing;DA05_Flachdach über Stiegenhaus / Kies;ReinforcingSteel;kg;1998.463201;50;06.003;0.682;805.0802612;0.006483763
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;lean concrete;kg;7014.201289;50;1.001;0.0591;573.9372566;0.001972025
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;ReinforcingSteel;kg;415.8280269;50;06.003;0.682;167.5161876;0.001349102
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;Gravel;kg;581.4169259;30;03.011;0.0134;2.181245423;6.17715E-05
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;HDPE;kg;11.08972752;30;13.002;5.41;23.47191798;0.000475678
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;PP;kg;17.11266064;30;06.008;2.19;36.3283308;0.000297137
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;Rubber;kg;2124.439482;30;08.003;5.21;5131.286832;0.08775613
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;Bitumen;kg;239.7794419;30;08.002;3.06;216.2869877;0.005817398
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;EPS;kg;72.32765203;30;04.007;0.767;271.878959;0.00043984
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;Bitumen;kg;73.44421801;30;08.002;3.06;39.5277379;0.001781863
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;Bitumen;kg;5.147018182;40;08.002;3.06;2.248169753;9.36556E-05
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;lean concrete;kg;21042.60387;50;1.001;0.0591;1721.81177;0.005916074
+Roofing;DA06_Flachdach EG / Einschritt Haupteingang, Loggia Süd;ReinforcingSteel;kg;1247.484081;50;06.003;0.682;502.5485627;0.004047306
+Roofing;DA07_Flachdach EG / Loggia West;lean concrete;kg;2452.351233;50;1.001;0.0591;200.6637222;0.000689472
+Roofing;DA07_Flachdach EG / Loggia West;ReinforcingSteel;kg;145.3845324;50;06.003;0.682;58.56811235;0.000471682
+Roofing;DA07_Flachdach EG / Loggia West;Gravel;kg;203.2788134;30;03.011;0.0134;0.762621385;2.15969E-05
+Roofing;DA07_Flachdach EG / Loggia West;HDPE;kg;6.05822429;30;13.002;5.41;12.82251014;0.000259859
+Roofing;DA07_Flachdach EG / Loggia West;PP;kg;5.983041075;30;06.008;2.19;12.70135018;0.000103887
+Roofing;DA07_Flachdach EG / Loggia West;Rubber;kg;742.760518;30;08.003;5.21;1794.034284;0.030681876
+Roofing;DA07_Flachdach EG / Loggia West;Bitumen;kg;83.83326705;30;08.002;3.06;75.61968058;0.002033917
+Roofing;DA07_Flachdach EG / Loggia West;EPS;kg;25.28766987;30;04.007;0.767;95.05611156;0.00015378
+Roofing;DA07_Flachdach EG / Loggia West;Glass Wool;kg;422.4;30;10.001;1.13;378.7586369;0.003784406
+Roofing;DA07_Flachdach EG / Loggia West;Bitumen;kg;25.67805102;30;08.002;3.06;13.81994795;0.000622987
+Roofing;DA07_Flachdach EG / Loggia West;Bitumen;kg;1.799534382;40;08.002;3.06;0.78601991;3.27445E-05
+Roofing;DA07_Flachdach EG / Loggia West;lean concrete;kg;7357.053699;50;1.001;0.0591;601.9911665;0.002068417
+Roofing;DA07_Flachdach EG / Loggia West;ReinforcingSteel;kg;436.1535971;50;06.003;0.682;175.704337;0.001415046
+Roofing;DA10_Blechdach / HT-Zentrale DG;chrome steel;kg;683.6169764;50;06.006;2.24;2668.16419;0.00728463
+Roofing;DA10_Blechdach / HT-Zentrale DG;Aluminium;kg;3898.654686;50;FALSE;#N/A;15435.5833;#N/A
+Roofing;DA10_Blechdach / HT-Zentrale DG;Galvanized Steel;kg;7470.006115;50;06.011;3.51;5364.564239;0.124731085
+Underfloor;;rockwool;kg;17135.02848;50;10.008;1.13;1146.616012;0.092110662
+Underfloor;;PlasterBoard;kg;17059.20977;50;03.008;0.293;2918.367665;0.023777881
+Underfloor;;Plaster;kg;772.4576142;50;03.008;0.293;80.92519841;0.001076686
+Underfloor;;Acrylic;kg;449.8905493;5;15.001;11.7;1101.94048;0.250402903
+Underfloor;US11_Untersicht / GK Sanitärraüme;Rockwool;kg;837.4008453;50;10.008;1.13;912.1881347;0.004501513
+Underfloor;US11_Untersicht / GK Sanitärraüme;PlasterBoard;kg;2344.5;50;03.008;0.293;401.0803011;0.003267868
+Underfloor;US11_Untersicht / GK Sanitärraüme;Plaster;kg;66.49242439;50;03.008;0.293;6.965964912;9.26801E-05
+Underfloor;US11_Untersicht / GK Sanitärraüme;Acrylic;kg;38.72615505;5;15.001;11.7;94.85399934;0.021554446
+Underfloor;US20_Untersicht / Gänge;rockwool;kg;6380.765216;50;10.008;1.13;426.9784305;0.034300293
+Underfloor;US20_Untersicht / Gänge;Acrylic;kg;161.4016336;5;15.001;11.7;395.3294725;0.089833933
+Underfloor;US21_Untersicht / Foyer EG und UG;rockwool;kg;4241.234784;40;10.008;1.13;283.8085575;0.028498854
+Underfloor;US21_Untersicht / Foyer EG und UG;Acrylic;kg;107.2821518;5;15.001;11.7;262.7717919;0.059711773
+Underfloor;US21_Untersicht / Foyer EG und UG;Aluminium;kg;2764.553222;50;FALSE;#N/A;10945.44015;#N/A
+Underfloor;US30_Untersicht / Labors, Werkstätten, Bespr. Und TK;rockwool;kg;13547.88378;40;10.008;1.13;906.5768696;0.091034612
+Underfloor;US30_Untersicht / Labors, Werkstätten, Bespr. Und TK;Acrylic;kg;365.4090175;5;15.001;11.7;895.0154401;0.203381642
+Underfloor;US31_Untersicht / Seminarraum EG;rockwool;kg;798;40;10.008;1.13;53.39936137;0.005362138
+Underfloor;US31_Untersicht / Seminarraum EG;Acrylic;kg;16.40539506;5;15.001;11.7;40.18259314;0.009131018
+Underfloor;US40_Untersicht / Einschnitte Haupteingang, Loggien EG;Rockwool;kg;150.5624721;40;10.008;1.13;164.0090303;0.0010117
+Underfloor;US40_Untersicht / Einschnitte Haupteingang, Loggien EG;gypsum fiber board;kg;26.28170228;50;03.007;0.537;33.13562522;6.71389E-05
+Underfloor;US40_Untersicht / Einschnitte Haupteingang, Loggien EG;CementMortar;kg;9.262984949;50;4.009;0.269;1.773531065;1.18536E-05
+External;Doors;Steel;kg;1219.4064;30;06.003;0.682;3080.213;0.006593685
+External;Doors;Steel;kg;1412.3675;30;06.003;0.682;3848.584;0.007637082
+External;Doors;MDF;kg;1060.944;30;07.012;1.04;2198.192;0.00874825
+External;Doors;MDF;kg;6596.64288;30;07.012;1.04;10998.83;0.054394087
+Technical equipment;Pressurized air system;Galvanized Steel;kg;100;30;06.011;3.51;71.81472353;0.002782931
+Technical equipment;Pressurized air system;Galvanized Steel;kg;78;15;06.011;3.51;56.01548435;0.004341373
+Technical equipment;Pressurized air system;brass;kg;8.6;20;06.009;2.71;40.04820107;0.000277175
+Technical equipment;Pressurized air system;brass;kg;4;20;06.009;2.71;18.62707026;0.000128919
+Technical equipment;Pressurized air system;Chrome Steel;kg;34.4;20;06.006;2.24;134.2635588;0.000916417
+Technical equipment;Pressurized air system;Safety Glass;kg;8.6;20;FALSE;#N/A;427.2879992;#N/A
+Technical equipment;Pressurized air system;Brass;kg;4.3;20;06.009;2.71;18.58288389;0.000138588
+Technical equipment;Pressurized air system;Safety Glass;kg;8.6;20;FALSE;#N/A;427.2879992;#N/A
+Technical equipment;Pressurized air system;Galvanized Steel;kg;885.5945487;40;06.011;3.51;635.9872767;0.018484116
+Technical equipment;Pressurized air system;Chrome Steel;kg;255.2465491;40;06.006;2.24;996.2299438;0.003399887
+Technical equipment;Pressurized air system;PE;kg;16.55801541;40;4.003;0.951;33.44590117;9.36366E-05
+Technical equipment;Pressurized air system;PE;kg;0.4;20;4.003;0.951;0.807968838;4.52405E-06
+Technical equipment;Pressurized air system;PE;kg;3;50;4.003;0.951;6.059766284;1.35721E-05
+Technical equipment;Pressurized air system;Steel;kg;100;50;06.003;0.682;40.284968;0.000324437
+Technical equipment;Heating;HeatPump;p;1;18;FALSE;#N/A;19667.85125;#N/A
+Technical equipment;Heating;Galvanized Steel;kg;25.6;20;06.011;3.51;18.38456922;0.001068646
+Technical equipment;Heating;EPDM;kg;6.4;20;09.004;5.86;15.45830606;0.00044603
+Technical equipment;Heating;Chrome Steel;kg;200;30;06.006;2.24;780.6020863;0.003552004
+Technical equipment;Heating;Pump;kg;55.2;10;FALSE;#N/A;190.4797108;#N/A
+Technical equipment;Heating;AntifreezeLiquid;kg;88.4;20;FALSE;#N/A;361.3353432;#N/A
+Technical equipment;Heating;PE;kg;3.322234231;20;4.003;0.951;6.710654328;3.75749E-05
+Technical equipment;Heating;Steel;kg;15;20;06.003;0.682;6.0427452;0.000121664
+Technical equipment;Heating;Galvanized Steel;kg;1;20;06.011;3.51;0.718147235;4.1744E-05
+Technical equipment;Heating;Steel;kg;9.5;20;06.003;0.682;3.82707196;7.70539E-05
+Technical equipment;Heating;Steel;kg;144;15;06.003;0.682;58.01035392;0.0015573
+Technical equipment;Heating;Brass;kg;1.2;20;06.009;2.71;5.185921085;3.86756E-05
+Technical equipment;Heating;PE;kg;16.19589188;30;4.003;0.951;32.71443985;0.000122118
+Technical equipment;Heating;aluminium pipe？;kg;24.87180054;30;FALSE;#N/A;98.47262197;#N/A
+Technical equipment;Heating;HDPE;kg;10.1360094;30;13.002;5.41;21.45332975;0.00043477
+Technical equipment;Heating;PE;kg;29.6390543;30;4.003;0.951;59.86858064;0.000223481
+Technical equipment;Heating;aluminium pipe？;kg;46.74383563;30;FALSE;#N/A;185.0685497;#N/A
+Technical equipment;Heating;HDPE;kg;22.8234947;30;13.002;5.41;48.30697549;0.000978982
+Technical equipment;Heating;PE;kg;5.664040227;30;4.003;0.951;11.44092;4.27073E-05
+Technical equipment;Heating;aluminium pipe？;kg;10.04304339;30;FALSE;#N/A;39.76249383;#N/A
+Technical equipment;Heating;HDPE;kg;3.763879326;30;13.002;5.41;7.966423581;0.000161446
+Technical equipment;Heating;PE;kg;8.174172757;30;4.003;0.951;16.51119216;6.16339E-05
+Technical equipment;Heating;aluminium pipe？;kg;15.77707831;30;FALSE;#N/A;62.46472849;#N/A
+Technical equipment;Heating;HDPE;kg;4.704849158;30;13.002;5.41;9.958029477;0.000201808
+Technical equipment;Heating;PE;kg;5.061756075;30;4.003;0.951;10.22435293;3.8166E-05
+Technical equipment;Heating;aluminium pipe？;kg;7.956397554;30;FALSE;#N/A;31.50102974;#N/A
+Technical equipment;Heating;HDPE;kg;3.100224162;30;13.002;5.41;6.561766923;0.00013298
+Technical equipment;Heating;Galvanized Steel;kg;21.5;40;06.011;3.51;15.44016556;0.000448748
+Technical equipment;Heating;Galvanized Steel;kg;30.75;40;06.011;3.51;22.08302748;0.000641814
+Technical equipment;Heating;Galvanized Steel;kg;7.95;40;06.011;3.51;5.70927052;0.000165932
+Technical equipment;Heating;Galvanized Steel;kg;12.3;40;06.011;3.51;8.833210994;0.000256725
+Technical equipment;Heating;Galvanized Steel;kg;15.85;40;06.011;3.51;11.38263368;0.000330821
+Technical equipment;Heating;Galvanized Steel;kg;390.45;40;06.011;3.51;280.400588;0.008149467
+Technical equipment;Heating;Galvanized Steel;kg;550.2;40;06.011;3.51;395.1246088;0.011483766
+Technical equipment;Heating;Galvanized Steel;kg;169;40;06.011;3.51;121.3668828;0.003527365
+Technical equipment;Heating;Galvanized Steel;kg;49.15;40;06.011;3.51;35.29693661;0.001025858
+Technical equipment;Heating;Galvanized Steel;kg;335;40;06.011;3.51;240.5793238;0.006992115
+Technical equipment;Heating;Galvanized Steel;kg;637;40;06.011;3.51;457.4597889;0.013295455
+Technical equipment;Heating;Galvanized Steel;kg;110.97;40;06.011;3.51;79.6927987;0.002316164
+Technical equipment;Heating;Galvanized Steel;kg;79.5;40;06.011;3.51;57.0927052;0.001659323
+Technical equipment;Heating;Galvanized Steel;kg;124.2;40;06.011;3.51;89.19388662;0.002592301
+Technical equipment;Heating;Galvanized Steel;kg;13.796;40;06.011;3.51;9.907559258;0.00028795
+Technical equipment;Heating;Galvanized Steel;kg;22.6;40;06.011;3.51;16.23012752;0.000471707
+Technical equipment;Heating;Galvanized Steel;kg;47.68;40;06.011;3.51;34.24126018;0.000995176
+Technical equipment;Heating;PE;kg;1;30;4.003;0.951;2.019922095;7.54008E-06
+Technical equipment;Heating;Rockwool;kg;0.444378281;25;10.008;1.13;0.484065185;4.77758E-06
+Technical equipment;Heating;PE;kg;1.299362722;30;4.003;0.951;2.62461147;9.7973E-06
+Technical equipment;Heating;PE;kg;0.8;20;4.003;0.951;1.615937676;9.04809E-06
+Technical equipment;Heating;Chrome Steel;kg;406.9508571;20;06.006;2.24;1588.33344;0.010841182
+Technical equipment;Heating;Chrome Steel;kg;11.25;20;06.006;2.24;43.90886735;0.0002997
+Technical equipment;Heating;Chrome Steel;kg;7.6;20;06.006;2.24;29.66287928;0.000202464
+Technical equipment;Heating;Cast Iron;kg;4.4;20;13.005;1.51;7.28294327;7.90162E-05
+Technical equipment;Heating;Cast Iron;kg;19.6;20;13.005;1.51;32.44220184;0.000351981
+Technical equipment;Heating;Cast Iron;kg;8.8;20;13.005;1.51;14.56588654;0.000158032
+Technical equipment;Heating;Cast Iron;kg;56;20;13.005;1.51;92.69200525;0.001005661
+Technical equipment;Heating;Cast Iron;kg;23.4;20;13.005;1.51;38.73201648;0.000420223
+Technical equipment;Heating;Brass;kg;4.5;20;06.009;2.71;19.44720407;0.000145034
+Technical equipment;Heating;Brass;kg;14;20;06.009;2.71;60.50241266;0.000451215
+Technical equipment;Heating;Brass;kg;42.1875;20;06.009;2.71;182.3175382;0.001359689
+Technical equipment;Heating;Brass;kg;2.56;20;06.009;2.71;11.06329832;8.2508E-05
+Technical equipment;Heating;Brass;kg;4;20;06.009;2.71;17.28640362;0.000128919
+Technical equipment;Heating;Brass;kg;25;20;06.009;2.71;108.0400226;0.000805742
+Technical equipment;Heating;Brass;kg;31.6875;20;06.009;2.71;136.9407287;0.001021278
+Technical equipment;Heating;Brass;kg;32;20;06.009;2.71;138.2912289;0.00103135
+Technical equipment;Heating;Brass;kg;25;20;06.009;2.71;108.0400226;0.000805742
+Technical equipment;Heating;Brass;kg;273.4375;20;06.009;2.71;1181.687747;0.008812802
+Technical equipment;Heating;Brass;kg;112.5;20;06.009;2.71;486.1801018;0.003625838
+Technical equipment;Heating;Brass;kg;1.28;20;06.009;2.71;5.531649158;4.1254E-05
+Technical equipment;Heating;Brass;kg;0.568888889;20;06.009;2.71;2.458510737;1.83351E-05
+Technical equipment;Heating;Brass;kg;1.777777778;20;06.009;2.71;7.682846052;5.72972E-05
+Technical equipment;Heating;Brass;kg;1.456355556;20;06.009;2.71;6.293787486;4.69379E-05
+Technical equipment;Heating;Brass;kg;2.275555556;20;06.009;2.71;9.834042947;7.33404E-05
+Technical equipment;Heating;Brass;kg;14.22222222;20;06.009;2.71;61.46276842;0.000458378
+Technical equipment;Heating;Brass;kg;6.008888889;20;06.009;2.71;25.96801966;0.000193665
+Technical equipment;Heating;Brass;kg;9.102222222;20;06.009;2.71;39.33617179;0.000293362
+Technical equipment;Heating;Brass;kg;14.22222222;20;06.009;2.71;61.46276842;0.000458378
+Technical equipment;Heating;Brass;kg;44.44444444;20;06.009;2.71;192.0711513;0.00143243
+Technical equipment;Heating;Brass;kg;32;20;06.009;2.71;138.2912289;0.00103135
+Technical equipment;Heating;Brass;kg;30;20;06.009;2.71;129.6480271;0.00096689
+Technical equipment;Heating;Brass;kg;0.45;20;06.009;2.71;1.944720407;1.45034E-05
+Technical equipment;Heating;Brass;kg;1.2;20;06.009;2.71;5.185921085;3.86756E-05
+Technical equipment;Heating;Chrome Steel;kg;0.32;20;06.006;2.24;1.248963338;8.52481E-06
+Technical equipment;Heating;Chrome Steel;kg;20.6;20;06.006;2.24;80.40201489;0.000548785
+Technical equipment;Heating;Chrome Steel;kg;14.4;20;06.006;2.24;56.20335021;0.000383616
+Technical equipment;Heating;Chrome Steel;kg;72;20;06.006;2.24;281.0167511;0.001918082
+Technical equipment;Heating;Chrome Steel;kg;49.7;20;06.006;2.24;193.9796184;0.001324009
+Technical equipment;Heating;Brass;kg;7;20;06.009;2.71;30.25120633;0.000225608
+Technical equipment;Heating;Chrome Steel;kg;2.5;20;06.006;2.24;9.757526078;6.66001E-05
+Technical equipment;Heating;EPDM;kg;0.5;20;09.004;5.86;1.207680161;3.48461E-05
+Technical equipment;Heating;Chrome Steel;kg;2;20;06.006;2.24;7.806020863;5.32801E-05
+Technical equipment;Heating;PE;kg;0.4;20;4.003;0.951;0.807968838;4.52405E-06
+Technical equipment;Heating;Chrome Steel;kg;4.875;20;06.006;2.24;19.02717585;0.00012987
+Technical equipment;Heating;PE;kg;0.975;20;4.003;0.951;1.969424042;1.10274E-05
+Technical equipment;Heating;Chrome Steel;kg;1.25;20;06.006;2.24;4.878763039;3.33E-05
+Technical equipment;Heating;Chrome Steel;kg;0.176;20;06.006;2.24;0.686929836;4.68864E-06
+Technical equipment;Heating;PE;kg;113.4818665;50;4.003;0.951;229.2245294;0.000513397
+Technical equipment;Heating;aluminium pipe？;kg;704.3702057;50;FALSE;#N/A;2788.747878;#N/A
+Technical equipment;Heating;PE;kg;136.9608733;50;4.003;0.951;276.6502942;0.000619617
+Technical equipment;Heating;PEFoam;kg;43.0448459;50;10.007;1.17;110.3270817;0.000239582
+Technical equipment;Heating;PE;kg;179.2969759;50;4.003;0.951;362.1659232;0.000811148
+Technical equipment;Heating;aluminium pipe？;kg;1112.877782;50;FALSE;#N/A;4406.114181;#N/A
+Technical equipment;Heating;PE;kg;216.392902;50;4.003;0.951;437.0968039;0.000978972
+Technical equipment;Heating;PEFoam;kg;68.00919776;50;10.007;1.17;174.3125376;0.00037853
+Technical equipment;Heating;PE;kg;4.373096974;50;4.003;0.951;8.8333152;1.97841E-05
+Technical equipment;Heating;aluminium pipe？;kg;27.14336053;50;FALSE;#N/A;107.4661995;#N/A
+Technical equipment;Heating;PE;kg;5.277875658;50;4.003;0.951;10.66089766;2.38774E-05
+Technical equipment;Heating;PEFoam;kg;1.658760921;50;10.007;1.17;4.251525307;9.23244E-06
+Technical equipment;Heating;PE;kg;0.721561001;50;4.003;0.951;1.457497008;3.26438E-06
+Technical equipment;Heating;aluminium pipe？;kg;4.478654487;50;FALSE;#N/A;17.73192293;#N/A
+Technical equipment;Heating;PE;kg;0.870849484;50;4.003;0.951;1.759048113;3.93976E-06
+Technical equipment;Heating;PEFoam;kg;0.273695552;50;10.007;1.17;0.701501676;1.52335E-06
+Technical equipment;Heating;PE;kg;0.546637122;50;4.003;0.951;1.1041644;2.47301E-06
+Technical equipment;Heating;aluminium pipe？;kg;3.392920066;50;FALSE;#N/A;13.43327494;#N/A
+Technical equipment;Heating;PE;kg;0.659734457;50;4.003;0.951;1.332612207;2.98467E-06
+Technical equipment;Heating;PEFoam;kg;0.207345115;50;10.007;1.17;0.531440663;1.15405E-06
+Technical equipment;Heating;PE;kg;0.874619395;50;4.003;0.951;1.76666304;3.95682E-06
+Technical equipment;Heating;aluminium pipe？;kg;5.428672105;50;FALSE;#N/A;21.49323991;#N/A
+Technical equipment;Heating;PE;kg;1.055575132;50;4.003;0.951;2.132179531;4.77547E-06
+Technical equipment;Heating;PEFoam;kg;0.331752184;50;10.007;1.17;0.850305061;1.84649E-06
+Technical equipment;Heating;PE;kg;181.0462147;50;4.003;0.951;365.6992493;0.000819062
+Technical equipment;Heating;aluminium pipe？;kg;1123.735126;50;FALSE;#N/A;4449.100661;#N/A
+Technical equipment;Heating;PE;kg;218.5040522;50;4.003;0.951;441.3611629;0.000988523
+Technical equipment;Heating;PEFoam;kg;68.67270213;50;10.007;1.17;176.0131477;0.000382223
+Technical equipment;Heating;Polyoelfin;kg;76.832;50;13.002;5.41;159.1503472;0.001977361
+Technical equipment;Heating;Chrome Steel;kg;3.870204082;50;06.006;2.24;15.1054469;4.12409E-05
+Technical equipment;Heating;Chrome Steel;kg;30.17;50;06.006;2.24;117.7538247;0.000321492
+Technical equipment;Heating;Chrome Steel;kg;47.49795918;50;06.006;2.24;185.3850302;0.000506139
+Technical equipment;Heating;Chrome Steel;kg;10.37918367;50;06.006;2.24;40.51006215;0.000110601
+Technical equipment;Heating;Chrome Steel;kg;5.629387755;50;06.006;2.24;21.97155913;5.99868E-05
+Technical equipment;Heating;Chrome Steel;kg;6.069183673;50;06.006;2.24;23.68808719;6.46733E-05
+Technical equipment;Heating;Chrome Steel;kg;70;50;06.006;2.24;273.2107302;0.000745921
+Technical equipment;Heating;Brass;kg;17.05;50;06.009;2.71;73.68329542;0.000219806
+Technical equipment;Heating;PA;kg;20;50;01.041;0.265;196.8774596;2.52129E-05
+Technical equipment;Heating;Polyvinyl chloride (PVC);kg;0.505680807;25;13.004;4.42;0.990089118;2.12655E-05
+Technical equipment;Heating;Rubber;kg;0.048858049;25;08.003;5.21;0.118009793;2.42187E-06
+Technical equipment;Heating;Rubber;kg;47.04713364;25;08.003;5.21;113.6357799;0.002332102
+Technical equipment;Heating;Steel;kg;44.27965519;25;06.003;0.682;17.83804493;0.00028732
+Technical equipment;Heating;PBT;kg;163.8424512;30;10.003;6.23;509.0736695;0.008093006
+Technical equipment;Heating;HDPE;kg;69.48700295;30;13.002;5.41;147.0724353;0.002980549
+Technical equipment;Heating;Polyoelfin;kg;36.67054583;25;13.002;5.41;75.9596275;0.001887519
+Technical equipment;Heating;Steel;kg;6;15;06.003;0.682;2.41709808;6.48875E-05
+Technical equipment;Heating;Steel;kg;0.8;15;06.003;0.682;0.322279744;8.65167E-06
+Technical equipment;Heating;Brass;kg;7.6;15;06.009;2.71;32.84416687;0.000326594
+Technical equipment;Heating;Copper;kg;7.6;15;06.008;2.19;8.332258203;0.000263927
+Technical equipment;Heating;Brass;kg;2.4;15;06.009;2.71;10.37184217;0.000103135
+Technical equipment;Heating;PE;kg;20;50;4.003;0.951;40.3984419;9.04809E-05
+Technical equipment;Heating;Steel;kg;200;50;06.003;0.682;80.569936;0.000648875
+Technical equipment;Fire hydrant;Galvanized Steel;kg;1874.274177;40;06.011;3.51;1346.004818;0.039119823
+Technical equipment;Fire hydrant;Polyoelfin;kg;230.3415734;40;13.002;5.41;477.1311611;0.007410137
+Technical equipment;Fire hydrant;CementMortar;kg;1390.940147;40;4.009;0.269;266.315402;0.002224935
+Technical equipment;Fire hydrant;Galvanized Steel;kg;15.99535473;40;06.011;3.51;11.48701978;0.000333855
+Technical equipment;Fire hydrant;Polyoelfin;kg;1.953166961;40;13.002;5.41;4.045803832;6.28338E-05
+Technical equipment;Fire hydrant;CementMortar;kg;10.02303605;40;4.009;0.269;1.919053728;1.60328E-05
+Technical equipment;Fire hydrant;Galvanized Steel;kg;19.24390309;40;06.011;3.51;13.8199558;0.000401658
+Technical equipment;Fire hydrant;Polyoelfin;kg;2.353977496;40;13.002;5.41;4.876045604;7.5728E-05
+Technical equipment;Fire hydrant;CementMortar;kg;12.66478896;40;4.009;0.269;2.424855138;2.02585E-05
+Technical equipment;Fire hydrant;Steel;kg;84;40;06.003;0.682;33.83937312;0.000340659
+Technical equipment;Fire hydrant;Steel;kg;31.5;40;06.003;0.682;12.68976492;0.000127747
+Technical equipment;Fire hydrant;Steel;kg;7.6;40;06.003;0.682;3.061657568;3.08216E-05
+Technical equipment;Fire hydrant;Steel;kg;48.84186617;40;06.003;0.682;19.67593016;0.000198077
+Technical equipment;Fire hydrant;Chrome Steel;kg;8.835;15;06.006;2.24;34.48309716;0.00031382
+Technical equipment;Fire hydrant;EPDM;kg;0.665;15;09.004;5.86;1.606214614;6.17938E-05
+Technical equipment;Fire hydrant;Chrome Steel;kg;152.475;15;06.006;2.24;595.1115155;0.005415917
+Technical equipment;Fire hydrant;EPDM;kg;8.025;15;09.004;5.86;19.38326659;0.000745707
+Technical equipment;Fire hydrant;Cast Iron;kg;1.5;15;13.005;1.51;2.482821569;3.59165E-05
+Technical equipment;Fire hydrant;Galvanized Steel;kg;1.2;15;06.011;3.51;0.861776682;6.67904E-05
+Technical equipment;Fire hydrant;HDPE;kg;0.3;15;13.002;5.41;0.634963788;2.57362E-05
+Technical equipment;Fire hydrant;Cast Iron;kg;10.5;15;13.005;1.51;17.37975098;0.000251415
+Technical equipment;Fire hydrant;Galvanized Steel;kg;8.4;15;06.011;3.51;6.032436776;0.000467532
+Technical equipment;Fire hydrant;HDPE;kg;2.1;15;13.002;5.41;4.444746516;0.000180153
+Technical equipment;Cooling;Steel;kg;1080;20;06.003;0.682;435.0776544;0.008759812
+Technical equipment;Cooling;Polyurethane;kg;260.5197124;20;10.006;7.52;1448.900675;0.023299418
+Technical equipment;Cooling;Galvanized Steel;kg;186.5920632;20;06.011;3.51;134.0005743;0.007789094
+Technical equipment;Cooling;Pump;kg;412.8;10;FALSE;#N/A;1424.456968;#N/A
+Technical equipment;Cooling;AntifreezeLiquid;kg;1377;20;FALSE;#N/A;5628.492846;#N/A
+Technical equipment;Cooling;Steel;kg;64.73644362;20;06.003;0.682;26.0790556;0.000525073
+Technical equipment;Cooling;Rockwool;kg;37.93473129;25;10.008;1.13;41.32263775;0.000407842
+Technical equipment;Cooling;PE;kg;1.877777778;20;4.003;0.951;3.792964822;2.12379E-05
+Technical equipment;Cooling;PE;kg;2.844444444;20;4.003;0.951;5.745556181;3.2171E-05
+Technical equipment;Cooling;PE;kg;6.944444444;20;4.003;0.951;14.02723677;7.85425E-05
+Technical equipment;Cooling;PE;kg;10;20;4.003;0.951;20.19922095;0.000113101
+Technical equipment;Cooling;Chrome Steel;kg;187.0354286;20;06.006;2.24;730.0012287;0.004982629
+Technical equipment;Cooling;Brass;kg;15;20;06.009;2.71;64.82401357;0.000483445
+Technical equipment;Cooling;Brass;kg;1.6;20;06.009;2.71;6.914561447;5.15675E-05
+Technical equipment;Cooling;Cast Iron;kg;1.5;20;13.005;1.51;2.482821569;2.69373E-05
+Technical equipment;Cooling;Cast Iron;kg;6.6;20;13.005;1.51;10.9244149;0.000118524
+Technical equipment;Cooling;Cast Iron;kg;19.6;20;13.005;1.51;32.44220184;0.000351981
+Technical equipment;Cooling;Cast Iron;kg;17.6;20;13.005;1.51;29.13177308;0.000316065
+Technical equipment;Cooling;Cast Iron;kg;16.8;20;13.005;1.51;27.80760158;0.000301698
+Technical equipment;Cooling;Cast Iron;kg;23.4;20;13.005;1.51;38.73201648;0.000420223
+Technical equipment;Cooling;Brass;kg;0.5625;20;06.009;2.71;2.430900509;1.81292E-05
+Technical equipment;Cooling;Brass;kg;15;20;06.009;2.71;64.82401357;0.000483445
+Technical equipment;Cooling;Brass;kg;37.5;20;06.009;2.71;162.0600339;0.001208613
+Technical equipment;Cooling;Brass;kg;2.56;20;06.009;2.71;11.06329832;8.2508E-05
+Technical equipment;Cooling;Brass;kg;4;20;06.009;2.71;17.28640362;0.000128919
+Technical equipment;Cooling;Brass;kg;6.25;20;06.009;2.71;27.01000565;0.000201435
+Technical equipment;Cooling;Brass;kg;10.5625;20;06.009;2.71;45.64690955;0.000340426
+Technical equipment;Cooling;Cast Iron;kg;10;20;13.005;1.51;16.5521438;0.000179582
+Technical equipment;Cooling;Cast Iron;kg;49.6;20;13.005;1.51;82.09863322;0.000890728
+Technical equipment;Cooling;Cast Iron;kg;79.5;20;13.005;1.51;131.5895432;0.001427679
+Technical equipment;Cooling;Cast Iron;kg;22;20;13.005;1.51;36.41471635;0.000395081
+Technical equipment;Cooling;Cast Iron;kg;163.5;20;13.005;1.51;270.6275511;0.002936171
+Technical equipment;Cooling;Cast Iron;kg;42.4;20;13.005;1.51;70.18108969;0.000761429
+Technical equipment;Cooling;Brass;kg;0.32;20;06.009;2.71;1.382912289;1.03135E-05
+Technical equipment;Cooling;Brass;kg;2.275555556;20;06.009;2.71;9.834042947;7.33404E-05
+Technical equipment;Cooling;Brass;kg;0.888888889;20;06.009;2.71;3.841423026;2.86486E-05
+Technical equipment;Cooling;Brass;kg;1.456355556;20;06.009;2.71;6.293787486;4.69379E-05
+Technical equipment;Cooling;Brass;kg;2.275555556;20;06.009;2.71;9.834042947;7.33404E-05
+Technical equipment;Cooling;Brass;kg;3.555555556;20;06.009;2.71;15.3656921;0.000114594
+Technical equipment;Cooling;Brass;kg;12.01777778;20;06.009;2.71;51.93603931;0.000387329
+Technical equipment;Cooling;Brass;kg;36.40888889;20;06.009;2.71;157.3446872;0.001173447
+Technical equipment;Cooling;Brass;kg;14.22222222;20;06.009;2.71;61.46276842;0.000458378
+Technical equipment;Cooling;Brass;kg;22.22222222;20;06.009;2.71;96.03557566;0.000716215
+Technical equipment;Cooling;Brass;kg;32;20;06.009;2.71;138.2912289;0.00103135
+Technical equipment;Cooling;Brass;kg;20;20;06.009;2.71;86.43201809;0.000644594
+Technical equipment;Cooling;Brass;kg;0.3;20;06.009;2.71;1.296480271;9.6689E-06
+Technical equipment;Cooling;Brass;kg;0.6;20;06.009;2.71;2.592960543;1.93378E-05
+Technical equipment;Cooling;Chrome Steel;kg;10.3;20;06.006;2.24;40.20100744;0.000274392
+Technical equipment;Cooling;Chrome Steel;kg;14.4;20;06.006;2.24;56.20335021;0.000383616
+Technical equipment;Cooling;Chrome Steel;kg;37.6;20;06.006;2.24;146.7531922;0.001001665
+Technical equipment;Cooling;Chrome Steel;kg;54;20;06.006;2.24;210.7625633;0.001438561
+Technical equipment;Cooling;Chrome Steel;kg;36;20;06.006;2.24;140.5083755;0.000959041
+Technical equipment;Cooling;Brass;kg;7;20;06.009;2.71;30.25120633;0.000225608
+Technical equipment;Cooling;Chrome Steel;kg;2.5;20;06.006;2.24;9.757526078;6.66001E-05
+Technical equipment;Cooling;EPDM;kg;0.5;20;09.004;5.86;1.207680161;3.48461E-05
+Technical equipment;Cooling;Chrome Steel;kg;2.6;20;06.006;2.24;10.14782712;6.92641E-05
+Technical equipment;Cooling;Chrome Steel;kg;7;20;06.006;2.24;27.32107302;0.00018648
+Technical equipment;Cooling;Chrome Steel;kg;4.2;20;06.006;2.24;16.39264381;0.000111888
+Technical equipment;Cooling;Chrome Steel;kg;13.6;20;06.006;2.24;53.08094187;0.000362304
+Technical equipment;Cooling;CoolingSystem;p;1;15;FALSE;#N/A;32259.39211;#N/A
+Technical equipment;Cooling;HeatExchanger;p;2;20;FALSE;#N/A;16047.35414;#N/A
+Technical equipment;Cooling;Galvanized Steel;kg;32;20;06.011;3.51;22.98071153;0.001335807
+Technical equipment;Cooling;EPDM;kg;8;20;09.004;5.86;19.32288258;0.000557538
+Technical equipment;Cooling;AirConditioningSystem;p;7.606666667;20;FALSE;#N/A;6181.360741;#N/A
+Technical equipment;Cooling;AirConditioningSystem;p;6.52;20;FALSE;#N/A;5298.309207;#N/A
+Technical equipment;Cooling;AirConditioningSystem;p;4.346666667;20;FALSE;#N/A;3532.206138;#N/A
+Technical equipment;Cooling;AirConditioningSystem;p;7.606666667;20;FALSE;#N/A;6181.360741;#N/A
+Technical equipment;Cooling;AirConditioningSystem;p;8.693333333;20;FALSE;#N/A;7064.412276;#N/A
+Technical equipment;Cooling;AirConditioningSystem;p;9.78;20;FALSE;#N/A;7947.46381;#N/A
+Technical equipment;Cooling;AirConditioningSystem;p;4.346666667;20;FALSE;#N/A;3532.206138;#N/A
+Technical equipment;Cooling;PE;kg;16.19589188;40;4.003;0.951;32.71443985;9.15887E-05
+Technical equipment;Cooling;aluminium pipe？;kg;24.87180054;40;FALSE;#N/A;98.47262197;#N/A
+Technical equipment;Cooling;HDPE;kg;10.1360094;40;13.002;5.41;21.45332975;0.000326078
+Technical equipment;Cooling;PE;kg;11.05934862;40;4.003;0.951;22.33902263;6.25413E-05
+Technical equipment;Cooling;aluminium pipe？;kg;17.44172971;40;FALSE;#N/A;69.05542901;#N/A
+Technical equipment;Cooling;HDPE;kg;8.516229365;40;13.002;5.41;18.02499086;0.000273969
+Technical equipment;Cooling;PE;kg;26.05458504;40;4.003;0.951;52.628232;0.00014734
+Technical equipment;Cooling;aluminium pipe？;kg;46.19799962;40;FALSE;#N/A;182.9074716;#N/A
+Technical equipment;Cooling;HDPE;kg;17.3138449;40;13.002;5.41;36.64554847;0.00055699
+Technical equipment;Cooling;PE;kg;11.44384186;40;4.003;0.951;23.11566902;6.47156E-05
+Technical equipment;Cooling;aluminium pipe？;kg;22.08790963;40;FALSE;#N/A;87.45061988;#N/A
+Technical equipment;Cooling;HDPE;kg;6.586788821;40;13.002;5.41;13.94124127;0.000211898
+Technical equipment;Cooling;PE;kg;10.12351215;40;4.003;0.951;20.44870587;5.72491E-05
+Technical equipment;Cooling;aluminium pipe？;kg;15.91279511;40;FALSE;#N/A;63.00205949;#N/A
+Technical equipment;Cooling;HDPE;kg;6.200448323;40;13.002;5.41;13.12353385;0.00019947
+Technical equipment;Cooling;Galvanized Steel;kg;21.5;40;06.011;3.51;15.44016556;0.000448748
+Technical equipment;Cooling;Galvanized Steel;kg;30.75;40;06.011;3.51;22.08302748;0.000641814
+Technical equipment;Cooling;Galvanized Steel;kg;7.95;40;06.011;3.51;5.70927052;0.000165932
+Technical equipment;Cooling;Galvanized Steel;kg;12.3;40;06.011;3.51;8.833210994;0.000256725
+Technical equipment;Cooling;Galvanized Steel;kg;15.85;40;06.011;3.51;11.38263368;0.000330821
+Technical equipment;Cooling;Galvanized Steel;kg;349.35;40;06.011;3.51;250.8847366;0.007291628
+Technical equipment;Cooling;Galvanized Steel;kg;1414.8;40;06.011;3.51;1016.034708;0.029529685
+Technical equipment;Cooling;Galvanized Steel;kg;1047.8;40;06.011;3.51;752.4746731;0.021869666
+Technical equipment;Cooling;Galvanized Steel;kg;835.55;40;06.011;3.51;600.0479224;0.017439587
+Technical equipment;Cooling;Galvanized Steel;kg;871;40;06.011;3.51;625.5062419;0.018179499
+Technical equipment;Cooling;Galvanized Steel;kg;3367;40;06.011;3.51;2418.001741;0.070275974
+Technical equipment;Cooling;Steel;kg;5.1;20;06.003;0.682;2.054533368;4.13658E-05
+Technical equipment;Cooling;Steel;kg;0.8;20;06.003;0.682;0.322279744;6.48875E-06
+Technical equipment;Cooling;Brass;kg;6.4;20;06.009;2.71;27.65824579;0.00020627
+Technical equipment;Cooling;Copper;kg;6.4;20;06.008;2.19;7.016638487;0.00016669
+Technical equipment;Cooling;PE;kg;20;50;4.003;0.951;40.3984419;9.04809E-05
+Technical equipment;Cooling;Steel;kg;500;50;06.003;0.682;201.42484;0.001622187
+Technical equipment;Ventilation;CentralAirVentilation;p;1;20;FALSE;#N/A;12935.82844;#N/A
+Technical equipment;Ventilation;CentralAirVentilation;p;1;20;FALSE;#N/A;12935.82844;#N/A
+Technical equipment;Ventilation;RefrigerationMachine;p;2;20;FALSE;#N/A;14597.65025;#N/A
+Technical equipment;Ventilation;RefrigerationMachine;p;1;20;FALSE;#N/A;7298.825125;#N/A
+Technical equipment;Ventilation;Galvanized Steel;kg;5;40;06.011;3.51;3.590736176;0.00010436
+Technical equipment;Ventilation;Polyvinyl chloride (PVC);kg;2.2;40;13.004;4.42;4.307452509;5.78231E-05
+Technical equipment;Ventilation;AirConditioningSystem;kg;143.44;12;FALSE;#N/A;3532.206138;#N/A
+Technical equipment;Ventilation;Rubber;kg;30;20;08.003;5.21;72.46080968;0.001858855
+Technical equipment;Ventilation;Glass Wool;kg;186;20;10.001;1.13;225.0644223;0.002499643
+Technical equipment;Ventilation;Galvanized Steel;kg;126;20;06.011;3.51;90.48655164;0.00525974
+Technical equipment;Ventilation;Glass Wool;kg;87;20;10.001;1.13;105.2720685;0.001169188
+Technical equipment;Ventilation;Galvanized Steel;kg;83;20;06.011;3.51;59.60622053;0.00346475
+Technical equipment;Ventilation;Glass Wool;kg;26.4;20;10.001;1.13;31.94462768;0.000354788
+Technical equipment;Ventilation;Galvanized Steel;kg;28;20;06.011;3.51;20.10812259;0.001168831
+Technical equipment;Ventilation;Glass Wool;kg;8.5;20;10.001;1.13;10.28520209;0.000114231
+Technical equipment;Ventilation;Galvanized Steel;kg;9.5;20;06.011;3.51;6.822398735;0.000396568
+Technical equipment;Ventilation;Glass Wool;kg;14;20;10.001;1.13;16.94033286;0.000188145
+Technical equipment;Ventilation;Galvanized Steel;kg;22;20;06.011;3.51;15.79923918;0.000918367
+Technical equipment;Ventilation;Glass Wool;kg;24.8;20;10.001;1.13;30.00858964;0.000333286
+Technical equipment;Ventilation;Galvanized Steel;kg;27.2;20;06.011;3.51;19.5336048;0.001135436
+Technical equipment;Ventilation;Glass Wool;kg;12.4;20;10.001;1.13;15.00429482;0.000166643
+Technical equipment;Ventilation;Galvanized Steel;kg;17.6;20;06.011;3.51;12.63939134;0.000734694
+Technical equipment;Ventilation;Glass Wool;kg;8.2;20;10.001;1.13;9.92219496;0.000110199
+Technical equipment;Ventilation;Galvanized Steel;kg;11.8;20;06.011;3.51;8.474137376;0.000492579
+Technical equipment;Ventilation;Glass Wool;kg;9.1;20;10.001;1.13;11.01121636;0.000122294
+Technical equipment;Ventilation;Galvanized Steel;kg;10.7;20;06.011;3.51;7.684175417;0.00044666
+Technical equipment;Ventilation;Polyurethane;kg;165;20;10.006;7.52;917.6603533;0.014756672
+Technical equipment;Ventilation;Galvanized Steel;kg;687.5;20;06.011;3.51;493.7262242;0.02869898
+Technical equipment;Ventilation;Polyurethane;kg;45;20;10.006;7.52;250.2710054;0.004024547
+Technical equipment;Ventilation;Galvanized Steel;kg;181;20;06.011;3.51;129.9846496;0.007555659
+Technical equipment;Ventilation;Glass Wool;kg;4.751344729;20;10.001;1.13;5.749240089;6.3853E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;7.248655271;20;06.011;3.51;5.205601742;0.000302588
+Technical equipment;Ventilation;Glass Wool;kg;26.74123667;20;10.001;1.13;32.35753216;0.000359374
+Technical equipment;Ventilation;Galvanized Steel;kg;43.25876333;20;06.011;3.51;31.06616129;0.001805793
+Technical equipment;Ventilation;Glass Wool;kg;12.38541488;20;10.001;1.13;14.98664647;0.000166447
+Technical equipment;Ventilation;Galvanized Steel;kg;13.61458512;20;06.011;3.51;9.777276665;0.000568327
+Technical equipment;Ventilation;Glass Wool;kg;42.96190786;20;10.001;1.13;51.98492995;0.000577363
+Technical equipment;Ventilation;Galvanized Steel;kg;53.03809214;20;06.011;3.51;38.08915924;0.002214021
+Technical equipment;Ventilation;Glass Wool;kg;82.6615859;20;10.001;1.13;100.0224843;0.001110884
+Technical equipment;Ventilation;Galvanized Steel;kg;87.3384141;20;06.011;3.51;62.72184062;0.003645852
+Technical equipment;Ventilation;Glass Wool;kg;9.648459358;20;10.001;1.13;11.67486522;0.000129665
+Technical equipment;Ventilation;Galvanized Steel;kg;10.35154064;20;06.011;3.51;7.433930293;0.000432114
+Technical equipment;Ventilation;PE;kg;11.66473352;20;4.003;0.951;23.56185297;0.00013193
+Technical equipment;Ventilation;Glass Wool;kg;41.23340358;20;10.001;1.13;49.89339868;0.000554133
+Technical equipment;Ventilation;aluminium pipe？;kg;27.67350429;20;FALSE;#N/A;109.5651488;#N/A
+Technical equipment;Ventilation;PE;kg;11.69426449;20;4.003;0.951;23.62150323;0.000132264
+Technical equipment;Ventilation;Glass Wool;kg;39.26990817;20;10.001;1.13;47.51752255;0.000527746
+Technical equipment;Ventilation;aluminium pipe？;kg;25.5317235;20;FALSE;#N/A;101.085394;#N/A
+Technical equipment;Ventilation;PE;kg;3.295656357;20;4.003;0.951;6.656969093;3.72743E-05
+Technical equipment;Ventilation;Glass Wool;kg;10.60287521;20;10.001;1.13;12.82973109;0.000142491
+Technical equipment;Ventilation;aluminium pipe？;kg;6.698896555;20;FALSE;#N/A;26.52232222;#N/A
+Technical equipment;Ventilation;PE;kg;5.634509256;20;4.003;0.951;11.38126974;6.3727E-05
+Technical equipment;Ventilation;Glass Wool;kg;17.43583923;20;10.001;1.13;21.09778001;0.000234319
+Technical equipment;Ventilation;aluminium pipe？;kg;10.71314511;20;FALSE;#N/A;42.41556563;#N/A
+Technical equipment;Ventilation;PE;kg;2.350665287;20;4.003;0.951;4.748160751;2.65863E-05
+Technical equipment;Ventilation;Glass Wool;kg;7.068583471;20;10.001;1.13;8.55315406;9.49943E-05
+Technical equipment;Ventilation;aluminium pipe？;kg;4.249632383;20;FALSE;#N/A;16.82517687;#N/A
+Technical equipment;Ventilation;PE;kg;11.76513882;20;4.003;0.951;23.76466386;0.000133065
+Technical equipment;Ventilation;Glass Wool;kg;34.55751919;20;10.001;1.13;41.81541985;0.000464416
+Technical equipment;Ventilation;aluminium pipe？;kg;20.3914496;20;FALSE;#N/A;80.73398241;#N/A
+Technical equipment;Ventilation;Galvanized Steel;kg;2225.475;30;06.011;3.51;1598.218718;0.061933442
+Technical equipment;Ventilation;Galvanized Steel;kg;2692.55;30;06.011;3.51;1933.647338;0.074931818
+Technical equipment;Ventilation;Galvanized Steel;kg;1413;30;06.011;3.51;1014.742043;0.03932282
+Technical equipment;Ventilation;Galvanized Steel;kg;353.25;30;06.011;3.51;253.6855109;0.009830705
+Technical equipment;Ventilation;Galvanized Steel;kg;474.925;30;06.011;3.51;341.0660757;0.013216837
+Technical equipment;Ventilation;Galvanized Steel;kg;3022.25;30;06.011;3.51;2170.420482;0.084107143
+Technical equipment;Ventilation;Galvanized Steel;kg;3022.25;30;06.011;3.51;2170.420482;0.084107143
+Technical equipment;Ventilation;Galvanized Steel;kg;883.125;30;06.011;3.51;634.2137771;0.024576763
+Technical equipment;Ventilation;Galvanized Steel;kg;635.85;30;06.011;3.51;456.6339195;0.017695269
+Technical equipment;Ventilation;Galvanized Steel;kg;647.625;30;06.011;3.51;465.0901032;0.018022959
+Technical equipment;Ventilation;Galvanized Steel;kg;70.65;30;06.011;3.51;50.73710217;0.001966141
+Technical equipment;Ventilation;Galvanized Steel;kg;287.861386;30;06.011;3.51;206.7268585;0.008010985
+Technical equipment;Ventilation;Galvanized Steel;kg;328.3987304;30;06.011;3.51;235.8386403;0.009139111
+Technical equipment;Ventilation;Galvanized Steel;kg;340.4520397;30;06.011;3.51;244.494691;0.009474547
+Technical equipment;Ventilation;Galvanized Steel;kg;415.607968;30;06.011;3.51;298.4677132;0.011566084
+Technical equipment;Ventilation;Galvanized Steel;kg;667.8581446;30;06.011;3.51;479.6204801;0.018586034
+Technical equipment;Ventilation;Galvanized Steel;kg;778.701733;30;06.011;3.51;559.2224966;0.021670735
+Technical equipment;Ventilation;Galvanized Steel;kg;116.747552;30;06.011;3.51;83.84193172;0.003249004
+Technical equipment;Ventilation;Galvanized Steel;kg;29.6381935;30;06.011;3.51;21.28458672;0.000824811
+Technical equipment;Ventilation;aluminium pipe？;kg;1.374132627;30;FALSE;#N/A;5.440476352;#N/A
+Technical equipment;Ventilation;Steel;kg;3.995163378;30;06.003;0.682;1.609450288;2.1603E-05
+Technical equipment;Ventilation;aluminium pipe？;kg;1.713424633;30;FALSE;#N/A;6.783803846;#N/A
+Technical equipment;Ventilation;Steel;kg;4.981623471;30;06.003;0.682;2.006845421;2.69371E-05
+Technical equipment;Ventilation;aluminium pipe？;kg;2.137539642;30;FALSE;#N/A;8.462963214;#N/A
+Technical equipment;Ventilation;Steel;kg;6.214698587;30;06.003;0.682;2.503589337;3.36047E-05
+Technical equipment;Ventilation;aluminium pipe？;kg;2.731300653;30;FALSE;#N/A;10.81378633;#N/A
+Technical equipment;Ventilation;Steel;kg;7.94100375;30;06.003;0.682;3.19903082;4.29393E-05
+Technical equipment;Ventilation;aluminium pipe？;kg;3.409884666;30;FALSE;#N/A;13.50044132;#N/A
+Technical equipment;Ventilation;Steel;kg;9.913923937;30;06.003;0.682;3.993821085;5.36075E-05
+Technical equipment;Ventilation;Polyvinyl chloride (PVC);kg;10.02796375;30;13.004;4.42;19.63408073;0.000351423
+Technical equipment;Ventilation;Steel;kg;18.74274177;30;06.003;0.682;7.550507525;0.000101347
+Technical equipment;Ventilation;Galvanized Steel;kg;71.0630569;15;06.011;3.51;51.03373785;0.003955272
+Technical equipment;Ventilation;Chrome Steel;kg;3.136943096;15;06.006;2.24;12.24352163;0.000111424
+Technical equipment;Ventilation;Galvanized Steel;kg;15.3676743;15;06.011;3.51;11.03625281;0.000855344
+Technical equipment;Ventilation;Chrome Steel;kg;0.832325704;15;06.006;2.24;3.248575904;2.95642E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;66.79796435;15;06.011;3.51;47.97077342;0.003717883
+Technical equipment;Ventilation;Chrome Steel;kg;5.202035648;15;06.006;2.24;20.3035994;0.000184776
+Technical equipment;Ventilation;Galvanized Steel;kg;67.89748733;15;06.011;3.51;48.76039281;0.003779081
+Technical equipment;Ventilation;Chrome Steel;kg;7.102512671;15;06.006;2.24;27.72118104;0.000252282
+Technical equipment;Ventilation;Galvanized Steel;kg;39.45116198;15;06.011;3.51;28.3317429;0.002195798
+Technical equipment;Ventilation;Chrome Steel;kg;5.548838024;15;06.006;2.24;21.65717269;0.000197095
+Technical equipment;Ventilation;Galvanized Steel;kg;2.921996039;15;06.011;3.51;2.098423377;0.000162634
+Technical equipment;Ventilation;Chrome Steel;kg;0.578003961;15;06.006;2.24;2.255955489;2.05307E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;10.587;15;06.011;3.51;7.60302478;0.000589258
+Technical equipment;Ventilation;Chrome Steel;kg;1.413;15;06.006;2.24;5.51495374;5.01898E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;24.232;15;06.011;3.51;17.40214381;0.00134872
+Technical equipment;Ventilation;Chrome Steel;kg;3.768;15;06.006;2.24;14.70654331;0.000133839
+Technical equipment;Ventilation;Galvanized Steel;kg;107.6324958;15;06.011;3.51;77.29597927;0.005990677
+Technical equipment;Ventilation;Chrome Steel;kg;2.367504224;15;06.006;2.24;9.240393682;8.40938E-05
+Technical equipment;Ventilation;Glass Wool;kg;21.60630348;15;10.001;1.13;26.14414091;0.000387154
+Technical equipment;Ventilation;Galvanized Steel;kg;0.620464549;15;06.011;3.51;0.445584901;3.45342E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;8.529;15;06.011;3.51;6.12507777;0.000474712
+Technical equipment;Ventilation;Chrome Steel;kg;0.471;15;06.006;2.24;1.838317913;1.67299E-05
+Technical equipment;Ventilation;Glass Wool;kg;1.316;15;10.001;1.13;1.592391289;2.35809E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;3.3912;15;06.011;3.51;2.435380904;0.00018875
+Technical equipment;Ventilation;Galvanized Steel;kg;100.58;15;06.011;3.51;72.23124892;0.005598145
+Technical equipment;Ventilation;Chrome Steel;kg;9.42;15;06.006;2.24;36.76635826;0.000334599
+Technical equipment;Ventilation;Glass Wool;kg;18.76;15;10.001;1.13;22.70004603;0.000336153
+Technical equipment;Ventilation;Galvanized Steel;kg;46.472;15;06.011;3.51;33.37373832;0.002586568
+Technical equipment;Ventilation;Galvanized Steel;kg;43.29;15;06.011;3.51;31.08859381;0.002409462
+Technical equipment;Ventilation;Chrome Steel;kg;4.71;15;06.006;2.24;18.38317913;0.000167299
+Technical equipment;Ventilation;Glass Wool;kg;8.624;15;10.001;1.13;10.43524504;0.00015453
+Technical equipment;Ventilation;Galvanized Steel;kg;21.1008;15;06.011;3.51;15.15348118;0.001174442
+Technical equipment;Ventilation;Galvanized Steel;kg;1;20;06.011;3.51;0.718147235;4.1744E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;1;20;06.011;3.51;0.718147235;4.1744E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;1.4;20;06.011;3.51;1.005406129;5.84416E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;1.8;20;06.011;3.51;1.292665023;7.51391E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;1.8;20;06.011;3.51;1.292665023;7.51391E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;2.8;20;06.011;3.51;2.010812259;0.000116883
+Technical equipment;Ventilation;Galvanized Steel;kg;4.2;20;06.011;3.51;3.016218388;0.000175325
+Technical equipment;Ventilation;Chrome Steel;kg;19.6;20;06.006;2.24;76.49900445;0.000522145
+Technical equipment;Ventilation;Chrome Steel;kg;11;20;06.006;2.24;42.93311474;0.00029304
+Technical equipment;Ventilation;Chrome Steel;kg;3.9;20;06.006;2.24;15.22174068;0.000103896
+Technical equipment;Ventilation;Galvanized Steel;kg;16.5792;20;06.011;3.51;11.90630664;0.000692082
+Technical equipment;Ventilation;aluminium pipe？;kg;72;20;FALSE;#N/A;285.0629479;#N/A
+Technical equipment;Ventilation;PP;kg;9;20;06.008;2.19;19.10602822;0.000234408
+Technical equipment;Ventilation;Rubber;kg;9;20;08.003;5.21;21.7382429;0.000557657
+Technical equipment;Ventilation;Chrome Steel;kg;18.74274177;20;06.006;2.24;73.15311665;0.000499307
+Technical equipment;Ventilation;PET;kg;2;20;FALSE;#N/A;6.214185221;#N/A
+Technical equipment;Ventilation;Galvanized Steel;kg;14.13;40;06.011;3.51;10.14742043;0.000294921
+Technical equipment;Ventilation;Galvanized Steel;kg;25.12;40;06.011;3.51;18.03985855;0.000524304
+Technical equipment;Ventilation;Galvanized Steel;kg;47.1;40;06.011;3.51;33.82473478;0.000983071
+Technical equipment;Ventilation;Galvanized Steel;kg;3.579044131;40;06.011;3.51;2.570280647;7.47018E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;2.102306337;40;06.011;3.51;1.509765484;4.38793E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;1.256;20;06.011;3.51;0.901992927;5.24304E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;0.785;20;06.011;3.51;0.56374558;3.2769E-05
+Technical equipment;Ventilation;aluminium pipe？;kg;24;20;FALSE;#N/A;95.02098263;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;9.8;20;FALSE;#N/A;38.80023457;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;17.5;20;FALSE;#N/A;69.28613317;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;7.5;20;FALSE;#N/A;29.69405707;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;0.9;20;FALSE;#N/A;3.563286849;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;0.5;20;FALSE;#N/A;1.979603805;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;6.4;20;FALSE;#N/A;25.3389287;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;6.5;20;FALSE;#N/A;25.73484946;#N/A
+Technical equipment;Ventilation;aluminium pipe？;kg;2;20;FALSE;#N/A;7.918415219;#N/A
+Technical equipment;Ventilation;Galvanized Steel;kg;3.72875;20;06.011;3.51;2.677791504;0.000155653
+Technical equipment;Ventilation;Galvanized Steel;kg;20;20;06.011;3.51;14.36294471;0.000834879
+Technical equipment;Ventilation;Galvanized Steel;kg;13;20;06.011;3.51;9.335914059;0.000542672
+Technical equipment;Ventilation;Galvanized Steel;kg;6.21;20;06.011;3.51;4.459694331;0.00025923
+Technical equipment;Ventilation;Galvanized Steel;kg;4.48;20;06.011;3.51;3.217299614;0.000187013
+Technical equipment;Ventilation;Galvanized Steel;kg;1;20;06.011;3.51;0.718147235;4.1744E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;7.6;20;06.011;3.51;5.457918988;0.000317254
+Technical equipment;Ventilation;Galvanized Steel;kg;5.1;20;06.011;3.51;3.6625509;0.000212894
+Technical equipment;Ventilation;Galvanized Steel;kg;39;20;06.011;3.51;28.00774218;0.001628015
+Technical equipment;Ventilation;Galvanized Steel;kg;20;20;06.011;3.51;14.36294471;0.000834879
+Technical equipment;Ventilation;Galvanized Steel;kg;105;20;06.011;3.51;75.4054597;0.004383117
+Technical equipment;Ventilation;Galvanized Steel;kg;17.65566275;20;06.011;3.51;12.67936539;0.000737017
+Technical equipment;Ventilation;Polyvinyl chloride (PVC);kg;0.165725296;20;13.004;4.42;0.324479018;8.7116E-06
+Technical equipment;Ventilation;Galvanized Steel;kg;28.19845499;20;06.011;3.51;20.25064249;0.001177115
+Technical equipment;Ventilation;Polyvinyl chloride (PVC);kg;0.264685464;20;13.004;4.42;0.518236394;1.39136E-05
+Technical equipment;Ventilation;Galvanized Steel;kg;16.41470582;20;06.011;3.51;11.7881756;0.000685215
+Technical equipment;Ventilation;Polyvinyl chloride (PVC);kg;0.154077024;20;13.004;4.42;0.301672484;8.09929E-06
+Technical equipment;Ventilation;Galvanized Steel;kg;28;15;06.011;3.51;20.10812259;0.001558442
+Technical equipment;Ventilation;Galvanized Steel;kg;17;15;06.011;3.51;12.208503;0.000946197
+Technical equipment;Ventilation;Galvanized Steel;kg;72;15;06.011;3.51;51.70660094;0.004007421
+Technical equipment;Ventilation;Galvanized Steel;kg;28;15;06.011;3.51;20.10812259;0.001558442
+Technical equipment;Ventilation;Galvanized Steel;kg;42;15;06.011;3.51;30.16218388;0.002337662
+Technical equipment;Ventilation;Galvanized Steel;kg;57;15;06.011;3.51;40.93439241;0.003172542
+Technical equipment;Ventilation;Galvanized Steel;kg;46;15;06.011;3.51;33.03477282;0.002560297
+Technical equipment;Ventilation;Galvanized Steel;kg;75;15;06.011;3.51;53.86104265;0.004174397
+Technical equipment;Ventilation;Galvanized Steel;kg;20;15;06.011;3.51;14.36294471;0.001113173
+Technical equipment;Ventilation;Galvanized Steel;kg;27;15;06.011;3.51;19.38997535;0.001502783
+Technical equipment;Ventilation;Galvanized Steel;kg;105;15;06.011;3.51;75.4054597;0.005844156
+Technical equipment;Ventilation;Galvanized Steel;kg;85;15;06.011;3.51;61.042515;0.004730983
+Technical equipment;Ventilation;Galvanized Steel;kg;95;15;06.011;3.51;68.22398735;0.00528757
+Technical equipment;Ventilation;Galvanized Steel;kg;54;15;06.011;3.51;38.7799507;0.003005566
+Technical equipment;Ventilation;Galvanized Steel;kg;28;15;06.011;3.51;20.10812259;0.001558442
+Technical equipment;Ventilation;Galvanized Steel;kg;139.5;15;06.011;3.51;100.1815393;0.007764378
+Technical equipment;Ventilation;Galvanized Steel;kg;10.2;15;06.011;3.51;7.3251018;0.000567718
+Technical equipment;Ventilation;Galvanized Steel;kg;22.2;15;06.011;3.51;15.94286862;0.001235622
+Technical equipment;Ventilation;Galvanized Steel;kg;29.4;15;06.011;3.51;21.11352872;0.001636364
+Technical equipment;Ventilation;Galvanized Steel;kg;35;15;06.011;3.51;25.13515323;0.001948052
+Technical equipment;Ventilation;aluminium pipe？;kg;0.4;20;FALSE;#N/A;1.583683044;#N/A
+Technical equipment;Ventilation;Steel;kg;200;50;06.003;0.682;80.569936;0.000648875
+Technical equipment;Sanitary and service water system;PE;kg;4.618828424;40;4.003;0.951;9.329673586;2.61197E-05
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;7.093069044;40;FALSE;#N/A;28.08293293;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;2.830418058;40;13.002;5.41;5.990709906;9.10551E-05
+Technical equipment;Sanitary and service water system;PE;kg;1.061697467;40;4.003;0.951;2.144546172;6.00396E-06
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;1.674406053;40;FALSE;#N/A;6.629321185;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;0.80052556;40;13.002;5.41;1.69434914;2.57531E-05
+Technical equipment;Sanitary and service water system;PE;kg;2.378896895;40;4.003;0.951;4.8051864;1.34528E-05
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;4.218078226;40;FALSE;#N/A;16.70024741;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;1.547895373;40;13.002;5.41;3.276191698;4.97961E-05
+Technical equipment;Sanitary and service water system;PE;kg;3.596636013;40;4.003;0.951;7.26492455;2.03392E-05
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;6.941914455;40;FALSE;#N/A;27.48448053;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;2.027005846;40;13.002;5.41;4.290251033;6.52092E-05
+Technical equipment;Sanitary and service water system;PE;kg;10.12351215;40;4.003;0.951;20.44870587;5.72491E-05
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;15.91279511;40;FALSE;#N/A;63.00205949;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;6.071272316;40;13.002;5.41;12.85012689;0.000195314
+Technical equipment;Sanitary and service water system;PEFoam;kg;0.955672485;20;10.007;1.17;2.449458331;1.32979E-05
+Technical equipment;Sanitary and service water system;PEFoam;kg;0.217146884;20;10.007;1.17;0.556563313;3.02152E-06
+Technical equipment;Sanitary and service water system;PE;kg;0.08;40;4.003;0.951;0.161593768;4.52405E-07
+Technical equipment;Sanitary and service water system;Brass;kg;2.7;15;06.009;2.71;11.66832244;0.000116027
+Technical equipment;Sanitary and service water system;Brass;kg;0.66;15;06.009;2.71;2.852256597;2.83621E-05
+Technical equipment;Sanitary and service water system;Brass;kg;2.02;15;06.009;2.71;8.729633827;8.68053E-05
+Technical equipment;Sanitary and service water system;Brass;kg;1.4;15;06.009;2.71;6.050241266;6.01621E-05
+Technical equipment;Sanitary and service water system;Brass;kg;2.17;20;06.009;2.71;9.377873963;6.99384E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;0.62;20;06.006;2.24;2.419866467;1.65168E-05
+Technical equipment;Sanitary and service water system;PE;kg;0.31;20;4.003;0.951;0.626175849;3.50614E-06
+Technical equipment;Sanitary and service water system;PE;kg;2.5;50;4.003;0.951;5.049805237;1.13101E-05
+Technical equipment;Sanitary and service water system;PP;kg;41.3;15;06.008;2.19;87.67544062;0.001434232
+Technical equipment;Sanitary and service water system;EPS;kg;0.7;15;04.007;0.767;2.631293371;8.51371E-06
+Technical equipment;Sanitary and service water system;WaterHeater;kg;15.6;12;FALSE;#N/A;112.8044192;#N/A
+Technical equipment;Sanitary and service water system;PP;kg;108;50;06.008;2.19;229.2723387;0.001125161
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;360;50;06.011;3.51;258.5330047;0.006011132
+Technical equipment;Sanitary and service water system;PP;kg;42;50;06.008;2.19;89.16146503;0.000437562
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;154;50;06.011;3.51;110.5946742;0.002571429
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;220;50;06.011;3.51;157.9923918;0.003673469
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;225;50;06.011;3.51;161.5831279;0.003756957
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;105;50;06.011;3.51;75.4054597;0.001753247
+Technical equipment;Sanitary and service water system;PlasterBoard;kg;64.26;50;03.008;0.293;10.99314146;8.95684E-05
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;70;50;06.011;3.51;50.27030647;0.001168831
+Technical equipment;Sanitary and service water system;PlasterBoard;kg;39.69;50;03.008;0.293;6.789881489;5.53217E-05
+Technical equipment;Sanitary and service water system;Galvanized Steel;kg;196;50;06.011;3.51;140.7568581;0.003272727
+Technical equipment;Sanitary and service water system;PlasterBoard;kg;181.44;50;03.008;0.293;31.03945824;0.000252899
+Technical equipment;Sanitary and service water system;HDPE;kg;57.2;15;13.002;5.41;121.0664289;0.004907029
+Technical equipment;Sanitary and service water system;HDPE;kg;1.65;15;13.002;5.41;3.492300834;0.000141549
+Technical equipment;Sanitary and service water system;HDPE;kg;31.5;15;13.002;5.41;66.67119773;0.002702298
+Technical equipment;Sanitary and service water system;HDPE;kg;107.25;15;13.002;5.41;226.9995542;0.00920068
+Technical equipment;Sanitary and service water system;HDPE;kg;229.5;15;13.002;5.41;485.7472978;0.019688169
+Technical equipment;Sanitary and service water system;HDPE;kg;24.75;15;13.002;5.41;52.3845125;0.002123234
+Technical equipment;Sanitary and service water system;HDPE;kg;84.45;15;13.002;5.41;178.7423063;0.007244731
+Technical equipment;Sanitary and service water system;HDPE;kg;47.64375;15;13.002;5.41;100.8401866;0.004087225
+Technical equipment;Sanitary and service water system;HDPE;kg;14.075;15;13.002;5.41;29.79038438;0.001207455
+Technical equipment;Sanitary and service water system;HDPE;kg;27.225;15;13.002;5.41;57.62296375;0.002335557
+Technical equipment;Sanitary and service water system;HDPE;kg;4.2225;15;13.002;5.41;8.937115315;0.000362237
+Technical equipment;Sanitary and service water system;PP;kg;0.258276938;15;06.008;2.19;0.548294052;8.96923E-06
+Technical equipment;Sanitary and service water system;PP;kg;1.072280121;15;06.008;2.19;2.276334917;3.72373E-05
+Technical equipment;Sanitary and service water system;PP;kg;0.419220867;15;06.008;2.19;0.889960635;1.45584E-05
+Technical equipment;Sanitary and service water system;PP;kg;2.5;15;06.008;2.19;5.307230062;8.68179E-05
+Technical equipment;Sanitary and service water system;PE;kg;0.25;15;4.003;0.951;0.504980524;3.77004E-06
+Technical equipment;Sanitary and service water system;PE;kg;0.5625;15;4.003;0.951;1.136206178;8.48259E-06
+Technical equipment;Sanitary and service water system;PE;kg;1.5625;15;4.003;0.951;3.156128273;2.35627E-05
+Technical equipment;Sanitary and service water system;Pump;kg;2.4;10;FALSE;#N/A;8.281726556;#N/A
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;13;15;06.006;2.24;50.73913561;0.00046176
+Technical equipment;Sanitary and service water system;PE;kg;1;15;4.003;0.951;2.019922095;1.50802E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;3;15;06.006;2.24;11.70903129;0.00010656
+Technical equipment;Sanitary and service water system;Brass;kg;2;15;06.009;2.71;8.643201809;8.59458E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;15.81;15;06.006;2.24;61.70659492;0.000561572
+Technical equipment;Sanitary and service water system;EPDM;kg;1.19;15;09.004;5.86;2.874278784;0.000110578
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;226.4234183;15;06.006;2.24;883.7329634;0.008042568
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;314.4341547;15;06.006;2.24;1227.239786;0.011168712
+Technical equipment;Sanitary and service water system;Polyurethane;kg;13.86;20;10.006;7.52;77.08346968;0.00123956
+Technical equipment;Sanitary and service water system;PP;kg;4.62;20;06.008;2.19;9.807761154;0.00012033
+Technical equipment;Sanitary and service water system;EPDM;kg;0.924;20;09.004;5.86;2.231792938;6.43956E-05
+Technical equipment;Sanitary and service water system;EPDM;kg;0.924;20;09.004;5.86;2.231792938;6.43956E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;32;50;06.006;2.24;124.8963338;0.000340992
+Technical equipment;Sanitary and service water system;HDPE;kg;3.6;20;13.002;5.41;7.619565455;0.000231626
+Technical equipment;Sanitary and service water system;HDPE;kg;15.75;20;13.002;5.41;33.33559887;0.001013362
+Technical equipment;Sanitary and service water system;HDPE;kg;10.2;20;13.002;5.41;21.58876879;0.000656272
+Technical equipment;Sanitary and service water system;HDPE;kg;11.4;20;13.002;5.41;24.12862394;0.000733481
+Technical equipment;Sanitary and service water system;HDPE;kg;44.85;20;13.002;5.41;94.9270863;0.002885668
+Technical equipment;Sanitary and service water system;HDPE;kg;4.8;20;13.002;5.41;10.15942061;0.000308834
+Technical equipment;Sanitary and service water system;HDPE;kg;43.2;20;13.002;5.41;91.43478546;0.002779506
+Technical equipment;Sanitary and service water system;HDPE;kg;37.4;20;13.002;5.41;79.1588189;0.002406332
+Technical equipment;Sanitary and service water system;PE;kg;14.99619618;30;4.003;0.951;30.29114801;0.000113073
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;23.02944495;30;FALSE;#N/A;91.17835368;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;9.189669021;30;13.002;5.41;19.45035684;0.000394178
+Technical equipment;Sanitary and service water system;PE;kg;3.981365503;30;4.003;0.951;8.042048146;3.00198E-05
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;6.279022697;30;FALSE;#N/A;24.85995444;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;3.001970851;30;13.002;5.41;6.353809277;0.000128765
+Technical equipment;Sanitary and service water system;PE;kg;6.796848272;30;4.003;0.951;13.729104;5.12488E-05
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;12.05165207;30;FALSE;#N/A;47.7149926;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;4.422558209;30;13.002;5.41;9.360547708;0.0001897
+Technical equipment;Sanitary and service water system;PE;kg;0.817417276;30;4.003;0.951;1.651119216;6.16339E-06
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;1.577707831;30;FALSE;#N/A;6.246472849;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;0.460683147;30;13.002;5.41;0.975057053;1.97604E-05
+Technical equipment;Sanitary and service water system;PE;kg;15.18526822;30;4.003;0.951;30.6730588;0.000114498
+Technical equipment;Sanitary and service water system;aluminium pipe？;kg;23.86919266;30;FALSE;#N/A;94.50308923;#N/A
+Technical equipment;Sanitary and service water system;HDPE;kg;9.106908474;30;13.002;5.41;19.27519034;0.000390628
+Technical equipment;Sanitary and service water system;PEFoam;kg;1.470265362;20;10.007;1.17;3.768397432;2.04582E-05
+Technical equipment;Sanitary and service water system;PEFoam;kg;1.085734421;20;10.007;1.17;2.782816565;1.51076E-05
+Technical equipment;Sanitary and service water system;PE;kg;0.08;30;4.003;0.951;0.161593768;6.03206E-07
+Technical equipment;Sanitary and service water system;Brass;kg;13.05;15;06.009;2.71;56.3968918;0.000560796
+Technical equipment;Sanitary and service water system;Brass;kg;1.32;15;06.009;2.71;5.704513194;5.67242E-05
+Technical equipment;Sanitary and service water system;Brass;kg;1.01;15;06.009;2.71;4.364816914;4.34026E-05
+Technical equipment;Sanitary and service water system;Brass;kg;9.8;15;06.009;2.71;42.35168886;0.000421134
+Technical equipment;Sanitary and service water system;Brass;kg;2.31;20;06.009;2.71;9.982898089;7.44505E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;0.66;20;06.006;2.24;2.575986885;1.75824E-05
+Technical equipment;Sanitary and service water system;PE;kg;0.33;20;4.003;0.951;0.666574291;3.73234E-06
+Technical equipment;Sanitary and service water system;Pump;kg;2.4;10;FALSE;#N/A;8.281726556;#N/A
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;10;20;06.006;2.24;39.03010431;0.0002664
+Technical equipment;Sanitary and service water system;Polyvinyl chloride (PVC);kg;2.990796206;15;13.004;4.42;5.855778464;0.000209621
+Technical equipment;Sanitary and service water system;Steel;kg;5.5;50;06.003;0.682;2.21567324;1.78441E-05
+Technical equipment;Sanitary and service water system;Copper;kg;2.7;50;06.008;2.19;2.960144362;2.8129E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;0.9;50;06.006;2.24;3.512709388;9.59041E-06
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;10;50;06.006;2.24;39.03010431;0.00010656
+Technical equipment;Sanitary and service water system;SanitaryCeramics;kg;270;20;FALSE;#N/A;274.6618566;#N/A
+Technical equipment;Sanitary and service water system;Polyoelfin;kg;45;20;13.002;5.41;93.21331767;0.002895319
+Technical equipment;Sanitary and service water system;SanitaryCeramics;kg;96;20;FALSE;#N/A;97.65754901;#N/A
+Technical equipment;Sanitary and service water system;brass;kg;43.5;20;06.009;2.71;202.5693891;0.001401991
+Technical equipment;Sanitary and service water system;SanitaryCeramics;kg;278.4;20;FALSE;#N/A;283.2068921;#N/A
+Technical equipment;Sanitary and service water system;brass;kg;8;20;06.009;2.71;37.25414053;0.000257837
+Technical equipment;Sanitary and service water system;SanitaryCeramics;kg;77;20;FALSE;#N/A;78.32949244;#N/A
+Technical equipment;Sanitary and service water system;brass;kg;3.5;20;06.009;2.71;16.29868648;0.000112804
+Technical equipment;Sanitary and service water system;SanitaryCeramics;kg;88.2;20;FALSE;#N/A;89.72287315;#N/A
+Technical equipment;Sanitary and service water system;brass;kg;3;20;06.009;2.71;13.9703027;9.6689E-05
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;50.1144;20;06.006;2.24;195.597026;0.001335049
+Technical equipment;Sanitary and service water system;PP;kg;1.82;20;06.008;2.19;3.863663485;4.74026E-05
+Technical equipment;Sanitary and service water system;brass;kg;22;16;06.009;2.71;102.4488864;0.000886316
+Technical equipment;Sanitary and service water system;brass;kg;13.3;16;06.009;2.71;61.93500863;0.000535818
+Technical equipment;Sanitary and service water system;brass;kg;1.2;16;06.009;2.71;5.588121079;4.83445E-05
+Technical equipment;Sanitary and service water system;brass;kg;16.2;16;06.009;2.71;75.43963457;0.000652651
+Technical equipment;Sanitary and service water system;brass;kg;5.25;16;06.009;2.71;24.44802972;0.000211507
+Technical equipment;Sanitary and service water system;SanitaryCeramics;kg;151.2;20;FALSE;#N/A;153.8106397;#N/A
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;22.5;20;06.006;2.24;87.81773471;0.000599401
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;21;20;06.006;2.24;81.96321906;0.000559441
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;14;20;06.006;2.24;54.64214604;0.00037296
+Technical equipment;Sanitary and service water system;Chrome Steel;kg;42;20;06.006;2.24;163.9264381;0.001118881
+Technical equipment;Sanitary and service water system;Polyoelfin;kg;2.506;20;13.002;5.41;5.190946091;0.000161237
+Technical equipment;Sanitary and service water system;Steel;kg;37.8;20;06.003;0.682;15.2277179;0.000306593
+Technical equipment;Sanitary and service water system;PP;kg;10.81;10;06.008;2.19;22.94846279;0.000563101
+Technical equipment;Sanitary and service water system;Steel;kg;1.2;20;06.003;0.682;0.483419616;9.73312E-06
+Technical equipment;Sanitary and service water system;PE;kg;7;50;4.003;0.951;14.13945466;3.16683E-05
+Technical equipment;Sanitary and service water system;Steel;kg;100;50;06.003;0.682;40.284968;0.000324437
+Technical equipment;Gas system;Brass;kg;68;50;06.009;2.71;293.8688615;0.000876647
+Technical equipment;Gas system;Chrome Steel;kg;10;50;06.006;2.24;39.03010431;0.00010656
+Technical equipment;Gas system;Chrome Steel;kg;4733.4;50;06.006;2.24;18474.50958;0.050439161
+Technical equipment;Gas system;Rockwool;kg;96.6;50;10.008;1.13;105.2272329;0.000519281
+Technical equipment;Gas system;Chrome Steel;kg;357.7;50;06.006;2.24;1396.106831;0.003811655
+Technical equipment;Gas system;Rockwool;kg;7.3;50;10.008;1.13;7.951954456;3.92417E-05
+Technical equipment;Gas system;Chrome Steel;kg;186.2436656;40;06.006;2.24;726.9109696;0.002480768
+Technical equipment;Gas system;PE;kg;10;50;4.003;0.951;20.19922095;4.52405E-05
+Technical equipment;Gas system;Steel;kg;500;50;06.003;0.682;201.42484;0.001622187
+Technical equipment;Vacuum system;VacuumPump;kg;120;10;FALSE;#N/A;414.0863278;#N/A
+Technical equipment;Vacuum system;Chrome Steel;kg;383.0239581;40;06.006;2.24;1494.946504;0.005101884
+Technical equipment;Vacuum system;brass;kg;8.4;20;06.009;2.71;39.11684755;0.000270729
+Technical equipment;Vacuum system;Brass;kg;4.2;20;06.009;2.71;18.1507238;0.000135365
+Technical equipment;Vacuum system;PE;kg;5;50;4.003;0.951;10.09961047;2.26202E-05
+Electrical equipment;Electrical and electronic system;PF;kg;27;20;07.013;0.614;96.33885267;0.00019716
+Electrical equipment;Electrical and electronic system;PF;kg;2.36;20;07.013;0.614;8.420729345;1.72332E-05
+Electrical equipment;Electrical and electronic system;ABS;kg;0.300825;20;13.001;7.94;1.446970488;2.84067E-05
+Electrical equipment;Electrical and electronic system;ABS;kg;0.4512375;20;13.001;7.94;2.170455732;4.26101E-05
+Electrical equipment;Electrical and electronic system;ABS;kg;0.184275;20;13.001;7.94;0.886364121;1.7401E-05
+Electrical equipment;Electrical and electronic system;ABS;kg;1.764;20;13.001;7.94;8.484853122;0.000166573
+Electrical equipment;Electrical and electronic system;PA;kg;1.092;20;01.041;0.265;10.74950929;3.44156E-06
+Electrical equipment;Electrical and electronic system;PA;kg;0.777;20;01.041;0.265;7.648689304;2.4488E-06
+Electrical equipment;Electrical and electronic system;PF;kg;25.56;20;07.013;0.614;91.20078053;0.000186645
+Electrical equipment;Electrical and electronic system;Steel;kg;28.4;20;06.003;0.682;11.44093091;0.000230351
+Electrical equipment;Electrical and electronic system;PF;kg;122.25;20;07.013;0.614;436.2009163;0.000892697
+Electrical equipment;Electrical and electronic system;Steel;kg;81.5;20;06.003;0.682;32.83224892;0.000661041
+Electrical equipment;Electrical and electronic system;PF;kg;16.2;20;07.013;0.614;57.8033116;0.000118296
+Electrical equipment;Electrical and electronic system;Steel;kg;18;20;06.003;0.682;7.25129424;0.000145997
+Electrical equipment;Electrical and electronic system;PF;kg;6.12;20;07.013;0.614;21.83680661;4.46896E-05
+Electrical equipment;Electrical and electronic system;Steel;kg;6.8;20;06.003;0.682;2.739377824;5.51544E-05
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;40.7;10;FALSE;#N/A;1401.021785;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;216.04;10;FALSE;#N/A;7436.775096;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;1.6;10;FALSE;#N/A;55.07702348;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.4;10;FALSE;#N/A;13.76925587;#N/A
+Electrical equipment;Electrical and electronic system;PA;kg;3.15;10;01.041;0.265;31.00819988;1.98551E-05
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;1.19;10;FALSE;#N/A;40.96353621;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;10.332;10;06.003;0.682;4.162242894;0.000167604
+Electrical equipment;Electrical and electronic system;Copper;kg;2.38;10;06.008;2.19;2.609312437;0.000123976
+Electrical equipment;Electrical and electronic system;Chrome Steel;kg;1.428;10;06.006;2.24;5.573498896;7.60839E-05
+Electrical equipment;Electrical and electronic system;UnsaturatedPolyester;kg;5.544;10;FALSE;#N/A;33.3277175;#N/A
+Electrical equipment;Electrical and electronic system;PBT;kg;3.472;10;10.003;6.23;10.78782554;0.000514499
+Electrical equipment;Electrical and electronic system;Polycarbonate;kg;2.324;10;15.003;11.5;19.98082655;0.000635698
+Electrical equipment;Electrical and electronic system;PET;kg;0.644;10;FALSE;#N/A;2.000967641;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.84;10;FALSE;#N/A;28.91543733;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;118.56;20;06.003;0.682;47.76185806;0.000961633
+Electrical equipment;Electrical and electronic system;Chrome Steel;kg;8.32245408;20;06.006;2.24;32.48262509;0.00022171
+Electrical equipment;Electrical and electronic system;Steel;kg;11.71015542;20;06.003;0.682;4.717432364;9.49803E-05
+Electrical equipment;Electrical and electronic system;Steel;kg;17.24907042;20;06.003;0.682;6.948782499;0.000139906
+Electrical equipment;Electrical and electronic system;Steel;kg;247.806;20;06.003;0.682;99.8285678;0.002009939
+Electrical equipment;Electrical and electronic system;Steel;kg;34.866;20;06.003;0.682;14.04575694;0.000282796
+Electrical equipment;Electrical and electronic system;Steel;kg;45.63;20;06.003;0.682;18.3820309;0.000370102
+Electrical equipment;Electrical and electronic system;Steel;kg;106.236;20;06.003;0.682;42.7971386;0.000861673
+Electrical equipment;Electrical and electronic system;Steel;kg;314.73;20;06.003;0.682;126.7888798;0.002552755
+Electrical equipment;Electrical and electronic system;Steel;kg;2.574;20;06.003;0.682;1.036935076;2.08776E-05
+Electrical equipment;Electrical and electronic system;Steel;kg;6.084;20;06.003;0.682;2.450937453;4.93469E-05
+Electrical equipment;Electrical and electronic system;Steel;kg;5.148;20;06.003;0.682;2.073870153;4.17551E-05
+Electrical equipment;Electrical and electronic system;Steel;kg;18.252;20;06.003;0.682;7.352812359;0.000148041
+Electrical equipment;Electrical and electronic system;Steel;kg;10.638225;20;06.003;0.682;4.285605537;8.6286E-05
+Electrical equipment;Electrical and electronic system;aluminium pipe？;kg;0.32;20;FALSE;#N/A;1.266946435;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;2.68;20;06.003;0.682;1.079637142;2.17373E-05
+Electrical equipment;Electrical and electronic system;Galvanized Steel;kg;4.399;20;06.011;3.51;3.159129688;0.000183632
+Electrical equipment;Electrical and electronic system;Polycarbonate;kg;0.645;20;15.003;11.5;5.545453153;8.82154E-05
+Electrical equipment;Electrical and electronic system;SiliconRubber;kg;0.239;20;FALSE;#N/A;19.57349923;#N/A
+Electrical equipment;Electrical and electronic system;Polycarbonate;kg;0.119;20;15.003;11.5;1.023114613;1.62754E-05
+Electrical equipment;Electrical and electronic system;ABS;kg;0.217;20;13.001;7.94;1.043771614;2.04912E-05
+Electrical equipment;Electrical and electronic system;PA;kg;0.014;20;01.041;0.265;0.137814222;4.41225E-08
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.448;20;FALSE;#N/A;15.42156657;#N/A
+Electrical equipment;Electrical and electronic system;Chrome Steel;kg;793.259136;20;06.006;2.24;3096.098683;0.021132445
+Electrical equipment;Electrical and electronic system;Chrome Steel;kg;138.4128;20;06.006;2.24;540.2266022;0.003687321
+Electrical equipment;Electrical and electronic system;Steel;kg;18.56;20;06.003;0.682;7.476890061;0.000150539
+Electrical equipment;Electrical and electronic system;aluminium pipe？;kg;11.952;20;FALSE;#N/A;47.32044935;#N/A
+Electrical equipment;Electrical and electronic system;Polycarbonate;kg;1.328;20;15.003;11.5;11.41761517;0.000181628
+Electrical equipment;Electrical and electronic system;Polycarbonate;kg;25.02;20;15.003;11.5;215.1119967;0.003421935
+Electrical equipment;Electrical and electronic system;Steel;kg;868.185;10;06.003;0.682;349.7480494;0.014083587
+Electrical equipment;Electrical and electronic system;aluminium pipe？;kg;71.94;10;FALSE;#N/A;284.8253954;#N/A
+Electrical equipment;Electrical and electronic system;Copper;kg;81.75;10;06.008;2.19;89.62659317;0.00425842
+Electrical equipment;Electrical and electronic system;Chrome Steel;kg;336.81;10;06.006;2.24;1314.572943;0.017945255
+Electrical equipment;Electrical and electronic system;Epoxy Resin;kg;35.97;10;FALSE;#N/A;144.8440343;#N/A
+Electrical equipment;Electrical and electronic system;PA;kg;17.985;10;01.041;0.265;177.0420555;0.000113363
+Electrical equipment;Electrical and electronic system;PBT;kg;39.24;10;10.003;6.23;121.922314;0.005814785
+Electrical equipment;Electrical and electronic system;Polyphtalamide;kg;14.715;10;FALSE;#N/A;144.8525909;#N/A
+Electrical equipment;Electrical and electronic system;UnsaturatedPolyester;kg;6.54;10;FALSE;#N/A;39.31516458;#N/A
+Electrical equipment;Electrical and electronic system;PE;kg;4.905;10;4.003;0.951;9.907717875;0.000110952
+Electrical equipment;Electrical and electronic system;PF;kg;3.27;10;07.013;0.614;11.66770549;4.77565E-05
+Electrical equipment;Electrical and electronic system;SulfurHexafluorideGas;kg;13.08;10;FALSE;#N/A;1793.159635;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;40;10;06.003;0.682;16.1139872;0.000648875
+Electrical equipment;Electrical and electronic system;Steel;kg;47;10;06.003;0.682;18.93393496;0.000762428
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;9.4;10;FALSE;#N/A;323.577513;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;35.25;10;06.003;0.682;14.20045122;0.000571821
+Electrical equipment;Electrical and electronic system;PF;kg;23.5;10;07.013;0.614;83.85048288;0.000343204
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;11.75;10;FALSE;#N/A;404.4718912;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;64;10;06.003;0.682;25.78237952;0.0010382
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;16;10;FALSE;#N/A;550.7702348;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;12;10;06.003;0.682;4.83419616;0.000194662
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;3.6;10;FALSE;#N/A;123.9233028;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;2.34;10;06.003;0.682;0.942668251;3.79592E-05
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.6;10;FALSE;#N/A;20.65388381;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;80;10;06.003;0.682;32.2279744;0.00129775
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.44;10;FALSE;#N/A;15.14618146;#N/A
+Electrical equipment;Electrical and electronic system;PF;kg;11.178;10;07.013;0.614;39.88428501;0.000163248
+Electrical equipment;Electrical and electronic system;PF;kg;44.04375;10;07.013;0.614;157.1527534;0.000643234
+Electrical equipment;Electrical and electronic system;PF;kg;2.20725;10;07.013;0.614;7.875701206;3.22357E-05
+Electrical equipment;Electrical and electronic system;PF;kg;2.754;10;07.013;0.614;9.826562973;4.02206E-05
+Electrical equipment;Electrical and electronic system;PF;kg;123.2022552;10;07.013;0.614;439.5986633;0.0017993
+Electrical equipment;Electrical and electronic system;Steel;kg;73.008;10;06.003;0.682;29.41124944;0.001184327
+Electrical equipment;Electrical and electronic system;PF;kg;20.80116207;10;07.013;0.614;74.220744;0.000303789
+Electrical equipment;Electrical and electronic system;Steel;kg;11.583;10;06.003;0.682;4.666207843;0.000187898
+Electrical equipment;Electrical and electronic system;PF;kg;36.15559655;10;07.013;0.614;129.0069885;0.000528032
+Electrical equipment;Electrical and electronic system;Steel;kg;15.795;10;06.003;0.682;6.363010696;0.000256224
+Electrical equipment;Electrical and electronic system;PF;kg;76.72508276;10;07.013;0.614;273.7632016;0.001120527
+Electrical equipment;Electrical and electronic system;Steel;kg;40.014;10;06.003;0.682;16.1196271;0.000649102
+Electrical equipment;Electrical and electronic system;PF;kg;234.4377529;10;07.013;0.614;836.4986717;0.003423833
+Electrical equipment;Electrical and electronic system;Steel;kg;122.265;10;06.003;0.682;49.25441612;0.001983367
+Electrical equipment;Electrical and electronic system;Steel;kg;162.63;10;06.003;0.682;65.51544346;0.002638163
+Electrical equipment;Electrical and electronic system;Steel;kg;2.95;10;06.003;0.682;1.188406556;4.78545E-05
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.3;10;FALSE;#N/A;10.3269419;#N/A
+Electrical equipment;Electrical and electronic system;ABS;kg;0.224;10;13.001;7.94;1.077441666;4.23044E-05
+Electrical equipment;Electrical and electronic system;Glass;kg;0.098;10;03.005;1.16;0.097364851;2.70396E-06
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.026;10;FALSE;#N/A;0.895001632;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.22;10;FALSE;#N/A;7.573090729;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;11.88625;10;FALSE;#N/A;409.162044;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;16.705;10;FALSE;#N/A;575.0385483;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;2.25;10;FALSE;#N/A;77.45206427;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;2.52;10;FALSE;#N/A;86.74631198;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;1.72;10;FALSE;#N/A;59.20780024;#N/A
+Electrical equipment;Electrical and electronic system;ElectronicCircuit;kg;0.474;10;FALSE;#N/A;16.31656821;#N/A
+Electrical equipment;Electrical and electronic system;Steel;kg;1.273;10;06.003;0.682;0.512827643;2.06504E-05
+Electrical equipment;Electrical and electronic system;Copper;kg;2.45;10;06.008;2.19;2.686056921;0.000127622
+Electrical equipment;Electrical and electronic system;PA;kg;6.16;10;01.041;0.265;60.63825755;3.88278E-05
+Electrical equipment;Lighting;Steel;kg;2.455494881;25;06.003;0.682;0.989195327;1.59331E-05
+Electrical equipment;Lighting;ElectronicCircuit;kg;1.052354949;25;FALSE;#N/A;36.22536139;#N/A
+Electrical equipment;Lighting;Steel;kg;1.872798635;25;06.003;0.682;0.754456331;1.21521E-05
+Electrical equipment;Lighting;ElectronicCircuit;kg;0.802627986;25;FALSE;#N/A;27.62897528;#N/A
+Electrical equipment;Lighting;Steel;kg;5.035699659;25;06.003;0.682;2.028629996;3.26754E-05
+Electrical equipment;Lighting;ElectronicCircuit;kg;2.158156997;25;FALSE;#N/A;74.29053974;#N/A
+Electrical equipment;Lighting;Steel;kg;5.160409556;25;06.003;0.682;2.078869338;3.34846E-05
+Electrical equipment;Lighting;ElectronicCircuit;kg;2.211604096;25;FALSE;#N/A;76.13035669;#N/A
+Electrical equipment;Lighting;Steel;kg;3.145699659;25;06.003;0.682;1.267244101;2.04117E-05
+Electrical equipment;Lighting;ElectronicCircuit;kg;1.348156997;25;FALSE;#N/A;46.4077966;#N/A
+Electrical equipment;Lighting;Steel;kg;70.46969283;25;06.003;0.682;28.38869321;0.00045726
+Electrical equipment;Lighting;ElectronicCircuit;kg;30.20129693;25;FALSE;#N/A;1039.623463;#N/A
+Electrical equipment;Lighting;Aluminum profile;kg;74.25;25;06.002;5.71;293.971165;0.004033752
+Electrical equipment;Lighting;PMMA;kg;11.286;25;15.001;11.7;102.4377652;0.001256327
+Electrical equipment;Lighting;PMMA;kg;2.478;25;15.001;11.7;22.49165179;0.000275844
+Electrical equipment;Lighting;Polycarbonate;kg;2.16822816;25;15.003;11.5;18.6415623;0.000237235
+Electrical equipment;Lighting;Aluminum profile;kg;1.7704656;25;06.002;5.71;7.009640876;9.61834E-05
+Electrical equipment;Lighting;Polycarbonate;kg;2.793141701;25;15.003;11.5;24.01432008;0.00030561
+Electrical equipment;Lighting;Aluminum profile;kg;2.1016584;25;06.002;5.71;8.32090193;0.000114176
+Electrical equipment;Lighting;Polycarbonate;kg;32.26666667;25;15.003;11.5;277.415951;0.003530438
+Electrical equipment;Lighting;Aluminum profile;kg;64.53333333;25;06.002;5.71;255.5008644;0.003505878
+Electrical equipment;Lighting;Polyester;kg;38.77203846;25;15.004;8.85;233.07784;0.003264664
+Electrical equipment;Lighting;PMMA;kg;28.19784615;25;15.001;11.7;255.9387154;0.003138907
+Electrical equipment;Lighting;LED;kg;16.73011538;25;06.002.01;2.94;4925.955318;0.000467975
+Electrical equipment;Lighting;Steel;kg;591.324552;25;06.003;0.682;238.2149065;0.003836957
+Electrical equipment;Lighting;PMMA;kg;109.1771899;25;15.001;11.7;990.9504995;0.012153305
+Electrical equipment;Lighting;LED;kg;83.49825812;25;06.002.01;2.94;24584.92839;0.002335616
+Electrical equipment;Lighting;Steel;kg;10.6786836;25;06.003;0.682;4.301904271;6.92913E-05
+Electrical equipment;Lighting;PMMA;kg;1.943370961;25;15.001;11.7;17.63907302;0.000216331
+Electrical equipment;Lighting;LED;kg;1.486281982;25;06.002.01;2.94;437.6155493;4.15743E-05
+Electrical equipment;Lighting;Steel;kg;32.0501376;25;06.003;0.682;12.91138768;0.000207965
+Electrical equipment;Lighting;PMMA;kg;5.855731711;25;15.001;11.7;53.14974923;0.000651844
+Electrical equipment;Lighting;LED;kg;4.478439117;25;06.002.01;2.94;1318.615591;0.000125271
+Electrical equipment;Lighting;Steel;kg;74.9613384;25;06.003;0.682;30.19815119;0.000486405
+Electrical equipment;Lighting;PMMA;kg;13.90736281;25;15.001;11.7;126.2306544;0.001548129
+Electrical equipment;Lighting;LED;kg;10.6362929;25;06.002.01;2.94;3131.712029;0.000297519
+Electrical equipment;Lighting;Aluminum profile;kg;628.155;25;06.002;5.71;2486.996056;0.034125542
+Electrical equipment;Lighting;PMMA;kg;76.33125;25;15.001;11.7;692.8232023;0.008496985
+Electrical equipment;Lighting;ElectronicCircuit;kg;119.671875;25;FALSE;#N/A;4119.481668;#N/A
+Electrical equipment;Lighting;Aluminum profile;kg;82.70242661;25;06.002;5.71;327.4360768;0.004492944
+Electrical equipment;Lighting;PMMA;kg;10.00911419;25;15.001;11.7;90.84806745;0.001114187
+Electrical equipment;Lighting;PMMA;kg;11.81867156;25;15.001;11.7;107.2725768;0.001315622
+Electrical equipment;Lighting;Chromium;kg;2.246238747;25;06.005;5.45;52.04043527;0.000116474
+Electrical equipment;Lighting;ElectronicCircuit;kg;19.61531913;25;FALSE;#N/A;675.2208702;#N/A
+Electrical equipment;Lighting;Aluminum profile;kg;4.962145596;25;06.002;5.71;19.64616461;0.000269577
+Electrical equipment;Lighting;PMMA;kg;1.329600551;25;15.001;11.7;12.06816489;0.000148007
+Electrical equipment;Lighting;Chromium;kg;0.1796991;25;06.005;5.45;4.163234822;9.31792E-06
+Electrical equipment;Lighting;ElectronicCircuit;kg;0.882689361;25;FALSE;#N/A;30.38493916;#N/A
+Electrical equipment;Lighting;Aluminum profile;kg;99.24291193;25;06.002;5.71;392.9232921;0.005391533
+Electrical equipment;Lighting;PMMA;kg;35.45601469;25;15.001;11.7;321.8177305;0.003946866
+Electrical equipment;Lighting;ElectronicCircuit;kg;23.53838296;25;FALSE;#N/A;810.2650443;#N/A
+Electrical equipment;Lighting;Aluminum profile;kg;216.6803577;25;06.002;5.71;857.8825211;0.011771513
+Electrical equipment;Lighting;PMMA;kg;38.70614937;25;15.001;11.7;351.3176891;0.004308662
+Electrical equipment;Lighting;ElectronicCircuit;kg;25.69606806;25;FALSE;#N/A;884.53934;#N/A
+Electrical equipment;Lighting;SiliconRubber;kg;0.384;25;FALSE;#N/A;31.44863474;#N/A
+Electrical equipment;Lighting;Aluminum profile;kg;0.003402;25;06.002;5.71;0.013469224;1.84819E-07
+Electrical equipment;Lighting;ElectronicCircuit;kg;0.096;25;FALSE;#N/A;3.304621409;#N/A
+Electrical equipment;Lighting;LED;kg;1.4395;25;06.002.01;2.94;423.8412299;4.02657E-05
+Electrical equipment;Lighting;Aluminum profile;kg;15.1605;25;06.002;5.71;60.02356697;0.000823619
+Electrical equipment;Cabling and wiring;Copper;kg;710.4;15;06.008;2.19;778.846872;0.024670187
+Electrical equipment;Cabling and wiring;Copper;kg;43.2;15;06.008;2.19;47.36230978;0.001500214
+Electrical equipment;Cabling and wiring;Copper;kg;144;15;06.008;2.19;157.8743659;0.005000714
+Electrical equipment;Cabling and wiring;Copper;kg;38.4;15;06.008;2.19;42.09983092;0.001333524
+Electrical equipment;Cabling and wiring;Copper;kg;120;15;06.008;2.19;131.5619716;0.004167261
+Electrical equipment;Cabling and wiring;Copper;kg;487.2;15;06.008;2.19;534.1416048;0.016919081
+Electrical equipment;Cabling and wiring;Copper;kg;240;15;06.008;2.19;263.1239432;0.008334523
+Electrical equipment;Cabling and wiring;Copper;kg;180;15;06.008;2.19;197.3429574;0.006250892
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;109.6;15;13.004;4.42;214.5894523;0.007681715
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;57.6;15;13.004;4.42;112.7769384;0.004037106
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;132.3;15;13.004;4.42;259.0345304;0.009272727
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;26.3;15;13.004;4.42;51.49363681;0.001843331
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;80.4;15;13.004;4.42;157.4178099;0.005635127
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;259.55;15;13.004;4.42;508.1814994;0.018191507
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;79.3;15;13.004;4.42;155.2640836;0.005558029
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;32.85;15;13.004;4.42;64.31809769;0.002302412
+Electrical equipment;Cabling and wiring;Copper;kg;158.4;15;06.008;2.19;173.6618025;0.005500785
+Electrical equipment;Cabling and wiring;Copper;kg;288;15;06.008;2.19;315.7487319;0.010001427
+Electrical equipment;Cabling and wiring;Copper;kg;1.4;15;06.008;2.19;1.534889669;4.8618E-05
+Electrical equipment;Cabling and wiring;Copper;kg;3.6;15;06.008;2.19;3.946859149;0.000125018
+Electrical equipment;Cabling and wiring;Copper;kg;98.6;15;06.008;2.19;108.1000867;0.0034241
+Electrical equipment;Cabling and wiring;Copper;kg;138.6;15;06.008;2.19;151.9540772;0.004813187
+Electrical equipment;Cabling and wiring;Copper;kg;2.9;15;06.008;2.19;3.179414314;0.000100709
+Electrical equipment;Cabling and wiring;Copper;kg;129;15;06.008;2.19;141.4291195;0.004479806
+Electrical equipment;Cabling and wiring;Copper;kg;1224;15;06.008;2.19;1341.932111;0.042506065
+Electrical equipment;Cabling and wiring;Copper;kg;14.5;15;06.008;2.19;15.89707157;0.000503544
+Electrical equipment;Cabling and wiring;Copper;kg;360;15;06.008;2.19;394.6859149;0.012501784
+Electrical equipment;Cabling and wiring;Copper;kg;150;15;06.008;2.19;164.4524645;0.005209077
+Electrical equipment;Cabling and wiring;Copper;kg;230.4;15;06.008;2.19;252.5989855;0.008001142
+Electrical equipment;Cabling and wiring;Copper;kg;10.1;15;06.008;2.19;11.07313261;0.000350744
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;171.6;15;13.002;5.41;355.4534514;0.014721088
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;222;15;13.002;5.41;459.8523672;0.019044765
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;2.7;15;13.002;5.41;5.59279906;0.000231626
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;4.35;15;13.002;5.41;9.010620708;0.000373174
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;54.4;15;13.002;5.41;112.684544;0.004666825
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;32.4;15;13.002;5.41;67.11358872;0.002779506
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;15.6;15;13.002;5.41;32.31395013;0.001338281
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;531;15;13.002;5.41;1099.917149;0.045553018
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;3536;15;13.002;5.41;7324.495362;0.30334364
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;44.25;15;13.002;5.41;91.65976238;0.003796085
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;1040;15;13.002;5.41;2154.263342;0.089218718
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;287.5;15;13.002;5.41;595.5295296;0.024663828
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;249.6;15;13.002;5.41;517.023202;0.021412492
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;24.9;15;13.002;5.41;51.57803578;0.002136102
+Electrical equipment;Cabling and wiring;Copper;kg;99;15;06.008;2.19;108.5386266;0.003437991
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;231;15;13.002;5.41;478.4950307;0.01981685
+Electrical equipment;Cabling and wiring;Copper;kg;3.48;15;06.008;2.19;3.815297177;0.000120851
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;16.02;15;13.002;5.41;33.18394109;0.001374311
+Electrical equipment;Cabling and wiring;Copper;kg;6.188;15;06.008;2.19;6.784212337;0.000214892
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;9.384;15;FALSE;#N/A;37.15320421;#N/A
+Electrical equipment;Cabling and wiring;PE;kg;20.128;15;4.003;0.951;40.65699192;0.000303533
+Electrical equipment;Cabling and wiring;Copper;kg;237.72;15;06.008;2.19;260.6242658;0.008255345
+Electrical equipment;Cabling and wiring;aluminium pipe？ profile;kg;584.64;15;FALSE;#N/A;2314.711137;#N/A
+Electrical equipment;Cabling and wiring;PE;kg;647.64;15;4.003;0.951;1308.182345;0.009766513
+Electrical equipment;Cabling and wiring;Copper;kg;10.5;15;06.008;2.19;11.51167252;0.000364635
+Electrical equipment;Cabling and wiring;Copper;kg;72.85;15;06.008;2.19;79.86908027;0.002529875
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;3.85;15;13.004;4.42;7.53804189;0.000269841
+Electrical equipment;Cabling and wiring;PE;kg;96.35;15;4.003;0.951;194.6194938;0.001452973
+Electrical equipment;Cabling and wiring;Copper;kg;148.75;10;06.008;2.19;163.0820273;0.007748501
+Electrical equipment;Cabling and wiring;Copper;kg;27;10;06.008;2.19;29.60144362;0.001406451
+Electrical equipment;Cabling and wiring;Copper;kg;43.26;10;06.008;2.19;47.42809077;0.002253447
+Electrical equipment;Cabling and wiring;Copper;kg;6.6;10;06.008;2.19;7.235908439;0.000343799
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;139.5285713;10;FALSE;#N/A;552.4225814;#N/A
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;23.79127359;10;FALSE;#N/A;94.19459142;#N/A
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;21.84704047;10;FALSE;#N/A;86.4969689;#N/A
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;110.3714287;10;13.002;5.41;228.6241565;0.014202688
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;11.00872641;10;13.002;5.41;22.80355361;0.001416612
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;18.89295953;10;13.002;5.41;39.13500973;0.002431162
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;31.4;15;13.002;5.41;65.04218166;0.002693719
+Electrical equipment;Cabling and wiring;Copper;kg;2;15;06.008;2.19;2.192699527;6.94544E-05
+Electrical equipment;Cabling and wiring;Copper;kg;180;15;06.008;2.19;197.3429574;0.006250892
+Electrical equipment;Cabling and wiring;Copper;kg;3;15;06.008;2.19;3.289049291;0.000104182
+Electrical equipment;Cabling and wiring;Copper;kg;135;15;06.008;2.19;148.0072181;0.004688169
+Electrical equipment;Cabling and wiring;Copper;kg;18;15;06.008;2.19;19.73429574;0.000625089
+Electrical equipment;Cabling and wiring;Copper;kg;247.5;15;06.008;2.19;271.3465665;0.008594976
+Electrical equipment;Cabling and wiring;Copper;kg;48.6;15;06.008;2.19;53.28259851;0.001687741
+Electrical equipment;Cabling and wiring;Copper;kg;112.5;15;06.008;2.19;123.3393484;0.003906807
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;3.5;15;13.002;5.41;7.249924708;0.000300255
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;193.5;15;13.002;5.41;400.817266;0.016599829
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;4.2;15;13.002;5.41;8.699909649;0.000360306
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;129;15;13.002;5.41;267.2115107;0.011066552
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;15;15;13.002;5.41;31.07110589;0.001286808
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;198;15;13.002;5.41;410.1385978;0.016985871
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;29.34;15;13.002;5.41;60.77508312;0.002516997
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;93;15;13.002;5.41;192.6408565;0.007978212
+Electrical equipment;Cabling and wiring;Copper;kg;92.4;10;06.008;2.19;101.3027182;0.004813187
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;84.42064821;10;FALSE;#N/A;334.2388728;#N/A
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;87.17935179;10;13.002;5.41;180.5839247;0.011218312
+Electrical equipment;Cabling and wiring;Copper;kg;1.25;15;06.008;2.19;1.370437204;4.3409E-05
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;1.172509003;15;FALSE;#N/A;4.642206566;#N/A
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;1.277490997;15;13.002;5.41;2.64620387;0.000109592
+Electrical equipment;Cabling and wiring;Copper;kg;1.25;15;06.008;2.19;1.370437204;4.3409E-05
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;1.982606132;15;FALSE;#N/A;7.849549285;#N/A
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;3.117393868;15;13.002;5.41;6.457391665;0.000267433
+Electrical equipment;Cabling and wiring;Copper;kg;77.5;15;06.008;2.19;84.96710667;0.002691356
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;79.30424528;15;FALSE;#N/A;313.9819714;#N/A
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;29.19575472;15;13.002;5.41;60.47629242;0.002504623
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;7.382742736;15;13.002;5.41;15.29266542;0.000633345
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;9.449910702;15;13.002;5.41;19.57461174;0.000810682
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;221.4822821;15;13.002;5.41;458.7799626;0.019000351
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;37.79964281;15;13.002;5.41;78.29844695;0.003242727
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;47.24955351;15;13.002;5.41;97.87305869;0.004053408
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;14.76548547;15;13.002;5.41;30.58533084;0.00126669
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;132.8893692;15;13.002;5.41;275.2679776;0.011400211
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;28.34973211;15;13.002;5.41;58.72383522;0.002432045
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;11.81238838;15;13.002;5.41;24.46826467;0.001013352
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;14.76548547;15;13.002;5.41;30.58533084;0.00126669
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;1033.583983;15;13.002;5.41;2140.973159;0.088668305
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;283.4973211;15;13.002;5.41;587.2383522;0.02432045
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;59.06194189;15;13.002;5.41;122.3413234;0.00506676
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;885.9291283;15;13.002;5.41;1835.11985;0.076001405
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;29.53097094;15;13.002;5.41;61.17066168;0.00253338
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;194.9044082;15;13.002;5.41;403.7263671;0.016720309
+Electrical equipment;Cabling and wiring;PE;kg;94.49910702;15;4.003;0.951;190.8808342;0.001425061
+Electrical equipment;Cabling and wiring;Copper;kg;74.5;10;06.008;2.19;81.67805738;0.003880762
+Electrical equipment;Cabling and wiring;PE;kg;10.3910193;10;4.003;0.951;20.98904947;0.000235047
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;18.8589807;10;13.004;4.42;36.92461988;0.001982701
+Electrical equipment;Cabling and wiring;Copper;kg;28;10;06.008;2.19;30.69779338;0.001458541
+Electrical equipment;Cabling and wiring;PE;kg;0.727965559;10;4.003;0.951;1.470433717;1.64668E-05
+Electrical equipment;Cabling and wiring;Polyvinyl chloride (PVC);kg;11.27203444;10;13.004;4.42;22.06988774;0.001185062
+Electrical equipment;Cabling and wiring;Copper;kg;1072.4;10;06.008;2.19;1175.725486;0.055862138
+Electrical equipment;Cabling and wiring;PE;kg;831.11;10;4.003;0.951;1678.777452;0.018799905
+Electrical equipment;Cabling and wiring;Polyester;kg;1059.633333;10;15.004;8.85;6369.978425;0.223056824
+Electrical equipment;Cabling and wiring;Copper;kg;116.5354945;10;06.008;2.19;127.7636619;0.006070423
+Electrical equipment;Cabling and wiring;PE;kg;3985.434672;10;4.003;0.951;8050.267552;0.090151476
+Electrical equipment;Cabling and wiring;Glass Fiber;kg;0.147262156;10;FALSE;#N/A;0.333892313;#N/A
+Electrical equipment;Cabling and wiring;Polyoelfin;kg;11.85273784;10;13.002;5.41;24.55184484;0.00152522
+Electrical equipment;Cabling and wiring;Glass Fiber;kg;0.809941856;10;FALSE;#N/A;1.836407723;#N/A
+Electrical equipment;Cabling and wiring;PE;kg;218.0603689;10;4.003;0.951;440.4649572;0.004932577
+Electrical equipment;Cabling and wiring;aluminium pipe？;kg;11.02699021;10;FALSE;#N/A;43.65814357;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;3.3;50;FALSE;#N/A;113.5963609;#N/A
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;1.492884829;50;FALSE;#N/A;5.910640975;#N/A
+Electrical equipment;Safety, control and protection;Steel;kg;2;50;06.003;0.682;0.80569936;6.48875E-06
+Electrical equipment;Safety, control and protection;Copper;kg;153.1287658;50;06.008;2.19;167.8826861;0.001595319
+Electrical equipment;Safety, control and protection;Copper;kg;102.1796727;50;06.008;2.19;112.02466;0.001064523
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;1.6;50;FALSE;#N/A;6.334732175;#N/A
+Electrical equipment;Safety, control and protection;Steel;kg;254.8459961;50;06.003;0.682;102.664628;0.000826816
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;0.135716803;50;FALSE;#N/A;0.537330998;#N/A
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;0.203575204;50;FALSE;#N/A;0.805996497;#N/A
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;2.171468842;50;FALSE;#N/A;8.597295964;#N/A
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;0.339292007;50;FALSE;#N/A;1.343327494;#N/A
+Electrical equipment;Safety, control and protection;Concrete Block;kg;280.5;50;02.006;0.417;30.23581506;0.000556436
+Electrical equipment;Safety, control and protection;Galvanized Steel;kg;16;50;06.011;3.51;11.49035576;0.000267161
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;157.2759822;50;06.006;2.24;613.8497992;0.001675935
+Electrical equipment;Safety, control and protection;Galvanized Steel;kg;154.1343896;50;06.011;3.51;110.6911857;0.002573673
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;6.622;50;06.006;2.24;25.84573508;7.05641E-05
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;12.24;50;06.006;2.24;47.77284768;0.00013043
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;144.18;50;06.006;2.24;562.736044;0.001536384
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;10;50;06.006;2.24;39.03010431;0.00010656
+Electrical equipment;Safety, control and protection;PF;kg;1.356;50;07.013;0.614;4.838351268;3.96072E-06
+Electrical equipment;Safety, control and protection;Brass;kg;5.424;50;06.009;2.71;23.44036331;6.99255E-05
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;13.112;50;06.006;2.24;51.17627278;0.000139722
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;4;50;06.006;2.24;15.61204173;4.2624E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;5;5;FALSE;#N/A;172.1156984;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;1.7;5;FALSE;#N/A;58.51933745;#N/A
+Electrical equipment;Safety, control and protection;Batteries;kg;0.2;5;FALSE;#N/A;1.54438623;#N/A
+Electrical equipment;Safety, control and protection;Steel;kg;1.3343382;5;06.003;0.682;0.537537717;4.32909E-05
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;19.71880319;5;FALSE;#N/A;78.07083565;#N/A
+Electrical equipment;Safety, control and protection;LED;kg;4.862902684;5;06.002.01;2.94;1431.815668;0.000680126
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;21.56925232;5;06.006;2.24;84.18501679;0.002298422
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;12.3;5;FALSE;#N/A;423.404618;#N/A
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;25.45335;5;06.006;2.24;99.34469056;0.002712312
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;11.4;5;FALSE;#N/A;392.4237923;#N/A
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;0.293685506;5;06.006;2.24;1.146257594;3.12952E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.3;5;FALSE;#N/A;10.3269419;#N/A
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;0.747864;5;06.006;2.24;2.918920993;7.96925E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.6;5;FALSE;#N/A;20.65388381;#N/A
+Electrical equipment;Safety, control and protection;Polycarbonate;kg;0.72144;5;15.003;11.5;6.202653833;0.00039468
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.22008;5;FALSE;#N/A;7.57584458;#N/A
+Electrical equipment;Safety, control and protection;Polycarbonate;kg;33.687024;5;15.003;11.5;289.6276177;0.018429227
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;11.2486556;5;FALSE;#N/A;387.2140429;#N/A
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;21.316608;5;FALSE;#N/A;84.3968766;#N/A
+Electrical equipment;Safety, control and protection;PMMA;kg;28.7629056;5;15.001;11.7;261.0674968;0.016009038
+Electrical equipment;Safety, control and protection;PF;kg;2.34;10;07.013;0.614;8.349367232;3.41744E-05
+Electrical equipment;Safety, control and protection;Steel;kg;2.25;10;06.003;0.682;0.90641178;3.64992E-05
+Electrical equipment;Safety, control and protection;ABS;kg;0.645;10;13.001;7.94;3.102454798;0.000121814
+Electrical equipment;Safety, control and protection;Polycarbonate;kg;0.645;10;15.003;11.5;5.545453153;0.000176431
+Electrical equipment;Safety, control and protection;SiliconRubber;kg;0.571;10;FALSE;#N/A;46.76346468;#N/A
+Electrical equipment;Safety, control and protection;Galvanized Steel;kg;16.583;10;06.011;3.51;11.9090356;0.001384481
+Electrical equipment;Safety, control and protection;Batteries;kg;1.125;10;FALSE;#N/A;8.687172547;#N/A
+Electrical equipment;Safety, control and protection;PA;kg;0.195;10;01.041;0.265;1.919555231;1.22913E-06
+Electrical equipment;Safety, control and protection;PBT;kg;0.059;10;10.003;6.23;0.183318464;8.74292E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;1.19;10;FALSE;#N/A;40.96353621;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.238;10;FALSE;#N/A;8.192707243;#N/A
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;74.88;10;06.006;2.24;292.2574211;0.00398961
+Electrical equipment;Safety, control and protection;Steel;kg;0.5397756;10;06.003;0.682;0.217448428;8.75617E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.2202244;10;FALSE;#N/A;7.580815281;#N/A
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;72.072;10;06.006;2.24;281.2977678;0.00384
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.06;10;FALSE;#N/A;2.065388381;#N/A
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;0.09;10;FALSE;#N/A;0.356328685;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.01;10;FALSE;#N/A;0.344231397;#N/A
+Electrical equipment;Safety, control and protection;Chrome Steel;kg;20;10;06.006;2.24;78.06020863;0.001065601
+Electrical equipment;Safety, control and protection;ABS;kg;17.16;10;13.001;7.94;82.53972765;0.003240816
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;2.42;10;FALSE;#N/A;83.30399802;#N/A
+Electrical equipment;Safety, control and protection;ABS;kg;0.738;10;13.001;7.94;3.54978549;0.000139378
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.063;10;FALSE;#N/A;2.1686578;#N/A
+Electrical equipment;Safety, control and protection;Steel;kg;8;10;06.003;0.682;3.22279744;0.000129775
+Electrical equipment;Safety, control and protection;ABS;kg;4.5;10;13.001;7.94;21.64503347;0.000849864
+Electrical equipment;Safety, control and protection;PMMA;kg;4.5;10;15.001;11.7;40.84440397;0.001252319
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.405;10;FALSE;#N/A;13.94137157;#N/A
+Electrical equipment;Safety, control and protection;ABS;kg;9.75;10;13.001;7.94;46.89757253;0.001841373
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.75;10;FALSE;#N/A;25.81735476;#N/A
+Electrical equipment;Safety, control and protection;Steel;kg;2.7;10;06.003;0.682;1.087694136;4.37991E-05
+Electrical equipment;Safety, control and protection;aluminium pipe？;kg;8.1;10;FALSE;#N/A;32.06958164;#N/A
+Electrical equipment;Safety, control and protection;ABS;kg;1.808;10;13.001;7.94;8.696493449;0.000341457
+Electrical equipment;Safety, control and protection;Glass;kg;0.064;10;03.005;1.16;0.063585209;1.76585E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.208;10;FALSE;#N/A;7.160013053;#N/A
+Electrical equipment;Safety, control and protection;ABS;kg;0.113;10;13.001;7.94;0.543530841;2.1341E-05
+Electrical equipment;Safety, control and protection;Glass;kg;0.004;10;03.005;1.16;0.003974076;1.10366E-07
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.013;10;FALSE;#N/A;0.447500816;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.405;10;07.013;0.614;1.44508279;5.9148E-06
+Electrical equipment;Safety, control and protection;Steel;kg;0.45;10;06.003;0.682;0.181282356;7.29984E-06
+Electrical equipment;Safety, control and protection;PF;kg;0.3656664;10;07.013;0.614;1.30473635;5.34035E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.6343336;10;FALSE;#N/A;21.83575411;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.6059448;10;07.013;0.614;2.162075067;8.84949E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;1.1940552;10;FALSE;#N/A;41.10312893;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.1227636;10;07.013;0.614;0.438033495;1.79289E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.1972364;10;FALSE;#N/A;6.789496146;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.2742498;10;07.013;0.614;0.978552262;4.00527E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.5057502;10;FALSE;#N/A;17.40950978;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;5.302017;10;07.013;0.614;18.91815684;7.7433E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;10.447983;10;FALSE;#N/A;359.6523781;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;1.259712;5;07.013;0.614;4.49478551;3.67948E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;1.620288;5;FALSE;#N/A;55.77540014;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.7313328;5;07.013;0.614;2.609472699;2.13614E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;1.3486672;5;FALSE;#N/A;46.4253594;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.3;5;FALSE;#N/A;10.3269419;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.7313328;5;07.013;0.614;2.609472699;2.13614E-05
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;1.3486672;5;FALSE;#N/A;46.4253594;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.8;5;FALSE;#N/A;27.53851174;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.21438;10;07.013;0.614;0.76493049;3.1309E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.18562;10;FALSE;#N/A;6.389623187;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;0.0914166;10;07.013;0.614;0.326184087;1.33509E-06
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.1085834;10;FALSE;#N/A;3.737781545;#N/A
+Electrical equipment;Safety, control and protection;ElectronicCircuit;kg;0.72;10;FALSE;#N/A;24.78466057;#N/A
+Electrical equipment;Safety, control and protection;PF;kg;1.845;10;07.013;0.614;6.583154933;2.69452E-05
+Electrical equipment;Safety, control and protection;Steel;kg;2.05;10;06.003;0.682;0.825841844;3.32548E-05
+Electrical equipment;Safety, control and protection;Polycarbonate;kg;25;10;15.003;11.5;214.9400447;0.0068384
+Electrical equipment;Generation;Steel;kg;2253.03;30;06.003;0.682;907.6324145;0.012182789
+Electrical equipment;Generation;aluminium pipe？;kg;304.11;30;FALSE;#N/A;1204.034626;#N/A
+Electrical equipment;Generation;Copper;kg;16.35;30;06.008;2.19;17.92531863;0.000283895
+Electrical equipment;Generation;UnsaturatedPolyester;kg;9.81;30;FALSE;#N/A;58.97274688;#N/A
+Electrical equipment;Generation;MineralOil;kg;601.68;30;FALSE;#N/A;2422.845665;#N/A
+Electrical equipment;Generation;LeadBattery;kg;40;5;FALSE;#N/A;21.25186935;#N/A
+Electrical equipment;Generation;Steel;kg;26.4;30;06.003;0.682;10.63523155;0.000142752
+Electrical equipment;Generation;aluminium pipe？;kg;0.265178571;30;FALSE;#N/A;1.049897018;#N/A
+Electrical equipment;Generation;Copper;kg;0.88;30;06.008;2.19;0.964787792;1.528E-05
+Electrical equipment;Generation;Iron;kg;16;30;13.005;1.51;6.44559488;0.000191554
+Electrical equipment;Generation;aluminium pipe？;kg;0.384;30;FALSE;#N/A;1.520335722;#N/A
+Electrical equipment;Supports;Steel;kg;8.5838;50;06.003;0.682;3.457981083;2.78491E-05
+Electrical equipment;Supports;Steel;kg;46.3426;50;06.003;0.682;18.66910158;0.000150353
+Electrical equipment;Supports;Steel;kg;169.2005;50;06.003;0.682;68.16236728;0.00054895
+Electrical equipment;Supports;Steel;kg;25.7;50;06.003;0.682;10.35323678;8.33804E-05
+Electrical equipment;Supports;Steel;kg;52.3438;50;06.003;0.682;21.08668308;0.000169823
+Electrical equipment;Supports;Steel;kg;203.698;50;06.003;0.682;82.05967412;0.000660873
+Electrical equipment;Supports;Steel;kg;33.901;50;06.003;0.682;13.657007;0.000109988
+Electrical equipment;Supports;Steel;kg;83.2996;50;06.003;0.682;33.5572172;0.000270255
+Electrical equipment;Supports;aluminium pipe？;kg;1032.75;50;FALSE;#N/A;4088.871659;#N/A
+Electrical equipment;Supports;aluminium pipe？;kg;223.7625;50;FALSE;#N/A;885.9221927;#N/A
+Electrical equipment;Supports;Steel;kg;91.8407;50;06.003;0.682;36.99799661;0.000297966
+Electrical equipment;Supports;Steel;kg;49.9686;50;06.003;0.682;20.12983452;0.000162117
+Electrical equipment;Supports;Steel;kg;201.923;50;06.003;0.682;81.34461593;0.000655114
+Electrical equipment;Supports;Steel;kg;2847.408;50;06.003;0.682;1147.077402;0.009238058
+Electrical equipment;Supports;Steel;kg;218.116;50;06.003;0.682;87.8679608;0.00070765
+Electrical equipment;Supports;Steel;kg;12.48;50;06.003;0.682;5.027564006;4.04898E-05
+Electrical equipment;Supports;Steel;kg;304.2;50;06.003;0.682;122.5468727;0.000986939
+Electrical equipment;Supports;Steel;kg;18.75;50;06.003;0.682;7.5534315;6.0832E-05
+Electrical equipment;Supports;Steel;kg;4.5;50;06.003;0.682;1.81282356;1.45997E-05
+Electrical equipment;Supports;aluminium pipe？;kg;17;50;FALSE;#N/A;67.30652936;#N/A
+Electrical equipment;Supports;Steel;kg;0.36;50;06.003;0.682;0.145025885;1.16797E-06
+Electrical equipment;Supports;Steel;kg;0.3553;50;06.003;0.682;0.143132491;1.15273E-06
+Electrical equipment;Supports;Steel;kg;1.509;50;06.003;0.682;0.607900167;4.89576E-06
+Electrical equipment;Supports;Steel;kg;30.135;50;06.003;0.682;12.13987511;9.77692E-05
+Electrical equipment;Supports;Steel;kg;2.439;50;06.003;0.682;0.98255037;7.91303E-06
+Electrical equipment;Supports;Steel;kg;35.5225;50;06.003;0.682;14.31022776;0.000115248
+Electrical equipment;Supports;Steel;kg;40.415;50;06.003;0.682;16.28116982;0.000131121
+Electrical equipment;Supports;Rubber;kg;188.1885346;50;08.003;5.21;454.5431196;0.004664204
+Electrical equipment;Supports;Steel;kg;177.1186208;50;06.003;0.682;71.3521797;0.000574639
+Windows;windows;Triple Glazing;m2;851.12208;30;05.013;81.6;40184.16631;0.550652219
+Windows;windows;Window frame wood-aluminium;m2;330.99192;30;05.006;217;119588.684;0.569472168
+;;;;;;;;;16.57170035
+;;;;;;;;;Ignoring items which doesn't match units
