@@ -1,42 +1,42 @@
-﻿Construction;Type;designation;component;GHG [kg CO2/a]
-excavation stock;excavation;excavation stock;Mechanical excavation, untouched floor slab;0
-excavation stock;excavation;excavation new;Mechanical excavation in the area of  the foundation paws;0.000769611
-floor plate;floor slab, foundation;base plate stock;Concrete 40 cm and blinding layer, untouched stock;0
-floor plate;floor slab, foundation;Reinforcement foundation plate;Concrete paws for foundation reinforcement;0.044107887
-floor plate;floor slab, foundation;Bulk under floor plate;Fill Misapor 30cm (below 2/3 of the floor slab, newly concreted);0.011254678
-floor panel;floor slab, foundation;new floor panel;Concrete 30 cm and blinding layer (2/3 of the floor slab newly concreted);0.184014686
-brick wall;Outer wall over terrain;brick wall stock;existing brick wall;0
-Wooden element;Outer wall over terrain;Wooden element with construction straw insulation;Wooden frame, building straw 36cm, clay plaster inside;0.272385794
-Internal thermal insulation;Exterior wallcovering over terrain;Internal thermal insulation type 1;On stock: cellulose fibers,OSB panel 5 years;0.132478995
-Internal thermal insulation;Exterior wallcovering over terrain;Internal thermal insulation type 2;In stock: cellulose fibers, not planked;0
-Cladding metal;Exterior wallcovering over terrain;Cladding metal/trapezoidal sheet metal rear-ventilated;Trapezoidal sheet aluminum including substructure and wind paper 37 years old;0.120136977
-outer cladding overhang;Exterior wallcovering over terrain;outer cladding overhang;cellulose fibers, gypsum fiber board steel substructure;0.039052461
-Inventory window;Windows;Inventory window;existing windows on the ground floor and 1st floor;0
-Window;Windows;Window type 1 new doubling on stock;In stock: Inner doubling of wooden windows with triple IV glazing;0.273466074
-Window;Windows;reuse window type 2 doubling up on inventory;In stock: Inner doubling of wooden windows with double IV glazing, 7 years old;0.139101885
-Window;Windows;Window type 3 box windows double structure;Double light metal window with double IV glazing 30 years old;0
-Window;Windows;Window type 4 Ziegler;Plastic/aluminium frame, triple IV glazing 14 years;0.061152298
-Window;Windows;Window type 5 Orion;Aluminum frame, triple IV glazing, 28 years old;0.031737626
-Door;Doors;Outer doors 1;Entrance door in aluminum with triple glazing, 2 years;0.037216691
-Door;Doors;outer doors 2;Entrance door in aluminum with triple glazing, 20 years old;0.024564005
-Wooden element;roof;Wooden element ceiling insulated;Wooden element ceiling insulated with rock wool 16cm;0.098799689
-Insulated flat roof;roof;Insulated flat roof;Roof structure, CEMWOOD+EPS. Bituminous vapor barrier, protection/separation layer;0.588321683
-interior walls stock;inner wall;interior walls stock;existing interior walls;0
-Brick wall;inner wall;IW 1: sand-lime brick wall;KS 15cm;0.160665113
-Brick wall;inner wall;IW 1: Sand-lime brick wall with cladding;KS 15cm plusNatural stone slab 30mm from Orion 28 years old;0.066751394
-Brick wall;inner wall;IW 2: Concrete wall supporting;Concrete wall bearing 20cm without plaster;0.063962437
-Brick wall;inner wall;IW 3: Lightweight wall;lightweight wallwith 3-layer panelsand rock wool 8cm;0.089677328
-KIW: Structural fire protection: beams concreted;inner wall;KIW: Structural fire protection: beams concreted;Steel girder concreted without reinforcement and formwork;0.079820659
-Ceiling;ceiling construction;ZWD 1: Intermediate ceiling on the gallery floor;Wooden panel on steel beams (intermediate gallery);0
-Ceiling;ceiling construction;ZWD 2: Inventory 1st floor;Concrete ceiling on steel beams (former roof);0
-Ceiling;ceiling construction;ZWD 3: new ceilings;composite ceilingssteel beamswithprofile sheetand over concrete;0.672216338
-Floor covering ;Floor covering, ceiling covering;Floor covering for ZWD 2;parquetwith impact sound on leveling layer;0.110809857
-Floor covering ;Floor covering, ceiling covering;Floor covering for ZWD 3;parquetwith impact sound on leveling layer;0.369674504
-Balcony;balcony;Balcony incl. fall protection;Steel staircase with arcades, Orion at the age of 28;0.141636659
-electrical system;electrical system;office;electrical system office;0.794323237
-electrical system;electrical system;solar power system;Solar power system flat roof 18 years old, new substructure;0.633389819
-heating system;heating system;heat generation;Heat generator 30 W/m2;0.076636306
-heating system;heating system;Heat distribution and emission office;distribution office,Radiators + ceiling spotlights 30 years;0.253999859
-Ventilation system:;Ventilation system:;Exhaust air system kitchen and bathroom;Exhaust air system kitchen and bathroom for office floors above;0.078796865
-Ventilation system:;Ventilation system:;ventilation system office;Ventilation system, mean value spec. Air volume 2 and 4 m3/hm2 EBF,Device 5 years old;0.219727459
-Sanitary Office;water system;Sanitary Office;Sanitary facilities, office, simple, incl. pipes andApparatus 15 years old;0.126936384
+﻿Construction;Type;designation;component;GHG [kg CO2/a];Reuse
+excavation stock;excavation;excavation stock;Mechanical excavation, untouched floor slab;0;1
+excavation stock;excavation;excavation new;Mechanical excavation in the area of  the foundation paws;0.000769611;0
+floor plate;floor slab, foundation;base plate stock;Concrete 40 cm and blinding layer, untouched stock;0;1
+floor plate;floor slab, foundation;Reinforcement foundation plate;Concrete paws for foundation reinforcement;0.044107887;0
+floor plate;floor slab, foundation;Bulk under floor plate;Fill Misapor 30cm (below 2/3 of the floor slab, newly concreted);0.011254678;0
+floor panel;floor slab, foundation;new floor panel;Concrete 30 cm and blinding layer (2/3 of the floor slab newly concreted);0.184014686;0
+brick wall;Outer wall over terrain;brick wall stock;existing brick wall;0;1
+Wooden element;Outer wall over terrain;Wooden element with construction straw insulation;Wooden frame, building straw 36cm, clay plaster inside;0.272385794;0
+Internal thermal insulation;Exterior wallcovering over terrain;Internal thermal insulation type 1;On stock: cellulose fibers,OSB panel 5 years;0.132478995;1
+Internal thermal insulation;Exterior wallcovering over terrain;Internal thermal insulation type 2;In stock: cellulose fibers, not planked;0;0
+Cladding metal;Exterior wallcovering over terrain;Cladding metal/trapezoidal sheet metal rear-ventilated;Trapezoidal sheet aluminum including substructure and wind paper 37 years old;0.120136977;1
+outer cladding overhang;Exterior wallcovering over terrain;outer cladding overhang;cellulose fibers, gypsum fiber board steel substructure;0.039052461;1
+Inventory window;Windows;Inventory window;existing windows on the ground floor and 1st floor;0;1
+Window;Windows;Window type 1 new doubling on stock;In stock: Inner doubling of wooden windows with triple IV glazing;0.273466074;1
+Window;Windows;reuse window type 2 doubling up on inventory;In stock: Inner doubling of wooden windows with double IV glazing, 7 years old;0.139101885;1
+Window;Windows;Window type 3 box windows double structure;Double light metal window with double IV glazing 30 years old;0;1
+Window;Windows;Window type 4 Ziegler;Plastic/aluminium frame, triple IV glazing 14 years;0.061152298;1
+Window;Windows;Window type 5 Orion;Aluminum frame, triple IV glazing, 28 years old;0.031737626;1
+Door;Doors;Outer doors 1;Entrance door in aluminum with triple glazing, 2 years;0.037216691;1
+Door;Doors;outer doors 2;Entrance door in aluminum with triple glazing, 20 years old;0.024564005;1
+Wooden element;roof;Wooden element ceiling insulated;Wooden element ceiling insulated with rock wool 16cm;0.098799689;1
+Insulated flat roof;roof;Insulated flat roof;Roof structure, CEMWOOD+EPS. Bituminous vapor barrier, protection/separation layer;0.588321683;1
+interior walls stock;inner wall;interior walls stock;existing interior walls;0;1
+Brick wall;inner wall;IW 1: sand-lime brick wall;KS 15cm;0.160665113;0
+Brick wall;inner wall;IW 1: Sand-lime brick wall with cladding;KS 15cm plusNatural stone slab 30mm from Orion 28 years old;0.066751394;1
+Brick wall;inner wall;IW 2: Concrete wall supporting;Concrete wall bearing 20cm without plaster;0.063962437;0
+Brick wall;inner wall;IW 3: Lightweight wall;lightweight wallwith 3-layer panelsand rock wool 8cm;0.089677328;1
+KIW: Structural fire protection: beams concreted;inner wall;KIW: Structural fire protection: beams concreted;Steel girder concreted without reinforcement and formwork;0.079820659;0
+Ceiling;ceiling construction;ZWD 1: Intermediate ceiling on the gallery floor;Wooden panel on steel beams (intermediate gallery);0;1
+Ceiling;ceiling construction;ZWD 2: Inventory 1st floor;Concrete ceiling on steel beams (former roof);0;1
+Ceiling;ceiling construction;ZWD 3: new ceilings;composite ceilingssteel beamswithprofile sheetand over concrete;0.672216338;1
+Floor covering ;Floor covering, ceiling covering;Floor covering for ZWD 2;parquetwith impact sound on leveling layer;0.110809857;1
+Floor covering ;Floor covering, ceiling covering;Floor covering for ZWD 3;parquetwith impact sound on leveling layer;0.369674504;1
+Balcony;balcony;Balcony incl. fall protection;Steel staircase with arcades, Orion at the age of 28;0.141636659;1
+electrical system;electrical system;office;electrical system office;0.794323237;0
+electrical system;electrical system;solar power system;Solar power system flat roof 18 years old, new substructure;0.633389819;1
+heating system;heating system;heat generation;Heat generator 30 W/m2;0.076636306;0
+heating system;heating system;Heat distribution and emission office;distribution office,Radiators + ceiling spotlights 30 years;0.253999859;1
+Ventilation system:;Ventilation system:;Exhaust air system kitchen and bathroom;Exhaust air system kitchen and bathroom for office floors above;0.078796865;0
+Ventilation system:;Ventilation system:;ventilation system office;Ventilation system, mean value spec. Air volume 2 and 4 m3/hm2 EBF,Device 5 years old;0.219727459;1
+Sanitary Office;water system;Sanitary Office;Sanitary facilities, office, simple, incl. pipes andApparatus 15 years old;0.126936384;1
