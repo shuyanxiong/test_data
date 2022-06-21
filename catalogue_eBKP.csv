@@ -1,0 +1,137 @@
+﻿C;Construcion Building;C01;foundation, floor slab;C01.01;substructure foundation, floor slab
+C;Construcion Building;C01;foundation, floor slab;C01.02;foundation
+C;Construcion Building;C01;foundation, floor slab;C01.03;bottom plate
+C;Construcion Building;C01;foundation, floor slab;C01.04;Earthbound Staircase, Ramp
+C;Construcion Building;C01;foundation, floor slab;C01.05;Earthbound Landing
+C;Construcion Building;C02;wall construction;C02.01;exterior wall construction
+C;Construcion Building;C02;wall construction;C02.02;interior wall construction
+C;Construcion Building;C03;support structure;C03.01;outside support
+C;Construcion Building;C03;support structure;C03.02;interior support
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.01;floor
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.02;Internal staircase, ramp
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.03;Internal platform
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.04;Construction flat roof
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.05;Construction Pitched roof
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.06;External staircase, ramp
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.07;External platform
+C;Construcion Building;C04;Ceiling construction, roof construction;C04.08;Exterior construction, canopy
+C;Construcion Building;C05;Additional service to construction;C05.01;Breakthrough, slit for machine base
+C;Construcion Building;C05;Additional service to construction;C05.02;construction, insert
+D;engineering building;D01;electrical system;D01.01;Plant generation of heavy current
+D;engineering building;D01;electrical system;D01.02;transformation of heavy current
+D;engineering building;D01;electrical system;D01.03;storage of heavy current
+D;engineering building;D01;electrical system;D01.04;Installation Heavy current Consumers
+D;engineering building;D01;electrical system;D01.05;Heavy current: Luminaires Consumers
+D;engineering building;D01;electrical system;D01.06;Heavy current: Electrical equipment
+D;engineering building;D01;electrical system;D01.07;Plant Generation Weak current
+D;engineering building;D01;electrical system;D01.08;Transformation Weak current Storage
+D;engineering building;D01;electrical system;D01.09;Weak current
+D;engineering building;D01;electrical system;D01.10;Installation low current
+D;engineering building;D01;electrical system;D01.11;consumer low current
+D;engineering building;D02;building automation;D02.01;management level
+D;engineering building;D02;building automation;D02.02;automation level
+D;engineering building;D02;building automation;D02.03;field level
+D;engineering building;D02;building automation;D02.04;room automation
+D;engineering building;D02;building automation;D02.05;automation network
+D;engineering building;D02;building automation;D02.06;Switchgear combination
+D;engineering building;D02;building automation;D02.07;system integration
+D;engineering building;D03;security system;D03.01;Burglar alarm system, hold-up alarm system,
+D;engineering building;D03;security system;D03.02;access control system
+D;engineering building;D03;security system;D03.03;Video surveillance locking
+D;engineering building;D03;security system;D03.04;system
+D;engineering building;D04;Technical fire protection system;D04.01;fire alarm system
+D;engineering building;D04;Technical fire protection system;D04.02;gas warning system
+D;engineering building;D04;Technical fire protection system;D04.03;wet extinguishing system
+D;engineering building;D04;Technical fire protection system;D04.04;dry extinguishing system
+D;engineering building;D04;Technical fire protection system;D04.05;extinguisher
+D;engineering building;D04;Technical fire protection system;D04.06;Smoke and heat treatment system
+D;engineering building;D04;Technical fire protection system;D04.07;Electro-acoustic loudspeaker system
+D;engineering building;D05;Thermal engineering plant;D05.01;Heat source, sink, fuel store Heat
+D;engineering building;D05;Thermal engineering plant;D05.02;Generation
+D;engineering building;D05;Thermal engineering plant;D05.03;heat storage
+D;engineering building;D05;Thermal engineering plant;D05.04;heat distribution
+D;engineering building;D05;Thermal engineering plant;D05.05;heat dissipation
+D;engineering building;D05;Thermal engineering plant;D05.06;Heat procurement: investment share
+D;engineering building;D06;refrigeration plant;D06.01;Cold source, cold sink, fuel store,
+D;engineering building;D06;refrigeration plant;D06.02;cold generation
+D;engineering building;D06;refrigeration plant;D06.03;cold storage
+D;engineering building;D06;refrigeration plant;D06.04;cold distribution
+D;engineering building;D06;refrigeration plant;D06.05;cold delivery
+D;engineering building;D06;refrigeration plant;D06.06;Cooling purchase: investment share
+D;engineering building;D07;ventilation system;D07.01;Outside air supply, exhaust air duct,
+D;engineering building;D07;ventilation system;D07.02;air treatment
+D;engineering building;D07;ventilation system;D07.03;air heat storage
+D;engineering building;D07;ventilation system;D07.04;air distribution
+D;engineering building;D07;ventilation system;D07.05;air delivery
+D;engineering building;D07;ventilation system;D07.06;Air: investment share
+D;engineering building;D08;Water technology system;D08.01;water supply
+D;engineering building;D08;Water technology system;D08.02;water treatment
+D;engineering building;D08;Water technology system;D08.03;water-tank
+D;engineering building;D08;Water technology system;D08.04;water distribution
+D;engineering building;D08;Water technology system;D08.05;Water: fitting, apparatus
+D;engineering building;D08;Water technology system;D08.06;Water: installation element
+D;engineering building;D09;Sewage plant sanitation;D09.01;sanitation
+D;engineering building;D09;Sewage plant sanitation;D09.02;waste water treatment
+D;engineering building;D09;Sewage plant sanitation;D09.03;sewage storage tank
+D;engineering building;D09;Sewage plant sanitation;D09.04;sewage collection
+D;engineering building;D09;Sewage plant sanitation;D09.05;Waste water: fitting, apparatus
+D;engineering building;D10;gas plant;D10.01;gas supply
+D;engineering building;D10;gas plant;D10.02;gas treatment
+D;engineering building;D10;gas plant;D10.03;gas storage
+D;engineering building;D10;gas plant;D10.04;gas distribution
+D;engineering building;D10;gas plant;D10.05;Gas: fitting, apparatus
+D;engineering building;D11;Plant for special media Special media:;D11.01;supply, disposal Special media:
+D;engineering building;D11;Plant for special media Special media:;D11.02;processing
+D;engineering building;D11;Plant for special media Special media:;D11.03;Special media: Storage Special
+D;engineering building;D11;Plant for special media Special media:;D11.04;media: Distribution Special
+D;engineering building;D11;Plant for special media Special media:;D11.05;media: Fittings, apparatus
+D;engineering building;D12;conveyor system;D12.01;passenger elevator
+D;engineering building;D12;conveyor system;D12.02;Freight and service elevator
+D;engineering building;D12;conveyor system;D12.03;Special elevator
+D;engineering building;D12;conveyor system;D12.04;escalator
+D;engineering building;D12;conveyor system;D12.05;moving walkway
+D;engineering building;D12;conveyor system;D12.06;Lifting device, loading station
+E ;Exterior wallcovering building;E01;Exterior wallcovering under terrain;E01.01;Waterproofing of walls under terrain External
+E ;Exterior wallcovering building;E01;Exterior wallcovering under terrain;E01.02;thermal insulation under terrain Protective layer
+E ;Exterior wallcovering building;E01;Exterior wallcovering under terrain;E01.03;under terrain
+E ;Exterior wallcovering building;E02;Exterior wallcovering over terrain;E02.01;Outer coating
+E ;Exterior wallcovering building;E02;Exterior wallcovering over terrain;E02.02;external thermal insulation system
+E ;Exterior wallcovering building;E02;Exterior wallcovering over terrain;E02.03;facade cladding
+E ;Exterior wallcovering building;E02;Exterior wallcovering over terrain;E02.04;system facade
+E ;Exterior wallcovering building;E02;Exterior wallcovering over terrain;E02.05;Façade cladding from below
+E ;Exterior wallcovering building;E02;Exterior wallcovering over terrain;E02.06;External fall protection
+E ;Exterior wallcovering building;E03;element in the outer wall;E03.01;window
+E ;Exterior wallcovering building;E03;element in the outer wall;E03.02;outer door
+E ;Exterior wallcovering building;E03;element in the outer wall;E03.03;outer gate
+E ;Exterior wallcovering building;E03;element in the outer wall;E03.04;Sun protection, weather
+E ;Exterior wallcovering building;E03;element in the outer wall;E03.05;protection, fall protection
+f;roofing building;F01;roof skin;F01.01;Roof waterproofing under
+f;roofing building;F01;roof skin;F01.02;terrain roofing flat roof
+f;roofing building;F01;roof skin;F01.03;Roofing pitched roof
+f;roofing building;F01;roof skin;F01.04;system roof
+f;roofing building;F02;element to roof;F02.01;Element for flat roof
+f;roofing building;F02;element to roof;F02.02;Element for sloping roof
+f;roofing building;F02;element to roof;F02.03;Protection system for roof
+G ;expansion building;G01;partition wall, inner door;G01.01;inner gate Fixed partition
+G ;expansion building;G01;partition wall, inner door;G01.02;Movable partition
+G ;expansion building;G01;partition wall, inner door;G01.03;shaft front
+G ;expansion building;G01;partition wall, inner door;G01.04;interior window
+G ;expansion building;G01;partition wall, inner door;G01.05;inner door
+G ;expansion building;G01;partition wall, inner door;G01.06;inner gate
+G ;expansion building;G02;flooring;G02.01;Substructure to flooring
+G ;expansion building;G02;flooring;G02.02;flooring
+G ;expansion building;G03;wallcovering;G03.01;Substructure for wall cladding
+G ;expansion building;G03;wallcovering;G03.02;cladding
+G ;expansion building;G04;ceiling covering;G04.01;Substructure for ceiling cladding
+G ;expansion building;G04;ceiling covering;G04.02;Ceiling cladding
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.01;Built-in cupboard, shelf, shelf
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.02; Fitted kitchen
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.03;Interior window construction
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.04;inner closure
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.05;Fall and impact protection device,
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.06;special component
+G ;expansion building;G05;Built-ins, protective device for expansion;G05.07;Small component, shelter facility
+G ;expansion building;G06;Supplementary service for expansion;G06.01;Breakthrough, slit to expansion
+G ;expansion building;G06;Supplementary service for expansion;G06.02;foreclosure
+G ;expansion building;G06;Supplementary service for expansion;G06.03;cleaning
+G ;expansion building;G06;Supplementary service for expansion;G06.04;drying
