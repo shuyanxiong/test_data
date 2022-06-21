@@ -1,4 +1,5 @@
-﻿C;Construcion Building;C01;foundation, floor slab;C01.01;substructure foundation, floor slab
+﻿EBKP1;Construction;EBKP2;Component;EBKP3;Element
+C;Construcion Building;C01;foundation, floor slab;C01.01;substructure foundation, floor slab
 C;Construcion Building;C01;foundation, floor slab;C01.02;foundation
 C;Construcion Building;C01;foundation, floor slab;C01.03;bottom plate
 C;Construcion Building;C01;foundation, floor slab;C01.04;Earthbound Staircase, Ramp
