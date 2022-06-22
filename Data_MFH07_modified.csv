@@ -1,0 +1,48 @@
+﻿Item;Composition;L2;L3;L4;GHG kg CO2/m2a;Category
+Floor1;Flooring of polyurethane (PU);Floor covering;flooring;;0.26679098;foundation
+Floor1;Cement cast plaster floor;Floor covering;flooring;;0.327182517;foundation
+Floor1;Glass wool mat;Floor covering;flooring;thermal insulation;0.025428489;foundation
+Floor1;Polyurethane(PU/PIR)(30 kg/m3);Floor covering;flooring;;0.126917414;foundation
+Floor1;Concrete floor slab (FE 80 kg/m3);base slab ;bottom plate;;0.28645024;foundation
+Floor1;Lean concrete;base slab;foundation;;0.049872468;foundation
+Floor2;Cement cast plaster floor;Floor covering;flooring;;0.012046077;foundation
+Floor2;Polyurethane (PU/PIR);Floor covering;flooring;;0.078580839;foundation
+Floor2;Concrete floor slab (FE 80 kg/m3);base slab ;bottom plate;;0.010546412;foundation
+Floor2;Lean concrete;base slab;foundation;;0.001836185;foundation
+Ceilling1;Solid Spruce / Fir / Larch (parquet);Floor covering;flooring;;0.020187672;Ceilling
+Ceilling1;Cement cast plaster floor;Floor covering;flooring;;0.845908035;Ceilling
+Ceilling1;Glass wool mat;Floor covering;flooring;thermal insulation;0.061876348;Ceilling
+Ceilling1;Vapour barrier of polyethylene (PE);Floor covering;flooring;;0.017164971;Ceilling
+Ceilling1;Expanded polystyrene (EPS) (30kg/m3);Floor covering;flooring;thermal insulation;0.078440592;Ceilling
+Ceilling1;Concrete slab (FE 80 kg/mR);Ceiling;ceiling;;0.122871758;Ceilling
+Ceiling2;Solid Spruce / Fir / Larch (parquet);Floor covering;flooring;;0.003177364;Ceilling
+Ceiling2;Cement cast plaster floor;Floor covering;flooring;;0.133138569;Ceilling
+Ceiling2;Vapour barrier of polyethylene (PE);Floor covering;flooring;waterproofing;0.002701617;Ceilling
+Ceiling2;Polyurethane (PU/PIR)(30 kg/m 3);Floor covering;flooring;;0.072911718;Ceilling
+Ceiling2;Glass wool mat;Floor covering;flooring;thermal insulation;0.009738799;Ceilling
+Ceiling2;Concrete slab (FE 80 kg/m3);Ceiling;ceiling;;0.122871758;Ceilling
+External Wall1;Gypsum platser;Exterior wall finishing above ground;Outer coating;;0.016052377;EXTERIOR WALL ABOVE GROUND
+External Wall1;Concrete wall (FE 60 kg/m3);Exterior wall above ground;exterior wall construction;;0.096196414;EXTERIOR WALL ABOVE GROUND
+External Wall1;Expanded polystyrene (EPS) (30kg/m3);Exterior wall finishing above ground;external thermal insulation system;;0.109134737;EXTERIOR WALL ABOVE GROUND
+External Wall1;Clinker quarter brick;Exterior wall above ground;exterior wall construction;;0.033783201;EXTERIOR WALL ABOVE GROUND
+External Wall2;Concrete wall (FE 60 kg/m3);Exterior wall above ground;exterior wall construction;;0.055312938;EXTERIOR WALL ABOVE GROUND
+External Wall2;Extruded polystyrene (XPS) (30kg/m3);Exterior wall finishing above ground;external thermal insulation system;;0.071458969;EXTERIOR WALL ABOVE GROUND
+Internal Wall1;Gypsum platser;wallcovering;Substructure for wall cladding;;0.022072018;INTERIOR WALL
+Internal Wall1;Concrete wall (FE 60 kg/mR);Interior wall;interior wall construction;;0.165337586;INTERIOR WALL
+Internal Wall1;Gypsum platser;wallcovering;Substructure for wall cladding;;0.022072018;INTERIOR WALL
+Internal Wall2;Gypsum platser;wallcovering;Substructure for wall cladding;;0.481410788;INTERIOR WALL
+Internal Wall2;Masonry-BN (standard brick);Interior wall;interior wall construction;;0.508386392;INTERIOR WALL
+Internal Wall2;Gypsum platser;wallcovering;Substructure for wall cladding;;0.048141079;INTERIOR WALL
+Column;Reinforced concrete;Column;outside support;;0.016428778;Column
+Roof1;Gypsum plaster;Roof;Construction flat roof;;0.010327029;Roof
+Roof1;Concrete slab (FE 80 kg/m3);Roof;Construction flat roof;;0.131017952;Roof
+Roof1;Vapour barrier of polyethylene (PE);Roof covering;Roof waterproofing under;;0.002938896;Roof
+Roof1;Polyurethane (PU/PIR)(30 kg/m3);Roof covering;Roof waterproofing under;;0.142533681;Roof
+Roof1;Non-woven polyethylene (PE);Roof covering;Roof waterproofing under;;0.002816442;Roof
+Roof1;Substrate for vegetation;Roof covering;terrain roofing flat roof;;#N/A;Roof
+Roof2;Fibre cement board;Interior Roof finishing;Ceiling cladding;;0.001792452;Roof
+Exterior door;Metal with glass insert;element in the outer wall;outer gate;;0.167398259;Door
+Windows;Tripple Glazing;Window;window;;0.511024477;WINDOW
+Windows;Wood/Aluminium;Window;window;;0.73175545;WINDOW
+Excavation without groundwater;;;;;0.312417231;Construction - Preparatory Work
+Backfill with extraneous material;;;;;0.716405029;Construction - Preparatory Work
